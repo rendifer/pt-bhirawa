@@ -492,3 +492,16 @@
     /* padding: 2rem; */
     background-color: #a40303;
 }
+
+/*** Comparison ***/
+@media (min-width: 500px) {
+    .comparison::after {
+        position: absolute;
+        content: "";
+        width: 2px;
+        top: 56px;
+        bottom: 20px;
+        left: 50%;
+        background: #0e0b0b;
+    }
+}

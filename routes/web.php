@@ -8,6 +8,8 @@ use App\Http\Controllers\Solution\service\DangerousGoodController;
 use App\Http\Controllers\Solution\service\BiomedicalServiceController;
 use App\Http\Controllers\Solution\service\TemperatureServiceController;
 use App\Http\Controllers\Solution\service\LithiumController;
+use App\Http\Controllers\Solution\service\DangerousGoodTrainingController;
+use App\Http\Controllers\Solution\Product\UnBoxesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -30,4 +32,7 @@ Route::get('/Dangerous-Goods-Packaging-Service', [DangerousGoodController::class
 Route::get('/biomedical-service', [BiomedicalServiceController::class, 'index'])->name('biomedical-service');
 Route::get('/Temperature-Sensitive-Packaging', [TemperatureServiceController::class, 'index'])->name('Temperature-Sensitive-Packaging');
 Route::get('/lithium-batteries-shipping', [LithiumController::class, 'index'])->name('lithium-batteries-shipping');
+Route::get('/Dangerous-Goods-Training', [DangerousGoodTrainingController::class, 'index'])->name('Dangerous-Goods-Training');
+
+Route::get('/dangerous-goods-un-boxes', [UnBoxesController::class, 'index'])->name('dangerous-goods-un-boxes');
 

@@ -10,11 +10,11 @@
                 <a href="/biomedical-service" class="dropdown-item">Biomedical Services</a>
                 <a href="/Temperature-Sensitive-Packaging" class="dropdown-item">Temperature Sensitive Packaging</a>
                 <a href="/lithium-batteries-shipping" class="dropdown-item active">Lithium Batteries Shipping</a>
-                <a href="#" class="dropdown-item">Dangerous Goods Training</a>
+                <a href="/Dangerous-Goods-Training" class="dropdown-item">Dangerous Goods Training</a>
             </ul>
             <ul>
                 <h6>PRODUCTS</h6>
-                <a href="#" class="dropdown-item">UN Boxes</a>
+                <a href="/dangerous-goods-un-boxes" class="dropdown-item">UN Boxes</a>
                 <a href="#" class="dropdown-item">DG Labels and Markings</a>
                 <a href="#" class="dropdown-item">Biomedical Packaging</a>
                 <a href="#" class="dropdown-item">Specialized Boxes</a>
@@ -45,8 +45,8 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,128L1440,0L1440,320L0,320Z"></path></svg>
         </div>
     </div>
-    <div class="mb-5 ms-auto">
-        <img class="img-fluid" src="template/img/icon/barang.jpg" alt="" style=" margin-top: -45%; width: 40%; margin-left: 30%;">
+    <div class="mb-5">
+        <img class="img-fluid" src="template/img/icon/box7.png" alt="" style=" margin-top: -45%; margin-left: 16%; width: 70%;">
     </div>
 
     <div class="container-xxl py-5">
@@ -65,21 +65,9 @@
                         <div class="d-flex pt-2">
                             <img
                                 class="flex-shrink-0 me-3"
-                                src="template/img/icon/barang.jpg"
+                                src="template/img/icon/icon1.png"
                                 alt=""
-                                style="width: 30%;"
-                            />
-                            <img
-                                class="flex-shrink-0 me-3"
-                                src="template/img/icon/barang.jpg"
-                                alt=""
-                                style="width: 30%;"
-                            />
-                            <img
-                                class="flex-shrink-0 me-3"
-                                src="template/img/icon/barang.jpg"
-                                alt=""
-                                style="width: 30%;"
+                                style="width: 90%;"
                             />
                         </div>
                     </div>
@@ -139,7 +127,7 @@
         <div class="container" style="text-align: center;">
             <div class="row g-12 ">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid mt-3 mb-3" src="template/img/icon/icon-02-danger.png" alt="" style="">
+                    <img class="img-fluid mt-3 mb-3" src="template/img/icon/icon2.png" alt="" style="">
                     <h3 class="text-dark mb-3 text-center">Worldwide Shipping Of Lithium Batteries - <span class="text-danger">Safely & Swiftly</span></h3>
                     <p class="text-dark mb-3 text-center">Dangerous goods are highly hazardous and without proper care of transporting and handling, the risk of large-scale damages may arise.</p>
                     <p class="text-dark text-center">Here at DG Packaging, our team is committed to providing top-notch overseas shipping services that comply with the IATA regulations for air shipments and IMDG for sea shipments.</p>
@@ -169,7 +157,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon3.png" alt="">
                             <p>With appropriate inner and outer packaging, our UN-certified boxes are made to withstand high falls with no damage to make certain that the lithium metal & ion batteries don't compromise anyone's safety.</p>
                         </div>
                     </div>
@@ -177,7 +165,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon4.png" alt="">
                             <p>Our experts will determine the characteristics of your batteries and recommend the compliant packaging solution and labels required for the shipment.</p>
                         </div>
                     </div>
@@ -185,7 +173,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon5.png" alt="">
                             <p>It's our duty to ensure that your lithium-ion and metal batteries are correctly declared, packaged, labelled and supplied with the correct documentation for the countries of origin, transit, and destination.</p>
                         </div>
                     </div>
@@ -204,7 +192,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon6.png" style="width: 30%;" alt="">
                             <h6 class="text-danger">Dangerous Goods Packaging Services</h6>
                             <p>We have a team of trained professionals who will provide you with the highest level of safety and service possible, whether it is handling, packing or transporting dangerous goods. The services we offer include packaging, labeling and marking of dangerous goods, repackaging and inspection services on-site, and more!</p>
                         </div>
@@ -213,7 +201,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-5">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon7.png" style="width: 30%;" alt="">
                             <h6 class="text-danger">Biomedical Services</h6>
                             <p>
                                 In order to pack biomedical items, there is a need to pre-sterilize, breathability needs, degree levels of protection as well as individual dimensions of components. We offer comprehensive packaging for industries such as Biomedical, Biotech, Clinical & Pharmaceutical. Additionally, our clients can request custom medical packaging!
@@ -224,7 +212,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon8.png" style="width: 30%;" alt="">
                             <h6 class="text-danger">Temperature Sensitive Packaging</h6>
                             <p>
                                 Our team has a vast knowledge of insulating materials and refrigerants. We provide solutions that comply with IATA regulations, which take into account your goods' characteristics and the environment of transit. You can be confident that your goods will remain within the safe temperature range during any overseas shipping, air logistics, or unexpected delays at any stopover.
@@ -237,20 +225,6 @@
     </div>
 
     <div class="container-fluid overflow-hidden mb-5 lithium">
-        <div class="container px-lg-0">
-            <div class="row g-0 mx-lg-0">
-                {{-- <div class="col-lg-12 facts-text wow fadeIn mt-5 bg-white" data-wow-delay="0.1s">
-                    <div class="h-100 px-4 ps-lg-0 text-center">
-                        <span class="">The Best Solution To Transport Lithium Batteries Because We Don't Do Good, We Do Great.</span>
-                        <h1 class=" mb-4 ">TRANSPORT DANGEROUS GOODS SAFELY & EFFORTLESSLY</h1>
-                        <p class="text-dark mb-3 ">
-                            To keep battery shipments by air as safe as possible, the International Civil Aviation Organization (ICAO) adopted a more restrictive global regulation. As of January 1, 2022, IATA Packing Instructions PI 965 and PI 968 no longer contain Section II provisions of the DGR. Learn how DG Packaging can help to ship your lithium batteries safely.
-                        </p>
-                        <a href="/about" class="btn btn-light">About Us</a>
-                    </div>
-                </div> --}}
-            </div>
-        </div>
         <div style="margin-top: 0%;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,320L1440,32L1440,320L0,320Z"></path></svg>
         </div>
@@ -264,7 +238,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon9.png" alt="">
                             <p>Global shipping companies collaborate with us to get accurate and safe transportation of battery deliveries.</p>
                         </div>
                     </div>
@@ -272,7 +246,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon10.png" alt="">
                             <p>
                                 We offer the right packing solutions and adhere to the safety regulations and procedures because you deserve to have peace of mind.
                             </p>
@@ -282,7 +256,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon-02-danger.png" alt="">
+                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon11.png" alt="">
                             <p>
                                 Safety is our top priority. Whether it's the cargo, our personnel or our client, we take pride in safety excellence.
                             </p>
@@ -308,7 +282,7 @@
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container px-lg-5">
             <h3 class="text-center mb-5">Why <span class="text-danger">Clients</span> Choose Us</h3>
-            <div class="owl-carousel testimonial-carouse2">
+            <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item position-relative bg-light border-top border-5 border-danger rounded p-4 my-4">
                     <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
                         <i class="fa fa-quote-left text-white"></i>
@@ -419,7 +393,7 @@
                 </div>
             </div>
         </div>
-        <div class="justify-content-center" style="margin-left: 47%;">
+        <div class="mt-3" style="text-align: center;">
             <a href="/" class="btn btn-danger mb-3">View More</a>
         </div>
     </div>
@@ -457,8 +431,8 @@
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Subject">
-                                    <label for="subject">Subject</label>
+                                    <input type="text" class="form-control" id="subject" placeholder="Your Phone Number">
+                                    <label for="subject">Phone</label>
                                 </div>
                             </div>
                             <div class="col-12">

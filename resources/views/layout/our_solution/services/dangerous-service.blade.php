@@ -10,11 +10,11 @@
                 <a href="/biomedical-service" class="dropdown-item">Biomedical Services</a>
                 <a href="/Temperature-Sensitive-Packaging" class="dropdown-item">Temperature Sensitive Packaging</a>
                 <a href="/lithium-batteries-shipping" class="dropdown-item">Lithium Batteries Shipping</a>
-                <a href="#" class="dropdown-item">Dangerous Goods Training</a>
+                <a href="/Dangerous-Goods-Training" class="dropdown-item">Dangerous Goods Training</a>
             </ul>
             <ul>
                 <h6>PRODUCTS</h6>
-                <a href="#" class="dropdown-item">UN Boxes</a>
+                <a href="/dangerous-goods-un-boxes" class="dropdown-item">UN Boxes</a>
                 <a href="#" class="dropdown-item">DG Labels and Markings</a>
                 <a href="#" class="dropdown-item">Biomedical Packaging</a>
                 <a href="#" class="dropdown-item">Specialized Boxes</a>
@@ -54,20 +54,20 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div
                         class="position-relative rounded overflow-hidden h-100"
-                        style="min-height: 400px"
+                        style="min-height: 300px"
                     >
                         <img
-                            class="position-absolute w-100 h-100"
-                            src="template/img/icon/barang.jpg"
+                            class="position-absolute w-80 h-100"
+                            src="template/img/icon/box2.jpg"
                             alt=""
                             style="object-fit: cover"
                         />
                     </div>
                 </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.1s">
                     <span>WE PROVIDE COMPREHENSIVE</span>
                     <h2 class="mb-3 text-danger">
                         HAZARDOUS PACKING

@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                    <h1 class="display-6 mb-5 text-danger">NEED HELP? CONTACT US!</h1>
+                    <h3 class="mb-5 text-danger">NEED HELP? CONTACT US!</h3>
                     <form>
                         <div class="row g-3">
                             <div class="col-md-6">
