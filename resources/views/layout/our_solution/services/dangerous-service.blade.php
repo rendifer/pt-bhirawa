@@ -15,10 +15,10 @@
             <ul>
                 <h6>PRODUCTS</h6>
                 <a href="/dangerous-goods-un-boxes" class="dropdown-item">UN Boxes</a>
-                <a href="#" class="dropdown-item">DG Labels and Markings</a>
-                <a href="#" class="dropdown-item">Biomedical Packaging</a>
-                <a href="#" class="dropdown-item">Specialized Boxes</a>
-                <a href="#" class="dropdown-item">Other Packaging Materials</a>
+                <a href="/dangerous-goods-classification" class="dropdown-item">DG Labels and Markings</a>
+                <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
+                <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>
+                <a href="/other-packaging-materials" class="dropdown-item">Other Packaging Materials</a>
             </ul>
         </div>
     </div>

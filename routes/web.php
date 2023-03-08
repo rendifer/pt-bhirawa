@@ -10,6 +10,10 @@ use App\Http\Controllers\Solution\service\TemperatureServiceController;
 use App\Http\Controllers\Solution\service\LithiumController;
 use App\Http\Controllers\Solution\service\DangerousGoodTrainingController;
 use App\Http\Controllers\Solution\Product\UnBoxesController;
+use App\Http\Controllers\Solution\Product\DgLabelsController;
+use App\Http\Controllers\Solution\Product\BiomedicalController;
+use App\Http\Controllers\Solution\Product\SpesializedController;
+use App\Http\Controllers\Solution\Product\MaterialisController;
 
 /*
 |--------------------------------------------------------------------------
@@ -35,4 +39,8 @@ Route::get('/lithium-batteries-shipping', [LithiumController::class, 'index'])->
 Route::get('/Dangerous-Goods-Training', [DangerousGoodTrainingController::class, 'index'])->name('Dangerous-Goods-Training');
 
 Route::get('/dangerous-goods-un-boxes', [UnBoxesController::class, 'index'])->name('dangerous-goods-un-boxes');
+Route::get('/dangerous-goods-classification', [DgLabelsController::class, 'index'])->name('dangerous-goods-classification');
+Route::get('/biomedical-packaging', [BiomedicalController::class, 'index'])->name('biomedical-packaging');
+Route::get('/specialized-boxes', [SpesializedController::class, 'index'])->name('specialized-boxes');
+Route::get('/other-packaging-materials', [MaterialisController::class, 'index'])->name('other-packaging-materials');
 

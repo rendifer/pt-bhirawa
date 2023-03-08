@@ -55,7 +55,7 @@
                 @section('about')
                     <a href="/about" class="nav-item nav-link">About Us</a>
                 @show
-                @section('solution')             
+                @section('solution')    
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Our Solution</a>
                         <div class="dropdown-menu bg-light">
@@ -70,10 +70,10 @@
                             <ul>
                                 <h6>PRODUCTS</h6>
                                 <a href="/dangerous-goods-un-boxes" class="dropdown-item">UN Boxes</a>
-                                <a href="#" class="dropdown-item">DG Labels and Markings</a>
-                                <a href="#" class="dropdown-item">Biomedical Packaging</a>
-                                <a href="#" class="dropdown-item">Specialized Boxes</a>
-                                <a href="#" class="dropdown-item">Other Packaging Materials</a>
+                                <a href="/dangerous-goods-classification" class="dropdown-item">DG Labels and Markings</a>
+                                <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
+                                <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>
+                                <a href="/other-packaging-materials" class="dropdown-item">Other Packaging Materials</a>
                             </ul>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                     <a href="https://wa.me/+628971413088/">
                         <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
                     </a>
-                    <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 40%" alt="">
+                    <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 40%" alt="">
                 </div>
                 <div class="mt-2" style="background-color: rgba(245, 239, 239, 0.93);">
                     <a href="https://wa.me/+628971413088/">
@@ -112,66 +112,6 @@
           </div>
         </div>
     </div>
-
-    {{-- <div class="container-fluid p-0 wow fadeIn" data-wow-delay="0.1s" style="margin-top: -4%;">
-        <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="w-100" src="template/img/carousel-1.jpg" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="container py-5">
-                            <div class="row g-5">
-                                <div class="col-lg-3 col-md-6">
-                                    <h1 class="text-white mb-4"><img class="img-fluid me-3" src="template/img/icon/icon-02-light.png" alt="">Insure</h1>
-                                    <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
-                                    <div class="d-flex pt-2">
-                                        <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square me-1" href=""><i class="fab fa-youtube"></i></a>
-                                        <a class="btn btn-square me-0" href=""><i class="fab fa-linkedin-in"></i></a>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-6">
-                                    <h5 class="text-light mb-4">Address</h5>
-                                    <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                                    <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
-                                </div>
-                                <div class="col-lg-3 col-md-6">
-                                    <h5 class="text-light mb-4">Quick Links</h5>
-                                    <a class="btn btn-link" href="">About Us</a>
-                                    <a class="btn btn-link" href="">Contact Us</a>
-                                    <a class="btn btn-link" href="">Our Services</a>
-                                    <a class="btn btn-link" href="">Terms & Condition</a>
-                                    <a class="btn btn-link" href="">Support</a>
-                                </div>
-                                <div class="col-lg-3 col-md-6">
-                                    <h5 class="text-light mb-4">Newsletter</h5>
-                                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                                    <div class="position-relative mx-auto" style="max-width: 400px;">
-                                        <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                                        <button type="button" class="btn btn-dark py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="container-fluid copyright bg-danger text-white">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                                        &copy; <a href="#" class="text-white">Your Site Name</a>, All Right Reserved.
-                                    </div>
-                                    <div class="col-md-6 text-center text-md-end">
-                                        Designed By <a href="https://htmlcodex.com" class="text-white">HTML Codex</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> --}}
 
     <div class="container-fluid appointment footer wow fadeIn" data-wow-delay="0.1s" style="background-image: template/img/icon/icon-02-light.png">
         <div class="container py-5">
@@ -193,20 +133,31 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
-                </div>
-                {{-- <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Newsletter</h5>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                    <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-dark py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                    <a class="btn btn-link" href="/">Home</a>
+                    <a class="btn btn-link" href="/about">About Us</a>
+                    <div class="nav-item dropdown">
+                        <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Our Solution</a>
+                        <div class="dropdown-menu bg-light">
+                            <ul>
+                                <h6>SERVICES</h6>
+                                <a href="/Dangerous-Goods-Packaging-Service" class="dropdown-item">Dangerous Goods Packaging Service</a>
+                                <a href="/biomedical-service" class="dropdown-item">Biomedical Services</a>
+                                <a href="/Temperature-Sensitive-Packaging" class="dropdown-item">Temperature Sensitive Packaging</a>
+                                <a href="/lithium-batteries-shipping" class="dropdown-item">Lithium Batteries Shipping</a>
+                                <a href="/Dangerous-Goods-Training" class="dropdown-item">Dangerous Goods Training</a>
+                            </ul>
+                            <ul>
+                                <h6>PRODUCTS</h6>
+                                <a href="/dangerous-goods-un-boxes" class="dropdown-item">UN Boxes</a>
+                                <a href="/dangerous-goods-classification" class="dropdown-item">DG Labels and Markings</a>
+                                <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
+                                <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>
+                                <a href="/other-packaging-materials" class="dropdown-item">Other Packaging Materials</a>
+                            </ul>
+                        </div>
                     </div>
-                </div> --}}
+                    <a class="btn btn-link" href="/contact">Contact Us</a>
+                </div>
             </div>
         </div>
         <div class="container-fluid copyright appointment text-white">
@@ -215,16 +166,13 @@
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                          Copyright 2023 &copy; DG PACKAGING PTE LTD
                     </div>
-                    {{-- <div class="col-md-6 text-center text-md-end">
-                        Designed By <a href="https://htmlcodex.com" class="text-white">HTML Codex</a>
-                    </div> --}}
                 </div>
             </div>
         </div>
     </div>
 
     <a type="button" style="margin-bottom: 15%;" class="btn btn-success btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
-        <i class="fa-brands fa-whatsapp"></i>
+        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">
     </a>
      
     <a href="#" class="btn btn-lg btn-danger btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
@@ -239,8 +187,6 @@
     <script src="{{ asset('template/lib/counterup/counterup.min.js') }}"></script>
     <script src="{{ asset('template/js/main.js') }}"></script>
 
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="{{ asset('template2/lib/wow2/wow.min.js') }}"></script>
     <script src="{{ asset('template2/lib/easing2/easing.min.js') }}"></script>
     <script src="{{ asset('template2/lib/waypoints2/waypoints.min.js') }}"></script>
