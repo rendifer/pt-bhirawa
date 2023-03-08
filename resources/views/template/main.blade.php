@@ -96,17 +96,17 @@
             </div>
             <div class="modal-body">
                 <p style="margin-top: -2%;">The team typically replies in a few minutes</p>
-                <div style="background-color: rgba(245, 239, 239, 0.93);">
+                <div class="border-5 border-top border-success" style="background-color: rgba(245, 239, 239, 0.93);">
                     <a href="https://wa.me/+628971413088/">
                         <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
                     </a>
-                    <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 40%" alt="">
+                    <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 30%" alt="">
                 </div>
-                <div class="mt-2" style="background-color: rgba(245, 239, 239, 0.93);">
+                <div class="mt-2 border-5 border-top border-success" style="background-color: rgba(245, 239, 239, 0.93);">
                     <a href="https://wa.me/+628971413088/">
                         <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
                     </a>
-                    <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 40%" alt="">
+                    <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 30%" alt="">
                 </div>
             </div>
           </div>

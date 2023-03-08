@@ -32,33 +32,33 @@
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row g-12">
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="bg-danger rounded h-100 p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded h-100 py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-06-primary.png" alt="">
+                            <div class="bg-danger rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-1.png" alt="" style="width: 40%;">
                                     <h5 class="mb-0">Easy Process</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="bg-danger rounded h-100 p-1">
+                            <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-03-primary.png" alt="">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-2.png" alt="" style="width: 40%;">
                                     <h5 class="mb-0">Fast Delivery</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="bg-danger rounded h-100 p-1">
+                            <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-04-primary.png" alt="">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-3.png" alt="" style="width: 40%;">
                                     <h5 class="mb-0">Policy Controlling</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="bg-danger rounded h-100 p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded h-100 py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-07-primary.png" alt="">
+                            <div class="bg-danger rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-4.png" alt="" style="width: 40%;">
                                     <h5 class="mb-0">Money Saving</h5>
                                 </div>
                             </div>
@@ -78,7 +78,7 @@
                     <a href="contact.html" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Produtcs</a>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="template/img/icon/barang.jpg" alt="" style="width: 70%;">
+                    <img class="img-fluid" src="template/img/icon/icon-5.png" alt="" style="width: 70%;">
                 </div>
             </div>
         </div>
@@ -87,64 +87,63 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto" style="max-width: 500px;">
-                <h1 class="display-6 mb-5">What They Say About Our Insurance</h1>
+                <h2 class="mb-5 text-danger">FEATURED SERVICES</h2>
             </div>
             <div class="row g-5">
-                <div class="col-lg-3 d-none d-lg-block">
-                    <div class="testimonial-left h-100">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6 jus" style="margin-left: 0%;">
+                <div class="col-lg-12">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="bg-danger rounded h-100 p-1">
-                        <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                            <img class="align-self-center mb-3" src="template/img/icon/icon-06-primary.png" alt="">
-                            <h5 class="mb-0 text-center text-danger">Biomedical Services</h5>
-                            <br>
-                            <ul>
-                                <li>
-                                    <ol>packaging of class</ol>
-                                </li>
-                                <li>
-                                    <ol>packaging of class</ol>
-                                </li>
-                            </ul>
-                        </div>
+                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-3 px-3">
+                                <img class="align-self-center mb-3" src="template/img/icon/icon-6.jpg" alt="" style="width: 40%;">
+                                <h5 class="mb-3 text-center text-danger">DANGEROUS GOODS TRANSPORT</h5>
+                                <ul>
+                                    <li>Fully Licensed Fleet of DG Trucks</li>
+                                    <li>SCDF Licensed</li>
+                                    <li>NEA Licensed</li>
+                                </ul>
+                            </div>
                         </div>
                         <div class="bg-danger rounded h-100 p-1">
-                        <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                            <img class="align-self-center mb-3" src="template/img/icon/icon-06-primary.png" alt="">
-                            <h5 class="mb-0 text-center text-danger">Biomedical Services</h5>
-                            <br>
-                            <ul>
-                                <li>
-                                <ol>packaging of class</ol>
-                                </li>
-                            </ul>
-                        </div>
+                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
+                                <img class="align-self-center mb-3" src="template/img/icon/icon-7.png" alt="">
+                                <h5 class="mb-3 text-center text-danger">LOGISTICS MANAGEMENT BUSINESS</h5>
+                                <ul>
+                                    <li>International Logistics Service</li>                                
+                                    <li>Warehouse and Distribution</li>
+                                </ul>                         
+                            </div>
                         </div>
                         <div class="bg-danger rounded h-100 p-1">
-                        <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                            <img class="align-self-center mb-3" src="template/img/icon/icon-06-primary.png" alt="">
-                            <h5 class="mb-0 text-center text-danger">Biomedical Services</h5>
-                            <br>
-                            <ul>
-                                <li>
-                                <ol>packaging of class</ol>
-                                </li>
-                            </ul>
+                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
+                                <img class="align-self-center mb-3" src="template/img/icon/icon-8.png" alt="">
+                                <h5 class="mb-3 text-center text-danger">CHEMICAL & SPECIALTY LOGISTIC</h5>
+                                <ul>
+                                    <li>Hazardous and Dangerous Goods Logistics Integrator</li>
+                                    <li>Dangerous Goods Packaging Solution Provider</li>
+                                </ul>
+                            </div>
                         </div>
+                        <div class="bg-danger rounded h-100 p-1">
+                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-3 px-3">
+                                <img class="align-self-center mb-3" src="template/img/icon/icon-9.png" alt="">
+                                <h5 class="mb-3 text-center text-danger">Biomedical SERVICES</h5>
+                                <ul>
+                                    <li>IATA approved DG packaging services</li>
+                                    <li>Packaging of Class 6.2</li>
+                                    <li>Cold room packaging services</li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 d-none d-lg-block">
-                    <div class="testimonial-right h-100">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
-                        <img class="img-fluid animated pulse infinite" src="template/img/icon/icon-06-primary.png" alt="">
+                        <div class="bg-danger rounded h-100 p-1">
+                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
+                                <img class="align-self-center mb-3" src="template/img/icon/icon-10.png" alt="">
+                                <h5 class="mb-3 text-center text-danger">TEMPERATURE SENSITIVE PACKAGING</h5>
+                                <ul>
+                                    <li>Validated -2°C to -8°C Coolpac kits available</li>
+                                    <li>Temperature tested performance reports available on request</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -161,10 +160,14 @@
                     <p class="text-dark"><i class="fa-solid fa-check"></i> Preparation of Dangerous Goods Declaration</p>
                     <p class="text-dark"><i class="fa-solid fa-check"></i> On-site Repacking and Inspection Services</p>
                     <p class="text-dark"><i class="fa-solid fa-check"></i> Dangerous Goods Local Pick-up and Delivery</p>      
+                    <p class="text-dark"><i class="fa-solid fa-check"></i> International Transport of Dangerous Goods by Air</p>
+                    <p class="text-dark"><i class="fa-solid fa-check"></i> Decanting and Palletizing Services</p>
+                    <p class="text-dark"><i class="fa-solid fa-check"></i> Provision of Dry Ice & Gel Packs for Temperature Control</p>
+                    <p class="text-dark"><i class="fa-solid fa-check"></i> In-house Dangerous Goods Safety Advisors</p>      
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="bg-danger rounded p-5">
-                        <img class="img-fluid" src="template/img/icon/barang.jpg" alt="" style="width: 70%; margin-left: 19%;">
+                    <div class="rounded">
+                        <img class="img-fluid" src="template/img/icon/gambar-1.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -176,12 +179,18 @@
             <div class="row g-12">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
-                    <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods..</p>
-                    <img class="img-fluid" src="template/img/icon/icon-10-light.png" alt="">
-                    <img class="img-fluid" style="margin-left: 20%;" src="template/img/icon/icon-10-light.png" alt="">
-                    <img class="img-fluid" style="margin-left: 20%;" src="template/img/icon/icon-10-light.png" alt="">
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
+                    <div class="row g-12">
+                        <div class="col-sm-4" data-wow-delay="0.1s">
+                            <img class="img-fluid" style="width: 25%;" src="template/img/icon/gambar-2.png" alt="">
+                        </div>
+                        <div class="col-sm-4" data-wow-delay="0.1s">
+                            <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/gambar-3.png" alt="">
+                        </div>
+                        <div class="col-sm-4" data-wow-delay="0.1s">
+                            <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
