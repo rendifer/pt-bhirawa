@@ -70,18 +70,18 @@
 
     <div class="container-xxl py-5">
         <div class="container px-lg-5">
-            <div class="section-title position-relative mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="section-title position-relative mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s">
                 <span>WE PROVIDE COMPREHENSIVE</span>
                 <h2 class="text-danger">LITHIUM BATTERIES PACKAGING SOLUTIONS</h2>
             </div>
-            <div class="row g-6" style="margin-top: -5%;">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="row g-6">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
-                        <div class="text-center p-4">
-                            <img class="img-fluid rounded-circle mb-4" src="template/img/icon/barang-7.jpg" style="width: 90%;" alt="">
+                        <div class="text-center">
+                            <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-7.jpg" style="width: 90%;" alt="">
                             <h4 class="text-danger">SECTION IA BOX</h4>
                         </div>
-                        <div class="p-4" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-4" style="font-size: 15px;">
                             <ul>
                                 <li>UN Fibreboard Box approved for packing of lithium metal/ion batteries, fully regulated under IATA PI 965 & PI968 – Section IA</li>
                                 <li>Appropriate Hazard Labels included</li>
@@ -89,13 +89,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
-                        <div class="text-center p-4">
-                            <img class="justify-content-center img-fluid rounded-circle mb-4" src="template/img/icon/barang-8.jpg" style="width: 90%;" alt="">
+                        <div class="text-center">
+                            <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-8.jpg" style="width: 90%;" alt="">
                             <h4 class="text-danger">SECTION IB BOX</h4>
                         </div>
-                        <div class="p-4" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-4" style="font-size: 15px;">
                             <ul>
                                 <li>UN Fibreboard Box approved for packing of lithium metal/ion batteries that meet the requirements of IATA PI 965 & PI968 – Section IB</li>
                                 <li>Appropriate Hazard Labels Included</li>
@@ -105,11 +105,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
-                        <div class="text-center p-4">
-                            <img class="justify-content-center img-fluid rounded-circle mb-4" src="template/img/icon/barang-9.jpg" style="width: 90%;" alt="">
+                        <div class="text-center">
+                            <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-9.jpg" style="width: 90%;" alt="">
                             <h4 class="text-danger">SECTION II BOX</h4>
                         </div>
-                        <div class="p-4" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-4" style="font-size: 15px;">
                             <ul>
                                 <li>UN Fibreboard Box approved for packing of lithium metal/ion batteries that meet the requirements of IATA PI 965 & PI968 – Section II</li>
                                 <li>Appropriate Hazard Labels Included</li>

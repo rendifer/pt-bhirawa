@@ -41,7 +41,7 @@
                 </div>
             </div>
         </div>
-        <div style="margin-top: 0%;">
+        <div style="width: 110%; margin-left: -5%;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#ffffff" fill-opacity="1" d="M0,128L1440,0L1440,320L0,320Z"></path></svg>
         </div>
     </div>
@@ -235,7 +235,7 @@
                 <h2 class="mb-3"><span class="text-danger">Trusted Quality </span>Packaging Solution</h2>
             </div>
             <div class="row ">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon9.png" alt="">
@@ -243,7 +243,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon10.png" alt="">

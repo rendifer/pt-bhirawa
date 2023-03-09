@@ -40,13 +40,13 @@
                 <h2 class="text-danger">OTHER PACKAGING SOLUTIONS</h2>
             </div>
             <div class="row g-6" style="margin-top: -5%;">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center">
-                            <img class="mb-4" src="template/img/icon/barang-11.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger pb-4 mb-4">INNER PACKAGING</h4>
+                            <img class="mb-3" src="template/img/icon/barang-11.jpg" style="width: 100%;" alt="">
+                            <h4 class="text-danger">INNER PACKAGING</h4>
                         </div>
-                        <div class="p-1" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-1" style="">
                             <ul>
                                 <li>Separate contents within your packaging with additional containment to separate contents</li>
                                 <li>Prevent any spills from affecting the contents of your package</li>
@@ -54,13 +54,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-3">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.3s">
+                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-5">
                         <div class="text-center">
-                            <img class="mb-4" src="template/img/icon/barang-12.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger pb-4 mb-4">UN PLASTIC JERRY CAN / STEEL DRUMS</h4>
+                            <img class="mb-3" src="template/img/icon/barang-12.jpg" style="width: 100%;" alt="">
+                            <h4 class="text-danger">UN PLASTIC STEEL DRUMS</h4>
                         </div>
-                        <div class="p-1" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-1" style="">
                             <ul>
                                 <li>Leak-proof airtight and safety seals</li>
                                 <li>Strong body to withstand impact during handing</li>
@@ -68,13 +68,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden" style="padding-bottom: 20%;">
+                <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.3s">
+                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden" style="padding-bottom: 21%;">
                         <div class="text-center">
-                            <img class="mb-4" src="template/img/icon/barang-13.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger pb-4 mb-4">STYROFOAM CHIPS</h4>
+                            <img class="mb-3" src="template/img/icon/barang-13.jpg" style="width: 100%;" alt="">
+                            <h4 class="text-danger">STYROFOAM CHIPS</h4>
                         </div>
-                        <div class="p-1" style="margin-top: -15%; font-size: 15px;">
+                        <div class="p-1" style="">
                             <ul>
                                 <li>DGP Absorbent Mat</li>
                                 <li>Vermiculite</li>
@@ -122,10 +122,10 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="overflow-hidden">
-                        <div class="">
-                            <h4 class="text-danger pb-4 mb-4">Package Type:</h4>
+                        <div class="mb-2">
+                            <h4 class="text-danger">Package Type:</h4>
                         </div>
-                        <div class="" style="margin-top: -15%; font-size: 15px;">
+                        <div class="" style="font-size: 15px;">
                             <span>1 — Drums/Pails</span><br>
                             <span>2 — Barrels</span><br>
                             <span>3 — Jerricans</span><br>
@@ -137,10 +137,10 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden pb-3">
-                        <div class="">
-                            <h4 class="text-danger pb-4 mb-4">Material:</h4>
+                        <div class="mb-2">
+                            <h4 class="text-danger">Material:</h4>
                         </div>
-                        <div class="" style="margin-top: -15%; font-size: 15px;">
+                        <div class="" style="font-size: 15px;">
                             <span>A – Steel</span><br>
                             <span>B — Aluminum</span><br>
                             <span>C — Natural Wood</span><br>
@@ -157,10 +157,10 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden">
-                        <div class="">
-                            <h4 class="text-danger pb-4 mb-4">Category:</h4>
+                        <div class="mb-2">
+                            <h4 class="text-danger">Category:</h4>
                         </div>
-                        <div class="" style="margin-top: -15%; font-size: 15px;">
+                        <div class="" style="font-size: 15px;">
                             <span>1 — Closed Head</span><br>
                             <span>2 — Open Head</span>
                         </div>
@@ -168,10 +168,10 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden">
-                        <div class="">
-                            <h4 class="text-danger pb-4 mb-4">Packaging Group:</h4>
+                        <div class="mb-2">
+                            <h4 class="text-danger">Packaging Group:</h4>
                         </div>
-                        <div class="" style="margin-top: -15%; font-size: 15px;">
+                        <div class="" style="font-size: 15px;">
                             <span>X — Meets group I, II, and III’s test</span><br>
                             <span>Y — Meets group II, and III’s test</span><br>
                             <span>Z — Meets III’s test</span>

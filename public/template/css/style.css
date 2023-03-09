@@ -94,8 +94,8 @@
 }
 
 .navbar .navbar-nav .nav-link {
-    margin-left: 25px;
-    padding: 10px 0;
+    margin-left: 10px;
+    padding: 5px 10px;
     color: #696e77;
     font-weight: 500;
     outline: none;
@@ -103,10 +103,18 @@
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: white;
+    background-color: #a40303;
+    border-bottom-right-radius: 40%;
+    border-top-left-radius: 40%;
 }
 
 .dropdown-item.active {
+    color: white;
+    background-color: #a40303;
+}
+
+.dropdown-item:hover {
     color: white;
     background-color: #a40303;
 }
@@ -310,6 +318,38 @@
     background-size: cover;
 }
 
+.safety {
+    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
+        url(../img/icon/barang.jpg) center center no-repeat;
+    background-size: cover;
+    transform: skew(0deg, 5deg) translateY(-50px);
+    margin-top: 8%;
+    padding: 8%;
+}
+
+.bg-safety {
+    padding-top: 5%;
+    border-bottom-left-radius: 100%;
+}
+
+.appointment2 {
+    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
+        url(../img/icon/barang.jpg) center center no-repeat;
+    background-size: cover;
+    transform: skew(0deg, 5deg) translateY(-50px);
+    margin-top: 15%;
+    padding: 8%;
+}
+
+.skew {
+    transform: skew(0deg, -5deg);
+}
+
+.hazmat {
+    padding-bottom: 15%;
+    padding-top: 15%;
+}
+
 .bg-lithuim {
     background: linear-gradient(
             rgba(255, 255, 255, 0.9),
@@ -489,8 +529,8 @@
 }
 
 .lithium {
-    /* padding: 2rem; */
     background-color: #a40303;
+    /* border-bottom-right-radius: 60%; */
 }
 
 /*** Comparison ***/

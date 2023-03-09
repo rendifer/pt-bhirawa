@@ -14,7 +14,7 @@
     </div>
 </div>
 
-    <div class="container-fluid overflow-hidden mb-5 bg-light">
+    <div class="container-fluid overflow-hidden bg-light">
         <div class="container px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 facts-text wow fadeIn mt-5" data-wow-delay="0.1s">
@@ -35,14 +35,16 @@
         </div>
     </div>
 
-    <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container" style="text-align: center;">
-            <div class="row g-12">
-                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                    <h3 class="text-white mb-5">Safety, Our First Priority</h3>
-                    <p class="text-white mb-5">At DG Packaging, we believe that safety is our number one priority when delivering dangerous goods to our customers. Over the years, many of the world’s biggest organisations and brands have come to entrust us with the transportation of their goods. With our vast experience combined with a global network, we ensure that special care is provided to all goods. </p>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+    <div class="bg-light bg-safety">
+        <div class="container-fluid safety mb-5 wow fadeIn" data-wow-delay="0.1s">
+            <div class="container skew p-5" style="text-align: center;">
+                <div class="row g-12">
+                    <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
+                        <h1 class="text-white mb-5">Safety, Our First Priority</h1>
+                        <p class="text-white mb-5">At DG Packaging, we believe that safety is our number one priority when delivering dangerous goods to our customers. Over the years, many of the world’s biggest organisations and brands have come to entrust us with the transportation of their goods. With our vast experience combined with a global network, we ensure that special care is provided to all goods. </p>
+                    </div>
+                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    </div>
                 </div>
             </div>
         </div>

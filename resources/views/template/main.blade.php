@@ -48,7 +48,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto bg-light rounded pe-4 py-3 py-lg-0">
+            <div class="navbar-nav ms-auto rounded pe-4 py-3 py-lg-0">
                 @section('home')
                     <a href="/" class="nav-item nav-link">Home</a>
                 @show
@@ -88,7 +88,7 @@
     @yield('content')
 
     <div id="myModal" class="modal fade" role="dialog">
-        <div class="modal-dialog">
+        <div class="modal-dialog col-sm-4">
           <div class="modal-content">
             <div class="modal-header" style="background-color: green;">
                 <h5 class="modal-title text-white" id="staticBackdropLabel"><i class="fa-brands fa-whatsapp"></i>   Start a Conversation</h5>
@@ -96,18 +96,18 @@
             </div>
             <div class="modal-body">
                 <p style="margin-top: -2%;">The team typically replies in a few minutes</p>
-                <div class="border-5 border-top border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                    <a href="https://wa.me/+628971413088/">
+                <a href="https://wa.me/+628971413088/">
+                    <div class="border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
                         <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
-                    </a>
-                    <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 30%" alt="">
-                </div>
-                <div class="mt-2 border-5 border-top border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                    <a href="https://wa.me/+628971413088/">
+                        {{-- <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 30%" alt=""> --}}
+                    </div>
+                </a>
+                <a href="https://wa.me/+628971413088/">
+                    <div class="mt-2 border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
                         <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
-                    </a>
-                    <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 30%" alt="">
-                </div>
+                        {{-- <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 30%" alt=""> --}}
+                    </div>
+                </a>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@
                     <h5 class="text-light mb-4">Address</h5>
                     <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
                     <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p><i class="fa fa-envelope me-3"></i>davidnasrullah85@gmail.com</p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>

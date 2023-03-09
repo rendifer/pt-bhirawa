@@ -174,23 +174,69 @@
         </div>
     </div>
 
-    <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container" style="text-align: center;">
-            <div class="row g-12">
-                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
-                    <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
-                    <div class="row g-12">
-                        <div class="col-sm-4" data-wow-delay="0.1s">
-                            <img class="img-fluid" style="width: 25%;" src="template/img/icon/gambar-2.png" alt="">
-                        </div>
-                        <div class="col-sm-4" data-wow-delay="0.1s">
-                            <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/gambar-3.png" alt="">
-                        </div>
-                        <div class="col-sm-4" data-wow-delay="0.1s">
-                            <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
+    <div class="bg-light">
+        <div class="container-fluid appointment2 wow fadeIn" data-wow-delay="0.1s">
+            <div class="container skew p-5" style="text-align: center;">
+                <div class="row g-12">
+                    <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
+                        <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
+                        <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
+                        <div class="row g-12">
+                            <div class="col-sm-4" data-wow-delay="0.1s">
+                                <img class="img-fluid" style="width: 25%;" src="template/img/icon/gambar-2.png" alt="">
+                            </div>
+                            <div class="col-sm-4" data-wow-delay="0.1s">
+                                <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/gambar-3.png" alt="">
+                            </div>
+                            <div class="col-sm-4" data-wow-delay="0.1s">
+                                <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
+                            </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid bg-light" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row hazmat">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
+                    <h1 class="text-danger">HAZMAT PACKAGING EXPERT</h1>
+                    <p class="text-dark">Our first priority At DG Packaging, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <form>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                    <label for="name">Your Name</label>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-floating">
+                                    <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                    <label for="email">Your Email</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                    <label for="subject">Subject</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-danger py-3 px-5" type="submit">Submit</button>
+                            </div>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>

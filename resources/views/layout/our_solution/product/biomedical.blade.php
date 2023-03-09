@@ -70,18 +70,18 @@
 
     <div class="container-xxl py-5">
         <div class="container px-lg-5">
-            <div class="section-title position-relative mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="section-title position-relative mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s">
                 <span>WE PROVIDE COMPREHENSIVE</span>
                 <h2 class="text-danger">PACKAGING SOLUTIONS</h2>
             </div>
-            <div class="row g-6" style="margin-top: -5%;">
-                <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="row g-6">
+                <div class="col-lg-6 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden" style="padding-bottom: 19%;">
-                        <div class="text-center p-4">
+                        <div class="text-center">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/barang-4.jpg" style="width: 60%;" alt="">
                             <h4 class="text-danger">DGP PATHOPAK 1LTR, 2LTR AND 3LTR</h4>
                         </div>
-                        <div class="p-4" style="margin-top: -10%;">
+                        <div class="p-4">
                             <ul>
                                 <li>Supplied complete ready to ship</li>
                                 <li>UN certified for infectious/diagnostic specimens</li>
@@ -95,11 +95,11 @@
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
-                        <div class="text-center p-4">
+                        <div class="text-center">
                             <img class="justify-content-center img-fluid rounded-circle mb-4" src="template/img/icon/barang-5.jpg" style="width: 60%;" alt="">
                             <h4 class="text-danger">DGP BIOTHERM 5,10,25,45,70</h4>
                         </div>
-                        <div class="p-4" style="margin-top: -10%;">
+                        <div class="p-4">
                             <ul>
                                 <li>Re-usable, low cost and highly effective</li>
                                 <li>Ideal for shipping a wide range of dry ice or temperature controlled specimens</li>

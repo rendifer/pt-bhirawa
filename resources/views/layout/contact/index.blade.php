@@ -45,7 +45,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-light py-3 px-5" type="submit">Submit</button>
+                                <button class="btn btn-danger py-3 px-5" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>
