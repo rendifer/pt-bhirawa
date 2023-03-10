@@ -171,12 +171,16 @@
         </div>
     </div>
 
-    <a type="button" style="margin-bottom: 15%;" class="btn btn-success btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
-        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">
+    <a href="#" class="btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
+        <img src="template/img/icon/wa.png" alt="" class="wa-img">
+    </a>
+
+    <a href="https://wa.me/+628971413088/" class="btn-lg-square whatsapp2">
+        <img src="template/img/icon/wa.png" alt="" class="wa-img2">
+        <span>Need Help? <b>Chat With Us</b></span>
     </a>
      
     <a href="#" class="btn btn-lg btn-danger btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
-
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
