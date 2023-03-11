@@ -182,13 +182,10 @@
                         <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
                         <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
                         <div class="row g-12">
-                            <div class="col-sm-4" data-wow-delay="0.1s">
-                                <img class="img-fluid" style="width: 25%;" src="template/img/icon/gambar-2.png" alt="">
+                            <div class="col-sm-6" data-wow-delay="0.1s">
+                                <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/rpx.png" alt="">
                             </div>
-                            <div class="col-sm-4" data-wow-delay="0.1s">
-                                <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/gambar-3.png" alt="">
-                            </div>
-                            <div class="col-sm-4" data-wow-delay="0.1s">
+                            <div class="col-sm-6" data-wow-delay="0.1s">
                                 <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
                             </div>
                         </div>

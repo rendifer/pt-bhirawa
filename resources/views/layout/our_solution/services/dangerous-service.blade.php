@@ -94,14 +94,30 @@
                         Our services include
                     </p>
                     <div>
-                        <li>Dangerous Goods Packaging, Marking and Labelling</li>
-                        <li>Preparation of Dangerous Goods Declaration </li>
-                        <li>On-site Repacking and Inspection Services </li>
-                        <li>Hazardous materials Local Pick-up and Delivery </li>
-                        <li>Decanting , redrumming and Palletizing Services</li>
-                        <li>Provision of Dry Ice & Gel Packs for Temperature Control</li>
-                        <li>Limited quantity packing </li>
-                        <li>In-house Dangerous Goods Safety Advisors</li>
+                        <ul>
+                            <li>Dangerous Goods Packaging, Marking and Labelling</li>
+                        </ul>
+                        <ul>
+                            <li>Preparation of Dangerous Goods Declaration </li>
+                        </ul>
+                        <ul>
+                            <li>On-site Repacking and Inspection Services </li>
+                        </ul>
+                        <ul>
+                            <li>Hazardous materials Local Pick-up and Delivery </li>
+                        </ul>
+                        <ul>
+                            <li>Decanting , redrumming and Palletizing Services</li>
+                        </ul>
+                        <ul>
+                            <li>Provision of Dry Ice & Gel Packs for Temperature Control</li>
+                        </ul>
+                        <ul>
+                            <li>Limited quantity packing </li>
+                        </ul>
+                        <ul>
+                            <li>In-house Dangerous Goods Safety Advisors</li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">

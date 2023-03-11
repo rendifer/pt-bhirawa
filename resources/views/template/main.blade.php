@@ -98,13 +98,13 @@
                 <p style="margin-top: -2%;">The team typically replies in a few minutes</p>
                 <a href="https://wa.me/+628971413088/">
                     <div class="border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
+                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">DG Packaging
                         {{-- <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 30%" alt=""> --}}
                     </div>
                 </a>
                 <a href="https://wa.me/+628971413088/">
                     <div class="mt-2 border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">08971413088
+                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">DG Packaging
                         {{-- <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 30%" alt=""> --}}
                     </div>
                 </a>
@@ -128,7 +128,7 @@
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
                     <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+62 8121 1891 833</p>
                     <p><i class="fa fa-envelope me-3"></i>davidnasrullah85@gmail.com</p>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -171,9 +171,9 @@
         </div>
     </div>
 
-    <a href="#" class="btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
+    {{-- <a href="#" class="btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
         <img src="template/img/icon/wa.png" alt="" class="wa-img">
-    </a>
+    </a> --}}
 
     <a href="https://wa.me/+628971413088/" class="btn-lg-square whatsapp2">
         <img src="template/img/icon/wa.png" alt="" class="wa-img2">
