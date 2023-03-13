@@ -36,13 +36,20 @@
     <link href="{{ asset('template2/lib/animate/animate.min.css') }}" rel="stylesheet">
     <link href="{{ asset('template2/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
     {{-- <link href="{{ asset('template2/css/style.css') }}" rel="stylesheet"> --}}
+
+    <style>
+        .disabled {
+          pointer-events: none;
+          opacity: 0.8;
+        }
+      </style>
 </head>
 
 <body>
 
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
         <a href="#" class="navbar-brand d-flex align-items-center">
-            <img class="img-fluid me-3" src="template/img/icon/logo.png" alt="">
+            <img class="img-fluid me-3" src="template/img/icon/logo1.jpg" alt="">
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -117,7 +124,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
-                    <img class="img-fluid me-3" src="template/img/icon/logo.png" alt="">
+                    <img class="img-fluid me-3" src="template/img/icon/logo1.jpg" alt="">
                     <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -127,9 +134,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+62 8121 1891 833</p>
-                    <p><i class="fa fa-envelope me-3"></i>davidnasrullah85@gmail.com</p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Ruko kali malang square, Jl.KH Noer Ali Blok E.22, RT.007/RW.003, Pekayon Jaya, Bekasi Selatan, Bekasi City, West Java 17148</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+62 852-1694-1433 (ibu kokom)</p>
+                    <p><i class="fa fa-envelope me-3"></i>chris@dg-idpackaging.com</p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
@@ -164,7 +171,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                         Copyright 2023 &copy; DG PACKAGING PTE LTD
+                         Copyright 2023 &copy; DG PACKAGING INDONESIA
                     </div>
                 </div>
             </div>
