@@ -6,13 +6,13 @@
 
 @section('content')
 
-<div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
-    <div class="container py-5">
-        <h4 class="display-6 animated slideInDown mb-4 text-white">
-            About Us
-        </h4>
+    <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <h4 class="display-6 animated slideInDown mb-4 text-white">
+                About Us
+            </h4>
+        </div>
     </div>
-</div>
 
     <div class="container-fluid overflow-hidden bg-light">
         <div class="container px-lg-0">

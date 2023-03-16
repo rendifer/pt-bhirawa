@@ -49,7 +49,7 @@
 
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
         <a href="#" class="navbar-brand d-flex align-items-center">
-            <img class="img-fluid me-3" src="template/img/icon/logo1.jpg" alt="">
+            <img class="img-fluid me-3" src="template/img/icon/logo2.jpg" alt="">
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -120,11 +120,11 @@
         </div>
     </div>
 
-    <div class="container-fluid appointment footer wow fadeIn" data-wow-delay="0.1s" style="background-image: template/img/icon/icon-02-light.png">
+    <div class="container-fluid appointment footer wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
-                    <img class="img-fluid me-3" src="template/img/icon/logo1.jpg" alt="">
+                    <img class="img-fluid me-3 logo2" src="template/img/icon/logo2.jpg" alt="">
                     <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>

@@ -61,15 +61,9 @@
                     </p>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="h-100">
-                        <div class="d-flex pt-2">
-                            <img
-                                class="flex-shrink-0 me-3"
-                                src="template/img/icon/icon1.png"
-                                alt=""
-                                style="width: 90%;"
-                            />
-                        </div>
+                    <div class="h-100 m-5">
+                        <img class="img-fluid ms-5" style="width: 28%;" src="template/img/icon/rpx.png" alt="">
+                        <img class="img-fluid ms-5" style="width: 28%;" src="template/img/icon/gambar-4.png" alt="">
                     </div>
                 </div>
             </div>
