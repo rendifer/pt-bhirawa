@@ -61,9 +61,15 @@
                     </p>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="h-100 m-5">
-                        <img class="img-fluid ms-5" style="width: 28%;" src="template/img/icon/rpx.png" alt="">
-                        <img class="img-fluid ms-5" style="width: 28%;" src="template/img/icon/gambar-4.png" alt="">
+                    <div class="h-100 m-4">
+                        <div class="row g-12 ms-5">
+                            <div class="col-sm-6" data-wow-delay="0.1s">
+                                <img class="img-fluid" style="width: 70%;" src="template/img/icon/rpx.png" alt="">
+                            </div>
+                            <div class="col-sm-6" data-wow-delay="0.1s">
+                                <img class="img-fluid" style="width: 70%;" src="template/img/icon/gambar-4.png" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
