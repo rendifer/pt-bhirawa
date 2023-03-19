@@ -46,7 +46,7 @@
     $(".testimonial-carousel").owlCarousel({
         autoplay: true,
         smartSpeed: 1000,
-        items: 2,
+        items: 1,
         margin: 50,
         dots: false,
         loop: true,
@@ -57,19 +57,6 @@
         ],
     });
     $(".testimonial-carousel2").owlCarousel({
-        autoplay: true,
-        smartSpeed: 1000,
-        items: 2,
-        margin: 15,
-        dots: false,
-        loop: true,
-        nav: true,
-        navText: [
-            '<i class="bi bi-chevron-left"></i>',
-            '<i class="bi bi-chevron-right"></i>',
-        ],
-    });
-    $(".testimonial-carousel3").owlCarousel({
         autoplay: true,
         smartSpeed: 1000,
         items: 2,

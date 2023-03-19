@@ -114,45 +114,49 @@
             </div>
         </div>
         <div class="container px-lg-5 mt-5">
-            <div class="owl-carousel testimonial-carousel">
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box9.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X9</h5>
+            <div class="row g-5 justify-content-center">
+                <div class="col-md-6">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box9.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X9</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box11.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X11</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box21.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X21</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box25.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X25</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box30.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X30</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box35.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X35</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box51.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X51</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box52.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X52</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box60.jpg" alt="">
+                            <h5 class="text-danger text-center">UN 4GV X60</h5>
+                        </div>
+                    </div>
                 </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box11.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X11</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box21.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X21</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box25.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X25</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box30.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X30</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box35.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X35</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box51.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X51</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box52.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X52</h5>
-                </div>
-                <div class="testimonial-item position-relative team-item">
-                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/icon/box60.jpg" alt="">
-                    <h5 class="text-danger text-center">UN 4GV X60</h5>
-                </div>
+                <img class="align-self-center mb-3 py-3 px-3" style="width: 100%;" src="template/img/icon/table.jpg" alt="">
             </div>
-            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%;" src="template/img/icon/table.jpg" alt="">
         </div>
     </div>
 

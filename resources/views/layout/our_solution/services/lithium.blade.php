@@ -281,115 +281,119 @@
 
     <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container px-lg-5">
-            <h3 class="text-center mb-5">Why <span class="text-danger">Clients</span> Choose Us</h3>
-            <div class="owl-carousel testimonial-carousel">
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
+            <div class="row g-5 justify-content-center">
+                <div class="col-md-6">
+                    <h3 class="text-center mb-5">Why <span class="text-danger">Clients</span> Choose Us</h3>
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Nordmann Indonesian</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">DG Packaging team is amazing. They have helped us in all aspects of our DG shipments. They offered very prompt and friendly customer service and were able to find the right solution.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Crane Worldwide Logistics</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Excellent service all the time! Fast, dependable, and always willing to go the extra mile to assist! A vendor one can count on in times of need.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>MOL Logistics (Indonesian) Pte Ldt</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">We've been working with DG Packaging for 11 years, and the account manager, Keddy Seah, is our point of contact. DG packaging consistently delivers our DG cargo to our warehouse on time for our export shipments, and the greatest part is that we receive rapid responses and solutions to every inquiry we send them!.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Unique Logistict Asian</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">DG Packaging has been handling our DG shipments for several years now. Shout out to Keddy and Viknesh’s team for the smooth, consistent, and reliable service they have been providing. They always go the extra mile to ensure cargo is packed, delivered and processed professionally. Highly recommended!.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Peng Cheng Autotech Pte Ltd</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Efficient response, reasonable price and they've provided a solid plan for our shipments. Overall, very happy with their service!</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Callington Indonesian Pte Ltd</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Great service, helpful and efficient communication by Jay, Jeannie and the team. Looking forward to using their service again in the future!</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>CT Freight (Indonesian) Pte Ltd</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Service is good and rates are reasonable. Melvin is also very nice, he can give good advice and provide value-added services.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Ace Pressureweld Pte Ltd</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Good service and the prices are reasonable. Salesperson Jeannie is helpful and responsive to every inquiry.</p>
+                        </div>
+                        <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
+                            <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
+                                <i class="fa fa-quote-left text-white"></i>
+                            </div>
+                            <h6>Airmark Freight Service Pte Ltd</h6>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <i class="fa-solid fa-star" style="color: red;"></i>
+                            <p class="mt-3">Good service and the prices are reasonable. Salesperson Jeannie is helpful and responsive to every inquiry.</p>
+                        </div>
                     </div>
-                    <h6>Nordmann Indonesian</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">DG Packaging team is amazing. They have helped us in all aspects of our DG shipments. They offered very prompt and friendly customer service and were able to find the right solution.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Crane Worldwide Logistics</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Excellent service all the time! Fast, dependable, and always willing to go the extra mile to assist! A vendor one can count on in times of need.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>MOL Logistics (Indonesian) Pte Ldt</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">We've been working with DG Packaging for 11 years, and the account manager, Keddy Seah, is our point of contact. DG packaging consistently delivers our DG cargo to our warehouse on time for our export shipments, and the greatest part is that we receive rapid responses and solutions to every inquiry we send them!.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Unique Logistict Asian</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">DG Packaging has been handling our DG shipments for several years now. Shout out to Keddy and Viknesh’s team for the smooth, consistent, and reliable service they have been providing. They always go the extra mile to ensure cargo is packed, delivered and processed professionally. Highly recommended!.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Peng Cheng Autotech Pte Ltd</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Efficient response, reasonable price and they've provided a solid plan for our shipments. Overall, very happy with their service!</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Callington Indonesian Pte Ltd</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Great service, helpful and efficient communication by Jay, Jeannie and the team. Looking forward to using their service again in the future!</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>CT Freight (Indonesian) Pte Ltd</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Service is good and rates are reasonable. Melvin is also very nice, he can give good advice and provide value-added services.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Ace Pressureweld Pte Ltd</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Good service and the prices are reasonable. Salesperson Jeannie is helpful and responsive to every inquiry.</p>
-                </div>
-                <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 mt-4">
-                    <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                        <i class="fa fa-quote-left text-white"></i>
-                    </div>
-                    <h6>Airmark Freight Service Pte Ltd</h6>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <i class="fa-solid fa-star" style="color: red;"></i>
-                    <p class="mt-3">Good service and the prices are reasonable. Salesperson Jeannie is helpful and responsive to every inquiry.</p>
                 </div>
             </div>
         </div>

@@ -54,7 +54,7 @@
                         DANGEROUS GOODS TRAINING
                     </h2>
                     <p class="mb-4">
-                        DG Training Pte Ltd (DGT) was formed and based in Singapore as a contributor to the training and upskilling scene for the dangerous goods industry which encompasses sectors from aviation, manufacturing and freight forwarding. The company reconciled over 20 years of experience in dangerous goods handling and management from multiple subject matter experts to build a learning community in hope to make learning and upskilling accessible and cultured among entities and professionals.
+                        DG Training Pte Ltd (DGT) was formed and based in Indonesian as a contributor to the training and upskilling scene for the dangerous goods industry which encompasses sectors from aviation, manufacturing and freight forwarding. The company reconciled over 20 years of experience in dangerous goods handling and management from multiple subject matter experts to build a learning community in hope to make learning and upskilling accessible and cultured among entities and professionals.
                     </p>
                     <p class="mb-4">
                         The core business of DGT has been heavily involved in excellent reasoning behind the evolution of the dangerous goods regulations, extensive bandwidth of industry network among airlines, forwarders and shippers and continuous observation on industries’ risk assessment against business and market development so as to ensure that knowledge delivery and operational empowerment is relevant and effective.

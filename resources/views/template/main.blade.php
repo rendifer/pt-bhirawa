@@ -135,7 +135,7 @@
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Ruko kali malang square, Jl.KH Noer Ali Blok E.22, RT.007/RW.003, Pekayon Jaya, Bekasi Selatan, Bekasi City, West Java 17148</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+62 852-1694-1433 (ibu kokom)</p>
+                    <p><i class="fa fa-phone-alt me-3"></i>+62 852-1694-1433</p>
                     <p><i class="fa fa-envelope me-3"></i>chris@dg-idpackaging.com</p>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -182,7 +182,7 @@
         <img src="template/img/icon/wa.png" alt="" class="wa-img">
     </a> --}}
 
-    <a href="https://wa.me/+628971413088/" class="btn-lg-square whatsapp2">
+    <a href="https://wa.me/+6285216941433/" class="btn-lg-square whatsapp2">
         <img src="template/img/icon/wa.png" alt="" class="wa-img2">
         <span>Need Help? <b>Chat With Us</b></span>
     </a>

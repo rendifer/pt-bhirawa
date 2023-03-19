@@ -32,7 +32,7 @@
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row g-12">
-                        <div class="col-sm-3 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon-1.png" alt="" style="width: 40%;">
@@ -40,7 +40,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 wow fadeIn" data-wow-delay="0.2s">
+                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon-2.png" alt="" style="width: 40%;">
@@ -48,7 +48,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.3s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon-3.png" alt="" style="width: 40%;">
@@ -90,8 +90,8 @@
             <div class="text-center mx-auto" style="max-width: 500px;">
                 <h2 class="mb-5 text-danger">FEATURED SERVICES</h2>
             </div>
-            <div class="row g-5">
-                <div class="col-lg-12">
+            <div class="row g-5 justify-content-center">
+                <div class="col-lg-6">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="bg-danger rounded h-100 p-1">
                             <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-3 px-3">
