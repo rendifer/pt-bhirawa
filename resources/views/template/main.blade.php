@@ -171,7 +171,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                         Copyright 2023 &copy; DG PACKAGING INDONESIA
+                         Copyright 2023 &copy; DG PACKAGING INDONESIA &#8211; PT. Daya Guna Perkasa
                     </div>
                 </div>
             </div>
@@ -182,7 +182,7 @@
         <img src="template/img/icon/wa.png" alt="" class="wa-img">
     </a> --}}
 
-    <a href="https://wa.me/+6285216941433/" class="btn-lg-square whatsapp2">
+    <a href="https://wa.me/+62818880390/" class="btn-lg-square whatsapp2" target="_blank">
         <img src="template/img/icon/wa.png" alt="" class="wa-img2">
         <span>Need Help? <b>Chat With Us</b></span>
     </a>

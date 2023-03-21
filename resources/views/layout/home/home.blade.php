@@ -76,7 +76,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="display-6 text-white mb-5">OUR FEATURED PRODUCTS</h1>
                     <p class="text-white mb-5">Beyond being a provider of integrated logistics services, DG Packaging assists to appropriately repackage your dangerous goods. Secure packaging options include specialized boxes, biomedical packaging, U.N. boxes, pallets, drums, labelling and more.</p>
-                    <a href="contact.html" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Produtcs</a>
+                    <a href="/dangerous-goods-un-boxes" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Produtcs</a>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <img class="img-fluid" src="template/img/icon/icon-5.png" alt="" style="width: 70%;">
@@ -200,8 +200,8 @@
         <div class="container">
             <div class="row hazmat">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="text-danger">HAZMAT PACKAGING EXPERT</h1>
-                    <p class="text-dark">Our first priority At DG Packaging, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
+                    <h1 class="text-danger">DG PACKAGING INDONESIA,<br> PACKAGING EXPERT;</h1>
+                    <p class="text-dark">Our first priority At DG Packaging Indonesia, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <form>
