@@ -14,6 +14,7 @@ use App\Http\Controllers\Solution\Product\DgLabelsController;
 use App\Http\Controllers\Solution\Product\BiomedicalController;
 use App\Http\Controllers\Solution\Product\SpesializedController;
 use App\Http\Controllers\Solution\Product\MaterialisController;
+use App\Http\Controllers\EmailController;
 
 /*
 |--------------------------------------------------------------------------
@@ -44,3 +45,4 @@ Route::get('/biomedical-packaging', [BiomedicalController::class, 'index'])->nam
 Route::get('/specialized-boxes', [SpesializedController::class, 'index'])->name('specialized-boxes');
 Route::get('/other-packaging-materials', [MaterialisController::class, 'index'])->name('other-packaging-materials');
 
+Route::post('/contactUs', [EmailController::class, 'postMessage'])->name('contactUs');
