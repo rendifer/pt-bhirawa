@@ -70,3 +70,11 @@
         ],
     });
 })(jQuery);
+
+$(".submit").click(function () {
+    swal(
+        "Success",
+        "Thank you for contact us. we will contact you shortly.",
+        "success"
+    );
+});
