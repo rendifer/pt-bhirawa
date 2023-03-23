@@ -406,6 +406,11 @@
     background-size: cover;
 }
 
+.bg-home {
+    background: url(../img/icon/barang.jpg) center center no-repeat;
+    background-size: cover;
+}
+
 /*** Team ***/
 .team-item {
     position: relative;
