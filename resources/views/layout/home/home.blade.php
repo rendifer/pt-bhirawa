@@ -210,12 +210,12 @@
                             {{Session::get('success')}}
                         </div>
                     @endif
-                    <form method="post" action="{{ route('contactUs') }}" >
+                    <form id="myForm" method="post" action="{{ route('contactUs') }}" >
                         @csrf
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="name" placeholder="Your Name" name="nama">
+                                    <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
                                     <label for="name">Your Name</label>
                                     @if ($errors->has('nama'))
                                         <span class="text-danger">{{ $errors->first('nama') }}</span>
@@ -250,7 +250,7 @@
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-danger submit" type="submit">Submit</button>
+                                <button class="btn btn-danger" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>

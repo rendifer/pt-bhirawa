@@ -78,3 +78,37 @@ $(".submit").click(function () {
         "success"
     );
 });
+
+$(document).ready(function () {
+    $("#myForm").on("submit", function (e) {
+        e.preventDefault();
+        var nama = $("#nama").val();
+        var email = $("#email").val();
+        var subject = $("#subject").val();
+        var message = $("#message").val();
+        if (nama == "" || email == "" || subject == "" || message == "") {
+            swal({
+                title: "Error!",
+                text: "Please fill all the fields!",
+                icon: "error",
+                button: "OK",
+            });
+        } else {
+            $.ajax({
+                type: "POST",
+                url: "/contactUs",
+                data: $("#myForm").serialize(),
+                success: function (response) {
+                    swal({
+                        title: "Success!",
+                        text: "Thank you for contact us. we will contact you shortly!",
+                        icon: "success",
+                        button: "OK",
+                    }).then((value) => {
+                        window.location.reload();
+                    });
+                },
+            });
+        }
+    });
+});

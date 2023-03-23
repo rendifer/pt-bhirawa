@@ -205,7 +205,7 @@
     {{-- <script src="{{ asset('template2/lib/owlcarousel2/owl.carousel.min.js') }}"></script> --}}
 
     {{-- <script src="{{ asset('template2/js/main2.js') }}"></script> --}}
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>;
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 </body>
 
