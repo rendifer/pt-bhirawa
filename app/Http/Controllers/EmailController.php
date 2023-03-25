@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Mail\Email;
 use Illuminate\Support\Facades\Mail;
+
 class EmailController extends Controller
 {
     public function postMessage(Request $request){
@@ -22,7 +23,7 @@ class EmailController extends Controller
             'message' => 'required'
         ]);
 
-        Mail::to('fahrulrozi99321@gmail.com')->send(New Email( $email));
+        Mail::to('fhahroulrozi@gmail.com')->send(New Email($email));
         // ContactUs::create( $email);
         return redirect()->back()
                          ->with(['success' => 'Thank you for contact us. we will contact you shortly.']);
