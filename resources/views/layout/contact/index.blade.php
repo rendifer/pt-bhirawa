@@ -30,7 +30,7 @@
                         </div>
                         <div class="col-sm-4 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 14%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 21%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">EMAIL</h5>
                                     <a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a>
@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-sm-4 mb-3 wow fadeIn" data-wow-delay="0.3s">
                             <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 18%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 21%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">PHONE</h5>
                                     <a href="tel:+622188965802">021-88965802</a>
