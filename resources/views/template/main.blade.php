@@ -125,18 +125,18 @@
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
                     <img class="img-fluid me-3 logo2" src="template/img/icon/logo2.jpg" alt="">
-                    <div class="d-flex pt-2">
+                    <!-- <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-square me-0" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Ruko kali malang square, Jl.KH Noer Ali Blok E.22, RT.007/RW.003, Pekayon Jaya, Bekasi Selatan, Bekasi City, West Java 17148</p>
-                    <p><i class="fa fa-phone-alt me-3"></i>+62 852-1694-1433</p>
-                    <p><i class="fa fa-envelope me-3"></i>chris@dg-idpackaging.com</p>
+                    <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">021-88965802</a></p>
+                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>

@@ -118,7 +118,7 @@
         </div>
     </div>
 
-    <div class="container-xxl py-5 bg-light">
+    <div class="container-xxl mb-5 py-5 bg-light">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">

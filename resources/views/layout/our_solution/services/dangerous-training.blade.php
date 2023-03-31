@@ -64,7 +64,7 @@
         </div>
     </div>
 
-    <div class="container-xxl py-5 bg-light">
+    <div class="container-xxl py-5 mb-5 bg-light">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -131,9 +131,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="justify-content-center" style="text-align: center;">
+                    <!-- <div class="justify-content-center" style="text-align: center;">
                         <a href="/" class="btn btn-danger mb-3">VIEW ALL COURSES</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
