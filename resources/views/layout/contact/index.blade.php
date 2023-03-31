@@ -33,7 +33,7 @@
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 21%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">EMAIL</h5>
-                                    <a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a>
+                                    <p>chris@dg-idpackaging.com</p>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 21%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">PHONE</h5>
-                                    <a href="tel:+622188965802">021-88965802</a>
+                                    <p>+62 852-1694-1433</p>
                                 </div>
                             </div>
                         </div>
