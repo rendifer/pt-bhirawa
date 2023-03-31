@@ -49,28 +49,19 @@
         <img class="img-fluid" src="template/img/icon/box7.png" alt="" style=" margin-top: -45%; margin-left: 16%; width: 70%;">
     </div>
 
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3>
-                        Why Our Clients <span class="text-danger">Choose Us</span> 
-                    </h3>
-                    <p>
-                        Throughout the years, we have become the go-to transportation company for the world’s largest organisations and brands. Combining our vast experience with a global network ensures that all goods are treated with special care.
-                    </p>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="h-100 m-4">
-                        <div class="row g-12 ms-5">
-                            <div class="col-sm-6" data-wow-delay="0.1s">
-                                <img class="img-fluid" style="width: 70%;" src="template/img/icon/rpx.png" alt="">
-                            </div>
-                            <div class="col-sm-6" data-wow-delay="0.1s">
-                                <img class="img-fluid" style="width: 70%;" src="template/img/icon/gambar-4.png" alt="">
-                            </div>
-                        </div>
-                    </div>
+
+    <div class="container mb-5">
+        <div class="row">
+            <div class="col-lg-6 pt-5 wow fadeInUp" data-wow-delay="0.5s">
+                <h3>
+                    Why Our Clients <span class="text-danger">Choose Us</span> 
+                </h3>
+                <p>
+                    Throughout the years, we have become the go-to transportation company for the world’s largest organisations and brands. Combining our vast experience with a global network ensures that all goods are treated with special care.
+                </p>
+            </div>
+                <div class="col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
+                    <img class="img-fluid" src="template/img/icon/partnership.png" alt="">
                 </div>
             </div>
         </div>
@@ -397,9 +388,9 @@
                 </div>
             </div>
         </div>
-        <div class="mt-3" style="text-align: center;">
+        <!-- <div class="mt-3" style="text-align: center;">
             <a href="/" class="btn btn-danger mb-3">View More</a>
-        </div>
+        </div> -->
     </div>
 
     <div class="container-fluid appointment mb-5 py-5 wow fadeIn" data-wow-delay="0.1s" style="">

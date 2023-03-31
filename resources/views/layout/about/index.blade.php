@@ -57,7 +57,7 @@
                     <div class="row g-12 justify-content-center">
                         <div class="col-sm-6 wow fadeIn mb-5" data-wow-delay="0.1s">
                             <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 h-100" style="padding-bottom: 18%;">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 h-100" style="padding-bottom: 11%;">
                                     <img class="align-self-center mb-3 bg-white" src="template/img/icon/about1.png" alt="" style="width: 25%; margin-top: -10%;">
                                     <h5 class="mb-0 text-danger">CORPORATE VISION</h5>
                                     <br>

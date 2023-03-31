@@ -18,7 +18,7 @@
                                     <h1 class="display-3 text-dark animated slideInDown text-white">DG PACKAGING</h1>
                                     <h2 class="display-4 text-dark mb-4 animated slideInDown text-white">INDONESIA</h2>
                                     <p class="fs-5 mb-5" style="color: white;">Transporting dangerous goods, biomedical and temperature sensitive packaging has never been safer or easier. Here at DG Packaging, we provide complete dangerous goods packaging and transport service.</p>
-                                    <a href="" class="btn btn-danger py-3 px-5">More Details</a>
+                                    <a href="#details" class="btn btn-danger py-3 px-5">More Details</a>
                                 </div>
                             </div>
                         </div>
@@ -27,7 +27,12 @@
             </div>
         </div>
     </div>
-
+    <div class="container mt-5 mb-5">
+        <div class="row">
+            <div class="col-lg-12" id="details">
+            </div>
+        </div>
+    </div>
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
@@ -70,14 +75,14 @@
             </div>
         </div>
     </div>
-
+    
     <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container" style="text-align: center;">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="display-6 text-white mb-5">OUR FEATURED PRODUCTS</h1>
                     <p class="text-white mb-5">Beyond being a provider of integrated logistics services, DG Packaging assists to appropriately repackage your dangerous goods. Secure packaging options include specialized boxes, biomedical packaging, U.N. boxes, pallets, drums, labelling and more.</p>
-                    <a href="/dangerous-goods-un-boxes" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Produtcs</a>
+                    <a href="/dangerous-goods-un-boxes" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Products</a>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <img class="img-fluid" src="template/img/icon/icon-5.png" alt="" style="width: 70%;">
@@ -184,12 +189,12 @@
                         <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
                         <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
                         <div class="row g-12">
-                            <div class="col-sm-6" data-wow-delay="0.1s">
-                                <img class="img-fluid m-5" style="width: 55%;" src="template/img/icon/rpx.png" alt="">
+                            <div class="col-sm-12" data-wow-delay="0.1s">
+                                <img class="img-fluid" src="template/img/icon/partnership.png" alt="">
                             </div>
-                            <div class="col-sm-6" data-wow-delay="0.1s">
+                            <!-- <div class="col-sm-6" data-wow-delay="0.1s">
                                 <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -259,19 +264,17 @@
         </div>
     </div>
 
-    <div class="container-fluid bg-home py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container" style="text-align: center;">
-            <div class="row g-12 ">
-                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="text-white">Find Us</h1>
-                    <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
-                        <div class="position-relative rounded overflow-hidden h-100">
-                            <iframe class="position-relative w-100 h-100"
+    
+    <div class="container-fluid py-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="row">
+        <h1 class="text-black text-center">Find Us</h1>
+            <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
+                <div class="overflow-hidden h-100">
+                    <iframe class="position-relative w-100 h-100"
                             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d991.5294379190411!2d106.9773814!3d-6.2482108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698d7d65c78e09%3A0xb90fbb4c7d103f12!2sDG%20Packaging%20Indonesia%20-%20PT.%20Daya%20Guna%20Perkasa!5e0!3m2!1sid!2sid!4v1679394655666!5m2!1sid!2sid"
                             frameborder="0" style="min-height: 500px; border:0;" allowfullscreen="" aria-hidden="false"
-                            tabindex="0"></iframe>
-                        </div>
-                    </div>
+                            tabindex="0">
+                    </iframe>
                 </div>
             </div>
         </div>

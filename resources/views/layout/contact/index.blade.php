@@ -19,7 +19,7 @@
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <h2 class="text-danger">REACH US</h2>
                     <div class="row g-12">
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
+                        <div class="col-sm-4 mb-3 wow fadeIn" data-wow-delay="0.1s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 py-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.png" alt="" style="width: 42%;">
@@ -28,29 +28,21 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
+                        <div class="col-sm-4 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 14%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">EMAIL</h5>
-                                    <p>chris@dg-idpackaging.com</p>
+                                    <a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.3s">
+                        <div class="col-sm-4 mb-3 wow fadeIn" data-wow-delay="0.3s">
                             <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 18%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-danger">PHONE</h5>
-                                    <p>+62 852-1694-1433</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-3 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 61%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_4.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-danger">SOCIAL MEDIA</h5>
+                                    <a href="tel:+622188965802">021-88965802</a>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +52,7 @@
         </div>
     </div>
 
-    <div class="container-xxl py-5 bg-light">
+    <div class="container-xxl mb-5 py-5 bg-light">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
