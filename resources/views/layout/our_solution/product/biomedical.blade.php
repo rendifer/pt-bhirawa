@@ -54,7 +54,7 @@
                     <span class="">
                         THE NEED FOR
                     </span>
-                    <h2 class="mb-3 text-danger">
+                    <h2 class="mb-3 text-danger>
                         4GV PACKAGING
                     </h2>
                     <p class="mb-3">
@@ -72,14 +72,14 @@
         <div class="container px-lg-5">
             <div class="section-title position-relative mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s">
                 <span>WE PROVIDE COMPREHENSIVE</span>
-                <h2 class="text-danger">PACKAGING SOLUTIONS</h2>
+                <h2 class="text-ddangerPACKAGING SOLUTIONS</h2>
             </div>
             <div class="row g-6">
                 <div class="col-lg-6 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
-                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden" style="padding-bottom: 19%;">
+                    <div class="team-item border-top border-5 border-dadangerunded shadow overflow-hidden" style="padding-bottom: 19%;">
                         <div class="text-center">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/barang-4.jpg" style="width: 60%;" alt="">
-                            <h4 class="text-danger">DGP PATHOPAK 1LTR, 2LTR AND 3LTR</h4>
+                            <h4 class="text-dandangerP PATHOPAK 1LTR, 2LTR AND 3LTR</h4>
                         </div>
                         <div class="p-4">
                             <ul>
@@ -94,10 +94,10 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
+                    <div class="team-item border-top border-5 border-dangdangerded shadow overflow-hidden">
                         <div class="text-center">
                             <img class="justify-content-center img-fluid rounded-circle mb-4" src="template/img/icon/barang-5.jpg" style="width: 60%;" alt="">
-                            <h4 class="text-danger">DGP BIOTHERM 5,10,25,45,70</h4>
+                            <h4 class="text-dangedangerBIOTHERM 5,10,25,45,70</h4>
                         </div>
                         <div class="p-4">
                             <ul>
@@ -124,8 +124,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div>
                         <span>MORE ABOUT</span>
-                        <h3 class="mb-3 text-danger">
-                            DRY ICE PACKAGING
+                        <h3 class="mb-3 text-dangerdanger                         DRY ICE PACKAGING
                         </h3>
                         <p>
                             The use of dry ice and cold gel packs involves much planning and expertise when packing. Considerations given include:

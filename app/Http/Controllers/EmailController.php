@@ -23,7 +23,7 @@ class EmailController extends Controller
             'message' => 'required'
         ]);
 
-        Mail::to('fhahroulrozi@gmail.com')->send(New Email($email));
+        Mail::to('rendiferdian2112@gmail.com')->send(New Email($email));
         // ContactUs::create( $email);
         return redirect()->back()
                          ->with(['success' => 'Thank you for contact us. we will contact you shortly.']);

@@ -2,7 +2,7 @@
 
 @section('solution')
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Our Solution</a>
+        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Others Product</a>
         <div class="dropdown-menu bg-light">
             <ul>
                 <h6>SERVICES</h6>
@@ -32,7 +32,7 @@
                 <div class="col-lg-12 facts-text wow fadeIn mt-5" style="padding-bottom: 15%;" data-wow-delay="0.1s">
                     <div class="h-100 px-4 ps-lg-0 text-center">
                         <span class="text-white">The Best Solution To Transport Lithium Batteries Because We Don't Do Good, We Do Great.</span>
-                        <h1 class="text-danger mb-4 text-white">TRANSPORT DANGEROUS GOODS SAFELY & EFFORTLESSLY</h1>
+                        <h1 class="text-dark mb-4 text-white">TRANSPORT DANGEROUS GOODS SAFELY & EFFORTLESSLY</h1>
                         <p class="text-dark mb-3 text-white">
                             To keep battery shipments by air as safe as possible, the International Civil Aviation Organization (ICAO) adopted a more restrictive global regulation. As of January 1, 2022, IATA Packing Instructions PI 965 and PI 968 no longer contain Section II provisions of the DGR. Learn how DG Packaging can help to ship your lithium batteries safely.
                         </p>
@@ -54,7 +54,7 @@
         <div class="row">
             <div class="col-lg-6 pt-5 wow fadeInUp" data-wow-delay="0.5s">
                 <h3>
-                    Why Our Clients <span class="text-danger">Choose Us</span> 
+                    Why Our Clients <span class="text-dark">Choose Us</span> 
                 </h3>
                 <p>
                     Throughout the years, we have become the go-to transportation company for the world’s largest organisations and brands. Combining our vast experience with a global network ensures that all goods are treated with special care.
@@ -71,7 +71,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <h4 class="text-center">
-                    What To Expect In The <span class="text-danger">New Regulations</span>
+                    What To Expect In The <span class="text-dark">New Regulations</span>
                 </h4>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <ul>
@@ -119,7 +119,7 @@
             <div class="row g-12 ">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
                     <img class="img-fluid mt-3 mb-3" src="template/img/icon/icon2.png" alt="" style="">
-                    <h3 class="text-dark mb-3 text-center">Worldwide Shipping Of Lithium Batteries - <span class="text-danger">Safely & Swiftly</span></h3>
+                    <h3 class="text-dark mb-3 text-center">Worldwide Shipping Of Lithium Batteries - <span class="text-dark">Safely & Swiftly</span></h3>
                     <p class="text-dark mb-3 text-center">Dangerous goods are highly hazardous and without proper care of transporting and handling, the risk of large-scale damages may arise.</p>
                     <p class="text-dark text-center">Here at DG Packaging, our team is committed to providing top-notch overseas shipping services that comply with the IATA regulations for air shipments and IMDG for sea shipments.</p>
                 </div>
@@ -142,7 +142,7 @@
     <div class="container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h2 class="mb-3">Consult With <span class="text-danger">Our Experts</span></h2>
+                <h2 class="mb-3">Consult With <span class="text-dark">Our Experts</span></h2>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -176,7 +176,7 @@
     <div class="container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
-                <h2 class="mb-3">How DG Packaging Can <span class="text-danger">Meet Your Needs</span></h2>
+                <h2 class="mb-3">How DG Packaging Can <span class="text-dark">Meet Your Needs</span></h2>
                 <p>The wide range of services we offer will guarantee you peace of mind, as every service we offer conforms to the IATA standards.</p>
             </div>
             <div class="row g-4">
@@ -184,7 +184,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-4">
                         <div class="text-center p-4">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon6.png" style="width: 30%;" alt="">
-                            <h6 class="text-danger">Dangerous Goods Packaging Services</h6>
+                            <h6 class="text-dark">Dangerous Goods Packaging Services</h6>
                             <p>We have a team of trained professionals who will provide you with the highest level of safety and service possible, whether it is handling, packing or transporting dangerous goods. The services we offer include packaging, labeling and marking of dangerous goods, repackaging and inspection services on-site, and more!</p>
                         </div>
                     </div>
@@ -193,7 +193,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-5">
                         <div class="text-center p-4">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon7.png" style="width: 30%;" alt="">
-                            <h6 class="text-danger">Biomedical Services</h6>
+                            <h6 class="text-dark">Biomedical Services</h6>
                             <p>
                                 In order to pack biomedical items, there is a need to pre-sterilize, breathability needs, degree levels of protection as well as individual dimensions of components. We offer comprehensive packaging for industries such as Biomedical, Biotech, Clinical & Pharmaceutical. Additionally, our clients can request custom medical packaging!
                             </p>
@@ -204,7 +204,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center p-4">
                             <img class="img-fluid rounded-circle mb-4" src="template/img/icon/icon8.png" style="width: 30%;" alt="">
-                            <h6 class="text-danger">Temperature Sensitive Packaging</h6>
+                            <h6 class="text-dark">Temperature Sensitive Packaging</h6>
                             <p>
                                 Our team has a vast knowledge of insulating materials and refrigerants. We provide solutions that comply with IATA regulations, which take into account your goods' characteristics and the environment of transit. You can be confident that your goods will remain within the safe temperature range during any overseas shipping, air logistics, or unexpected delays at any stopover.
                             </p>
@@ -223,7 +223,7 @@
     <div class="container bg-white shadow mb-5 py-5" style="margin-top: -20%;">
         <div class="container">
             <div class="section-title position-relative text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <h2 class="mb-3"><span class="text-danger">Trusted Quality </span>Packaging Solution</h2>
+                <h2 class="mb-3"><span class="text-dark">Trusted Quality </span>Packaging Solution</h2>
             </div>
             <div class="row ">
                 <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
@@ -274,7 +274,7 @@
         <div class="container px-lg-5">
             <div class="row g-5 justify-content-center">
                 <div class="col-md-6">
-                    <h3 class="text-center mb-5">Why <span class="text-danger">Clients</span> Choose Us</h3>
+                    <h3 class="text-center mb-5">Why <span class="text-dark">Clients</span> Choose Us</h3>
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative bg-white shadow border-top border-5 border-danger rounded p-4 my-4">
                             <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-0 ms-5 translate-middle bg-danger rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
@@ -389,7 +389,7 @@
             </div>
         </div>
         <!-- <div class="mt-3" style="text-align: center;">
-            <a href="/" class="btn btn-danger mb-3">View More</a>
+            <a href="/" class="btn btn-primary mb-3">View More</a>
         </div> -->
     </div>
 
@@ -414,7 +414,7 @@
                             {{Session::get('success')}}
                         </div>
                     @endif
-                    <h3 class="mb-5 text-center">Give Us A <span class="text-danger">Call</span> & We'll Do It <span class="text-danger">All</span></h3>
+                    <h3 class="mb-5 text-center">Give Us A <span class="text-dark">Call</span> & We'll Do It <span class="text-dark">All</span></h3>
                     <form id="myForm" method="post" action="{{ route('contactUs') }}" >
                         @csrf
                         <div class="row g-3">
@@ -423,7 +423,7 @@
                                     <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
                                     <label for="name">Your Name</label>
                                     @if ($errors->has('nama'))
-                                        <span class="text-danger">{{ $errors->first('nama') }}</span>
+                                        <span class="text-dark">{{ $errors->first('nama') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -432,7 +432,7 @@
                                     <input type="email" class="form-control" id="email" placeholder="Your Email" name="email">
                                     <label for="email">Your Email</label>
                                     @if ($errors->has('email'))
-                                        <span class="text-danger">{{ $errors->first('email') }}</span>
+                                        <span class="text-dark">{{ $errors->first('email') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -441,7 +441,7 @@
                                     <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
                                     <label for="subject">Subject</label>
                                     @if ($errors->has('subject'))
-                                        <span class="text-danger">{{ $errors->first('subject') }}</span>
+                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -450,12 +450,12 @@
                                     <textarea class="form-control" placeholder="Leave a message here" id="message" name="message" style="height: 100px"></textarea>
                                     <label for="message">Message</label>
                                     @if ($errors->has('message'))
-                                        <span class="text-danger">{{ $errors->first('message') }}</span>
+                                        <span class="text-dark">{{ $errors->first('message') }}</span>
                                     @endif
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-danger" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>

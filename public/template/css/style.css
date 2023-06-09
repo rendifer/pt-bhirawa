@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #bc2631;
-    --secondary: #ff4343;
+    --primary: #14056a;
+    --secondary: #2d11aa;
     --light: #f6f7fc;
-    --dark: #a40303;
+    --dark: #14056a;
 }
 
 .back-to-top {
@@ -151,19 +151,19 @@
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
     color: white;
-    background-color: #a40303;
+    background-color: #14056a;
     border-bottom-right-radius: 40%;
     border-top-left-radius: 40%;
 }
 
 .dropdown-item.active {
     color: white;
-    background-color: #a40303;
+    background-color: #14056a;
 }
 
 .dropdown-item:hover {
     color: white;
-    background-color: #a40303;
+    background-color: #14056a;
 }
 
 .navbar .dropdown-toggle::after {
@@ -251,7 +251,7 @@
 }
 
 .page-header {
-    background: url(../img/icon/barang.jpg) center center no-repeat;
+    background: url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -306,8 +306,8 @@
 }
 
 .container.facts .facts-text {
-    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
-        url(../img/icon/barang.jpg) center right no-repeat;
+    background: linear-gradient(rgb(7, 1, 63, 0.728), rgba(7, 1, 63, 0.728)),
+        url(../img/pt.jpg) center right no-repeat;
     background-size: cover;
 }
 
@@ -316,7 +316,7 @@
             rgba(255, 255, 255, 0.9),
             rgba(255, 255, 255, 0.9)
         ),
-        url(../img/icon/barang.jpg) center right no-repeat;
+        url(../img/pt.jpg) center right no-repeat;
     background-size: cover;
 }
 
@@ -360,14 +360,14 @@
 
 /*** Appointment ***/
 .appointment {
-    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
-        url(../img/icon/barang.jpg) center center no-repeat;
+    background: linear-gradient(rgba(7, 1, 63, 0.728), rgba(7, 1, 63, 0.728)),
+        url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .safety {
-    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
-        url(../img/icon/barang.jpg) center center no-repeat;
+    background: linear-gradient(rgba(7, 1, 63, 0.728, 0.728), rgba(7, 1, 63, 0.728)),
+        url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
     transform: skew(0deg, 5deg) translateY(-50px);
     margin-top: 8%;
@@ -380,8 +380,8 @@
 }
 
 .appointment2 {
-    background: linear-gradient(rgba(131, 2, 2, 0.9), rgba(131, 2, 2, 0.9)),
-        url(../img/icon/barang.jpg) center center no-repeat;
+    background: linear-gradient(rgba(7, 1, 63, 0.728), rgba(7, 1, 63, 0.728)),
+        url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
     transform: skew(0deg, 5deg) translateY(-50px);
     margin-top: 15%;
@@ -402,12 +402,12 @@
             rgba(255, 255, 255, 0.9),
             rgba(255, 255, 255, 0.9)
         ),
-        url(../img/icon/barang.jpg) center center no-repeat;
+        url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .bg-home {
-    background: url(../img/icon/barang.jpg) center center no-repeat;
+    background: url(../img/pt.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -415,7 +415,7 @@
 .team-item {
     position: relative;
     overflow: hidden;
-    box-shadow: 0 0 45px rgba(0, 0, 0, 0.07);
+    /* box-shadow: 0 0 45px rgba(0, 0, 0, 0.07); */
 }
 
 .team-item img {
@@ -445,7 +445,7 @@
 }
 
 .team-item a.btn:hover {
-    color: #ffffff;
+    /* color: #ffffff; */
     background: var(--primary);
     border-color: var(--primary);
 }
@@ -581,7 +581,7 @@
 }
 
 .lithium {
-    background-color: #a40303;
+    background-color: #14056a;
 }
 
 /*** Comparison ***/

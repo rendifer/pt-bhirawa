@@ -2,7 +2,7 @@
 
 @section('solution')             
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Our Solution</a>
+        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Others Product</a>
         <div class="dropdown-menu bg-light">
             <ul>
                 <h6>SERVICES</h6>
@@ -54,7 +54,7 @@
                     <span class="">
                         THE CHALLENGE OF
                     </span>
-                    <h2 class="mb-3 text-danger">
+                    <h2 class="mb-3 text-dark">
                         PACKING LITHIUM METAL & ION BATTERIES
                     </h2>
                     <p class="mb-3">
@@ -72,14 +72,14 @@
         <div class="container px-lg-5">
             <div class="section-title position-relative mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s">
                 <span>WE PROVIDE COMPREHENSIVE</span>
-                <h2 class="text-danger">LITHIUM BATTERIES PACKAGING SOLUTIONS</h2>
+                <h2 class="text-dark">LITHIUM BATTERIES PACKAGING SOLUTIONS</h2>
             </div>
             <div class="row g-6">
                 <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center">
                             <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-7.jpg" style="width: 90%;" alt="">
-                            <h4 class="text-danger">SECTION IA BOX</h4>
+                            <h4 class="text-dark">SECTION IA BOX</h4>
                         </div>
                         <div class="p-4" style="font-size: 15px;">
                             <ul>
@@ -93,7 +93,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center">
                             <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-8.jpg" style="width: 90%;" alt="">
-                            <h4 class="text-danger">SECTION IB BOX</h4>
+                            <h4 class="text-dark">SECTION IB BOX</h4>
                         </div>
                         <div class="p-4" style="font-size: 15px;">
                             <ul>
@@ -107,7 +107,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center">
                             <img class="img-fluid rounded-circle mb-3" src="template/img/icon/barang-9.jpg" style="width: 90%;" alt="">
-                            <h4 class="text-danger">SECTION II BOX</h4>
+                            <h4 class="text-dark">SECTION II BOX</h4>
                         </div>
                         <div class="p-4" style="font-size: 15px;">
                             <ul>
@@ -127,7 +127,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div>
                         <span>MORE ABOUT</span>
-                        <h3 class="mb-3 text-danger">
+                        <h3 class="mb-3 text-dark">
                             PACKING LITHIUM METAL & ION BATTERIES
                         </h3>
                         <p>

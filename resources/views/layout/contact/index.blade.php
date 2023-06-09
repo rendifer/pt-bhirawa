@@ -17,13 +17,13 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <h2 class="text-danger">REACH US</h2>
+                    <h2 class="text-dark">REACH US</h2>
                     <div class="row g-12">
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 py-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-danger">ADDRESS</h5>
+                                    <h5 class="mb-0  text-dark">ADDRESS</h5>
                                     <p>Ruko kali malang square, Jl.KH Noer Ali Blok E.22, RT.007/RW.003, Pekayon Jaya, Bekasi Selatan, Bekasi City, West Java 17148</p>
                                 </div>
                             </div>
@@ -32,7 +32,7 @@
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-danger">EMAIL</h5>
+                                    <h5 class="mb-0  text-dark">EMAIL</h5>
                                     <p>chris@dg-idpackaging.com</p>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-danger">PHONE</h5>
+                                    <h5 class="mb-0  text-dark">PHONE</h5>
                                     <p>+62 852-1694-1433</p>
                                 </div>
                             </div>
@@ -50,7 +50,7 @@
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 61%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_4.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-danger">SOCIAL MEDIA</h5>
+                                    <h5 class="mb-0  text-dark">SOCIAL MEDIA</h5>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
         </div>
     </div>
 
-    <div class="container-xxl py-5 bg-light">
+    <div class="container-fluid py-5 bg-light">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
@@ -69,7 +69,7 @@
                             {{Session::get('success')}}
                         </div>
                     @endif
-                    <h3 class="mb-5 text-danger">NEED HELP? CONTACT US!</h3>
+                    <h3 class="mb-5 text-dark">NEED HELP? CONTACT US!</h3>
                     <form id="myForm" method="post" action="{{ route('contactUs') }}" >
                         @csrf
                         <div class="row g-3">
@@ -78,7 +78,7 @@
                                     <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
                                     <label for="name">Your Name</label>
                                     @if ($errors->has('nama'))
-                                        <span class="text-danger">{{ $errors->first('nama') }}</span>
+                                        <span class="text-dark">{{ $errors->first('nama') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -87,7 +87,7 @@
                                     <input type="email" class="form-control" id="email" placeholder="Your Email" name="email">
                                     <label for="email">Your Email</label>
                                     @if ($errors->has('email'))
-                                        <span class="text-danger">{{ $errors->first('email') }}</span>
+                                        <span class="text-dark">{{ $errors->first('email') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -96,7 +96,7 @@
                                     <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
                                     <label for="subject">Subject</label>
                                     @if ($errors->has('subject'))
-                                        <span class="text-danger">{{ $errors->first('subject') }}</span>
+                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -105,12 +105,12 @@
                                     <textarea class="form-control" placeholder="Leave a message here" id="message" name="message" style="height: 100px"></textarea>
                                     <label for="message">Message</label>
                                     @if ($errors->has('message'))
-                                        <span class="text-danger">{{ $errors->first('message') }}</span>
+                                        <span class="text-dark">{{ $errors->first('message') }}</span>
                                     @endif
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-danger" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>

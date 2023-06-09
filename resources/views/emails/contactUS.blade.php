@@ -193,7 +193,7 @@
                                                             >
                                                                 <img
                                                                     height="auto"
-                                                                    src="https://www.dg-packaging.com/wp-content/uploads/2021/03/Asset-2.png"
+                                                                    src="https://th.bing.com/th/id/OIP.h3LRwNs6C380QEz4MjshqAAAAA?pid=ImgDet&rs=1"
                                                                     style="
                                                                         border: 0;
                                                                         display: block;
@@ -229,8 +229,7 @@
                                                         color: #555;
                                                     "
                                                 >
-                                                    Welcome to DG Packaging
-                                                    Indonesia
+                                                    Welcome to <br /> PT. BHIRAWA METAL MANDIRI
                                                 </div>
                                             </td>
                                         </tr>

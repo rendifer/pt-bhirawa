@@ -2,7 +2,7 @@
 
 @section('solution')             
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Our Solution</a>
+        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Others Product</a>
         <div class="dropdown-menu bg-light">
             <ul>
                 <h6>SERVICES</h6>
@@ -37,14 +37,14 @@
     <div class="container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
-                <h2 class="text-danger">OTHER PACKAGING SOLUTIONS</h2>
+                <h2 class="text-dark">OTHER PACKAGING SOLUTIONS</h2>
             </div>
             <div class="row g-6" style="margin-top: -5%;">
                 <div class="col-lg-4 col-md-6 wow fadeInUp mb-3" data-wow-delay="0.1s">
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden">
                         <div class="text-center">
                             <img class="mb-3" src="template/img/icon/barang-11.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger">INNER PACKAGING</h4>
+                            <h4 class="text-dark">INNER PACKAGING</h4>
                         </div>
                         <div class="p-1" style="">
                             <ul>
@@ -58,7 +58,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden pb-5">
                         <div class="text-center">
                             <img class="mb-3" src="template/img/icon/barang-12.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger">UN PLASTIC STEEL DRUMS</h4>
+                            <h4 class="text-dark">UN PLASTIC STEEL DRUMS</h4>
                         </div>
                         <div class="p-1" style="">
                             <ul>
@@ -72,7 +72,7 @@
                     <div class="team-item border-top border-5 border-danger rounded shadow overflow-hidden" style="padding-bottom: 21%;">
                         <div class="text-center">
                             <img class="mb-3" src="template/img/icon/barang-13.jpg" style="width: 100%;" alt="">
-                            <h4 class="text-danger">STYROFOAM CHIPS</h4>
+                            <h4 class="text-dark">STYROFOAM CHIPS</h4>
                         </div>
                         <div class="p-1" style="">
                             <ul>
@@ -92,7 +92,7 @@
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div>
                         <span>CAN’T FIND YOUR DESIRED PRODUCT?</span>
-                        <h3 class="mb-3 text-danger">
+                        <h3 class="mb-3 text-dark">
                             CONSULT OUR PACKAGING EXPERTS
                         </h3>
                         <p>
@@ -123,7 +123,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="overflow-hidden">
                         <div class="mb-2">
-                            <h4 class="text-danger">Package Type:</h4>
+                            <h4 class="text-dark">Package Type:</h4>
                         </div>
                         <div class="" style="font-size: 15px;">
                             <span>1 — Drums/Pails</span><br>
@@ -138,7 +138,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden pb-3">
                         <div class="mb-2">
-                            <h4 class="text-danger">Material:</h4>
+                            <h4 class="text-dark">Material:</h4>
                         </div>
                         <div class="" style="font-size: 15px;">
                             <span>A – Steel</span><br>
@@ -158,7 +158,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden">
                         <div class="mb-2">
-                            <h4 class="text-danger">Category:</h4>
+                            <h4 class="text-dark">Category:</h4>
                         </div>
                         <div class="" style="font-size: 15px;">
                             <span>1 — Closed Head</span><br>
@@ -169,7 +169,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="overflow-hidden">
                         <div class="mb-2">
-                            <h4 class="text-danger">Packaging Group:</h4>
+                            <h4 class="text-dark">Packaging Group:</h4>
                         </div>
                         <div class="" style="font-size: 15px;">
                             <span>X — Meets group I, II, and III’s test</span><br>
@@ -187,7 +187,7 @@
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div>
-                        <h3 class="mb-3 text-danger">
+                        <h3 class="mb-3 text-dark">
                             Density or Specific Gravity:
                         </h3>
                         <span>Density — For solids that have inner packagings they need to be marked with the maximum gross mass (weight) in kilograms.</span><br>

@@ -2,7 +2,7 @@
 
 @section('solution')             
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Our Solution</a>
+        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Others Product</a>
         <div class="dropdown-menu bg-light">
             <ul>
                 <h6>SERVICES</h6>
@@ -38,7 +38,7 @@
                 <div class="col-lg-12 facts-text wow fadeIn mt-5" data-wow-delay="0.1s">
                     <div class="h-100 px-4 ps-lg-0">
                         <span>THE CHALLENGE OF</span>
-                        <h3 class="text-danger mb-4">PACKING DANGEROUS GOODS</h3>
+                        <h3 class="text-dark mb-4">PACKING DANGEROUS GOODS</h3>
                         <p class="text-dark mb-3">
                             Dangerous goods have specific packing requirements that ensure a safe transportation to their new location. Also known as hazmat logistics, the transportation of these materials is governed by the IATA Dangerous Goods regulations as well as the International Maritime Dangerous Goods and the International Carraige of Dangerous Goods by Road.
                         </p>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.1s">
                     <span>WE PROVIDE COMPREHENSIVE</span>
-                    <h2 class="mb-3 text-danger">
+                    <h2 class="mb-3 text-dark">
                         HAZARDOUS PACKING
                     </h2>
                     <p class="mb-4">
@@ -87,7 +87,7 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-3 text-danger">
+                    <h3 class="mb-3 text-dark">
                         UN CERTIFIED PACKAGING FOR DANGEROUS GOODS
                     </h3>
                     <p class="mb-4">
@@ -134,7 +134,7 @@
                     </div>
                 </div>
                 <div class="col-12 col-lg-12" style="text-align: center;" data-wow-delay="0.5s">
-                    <a href="/contact" class="btn btn-danger">Contact Us</a>
+                    <a href="/contact" class="btn btn-primary">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -150,7 +150,7 @@
                             <div class="row justify-content-center" style="text-align: center;">
                                 <div class="container py-5 text-center bg-light">
                                     <span class="text-dark">WHY CHOOSE US FOR</span>
-                                    <h3 class="animated slideInDown mb-4 text-danger">HAZMAT LOGISTICS</h3>
+                                    <h3 class="animated slideInDown mb-4 text-dark">HAZMAT LOGISTICS</h3>
                                     <p class="text-dark">DG Packaging’s strong compliance with international regulations gives our clients’ confidence in our dangerous goods packaging solutions. From understanding the properties of the goods and the environment (temperature, humidity, sterilization), to our strong logistics expertise, we ensure that your volatile goods are transported safely. With our assistance, you can rest easy knowing that no hazards or unreasonable delays will be encountered.</p>
                                 </div>
                             </div>

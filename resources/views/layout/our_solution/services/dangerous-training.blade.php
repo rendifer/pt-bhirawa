@@ -2,7 +2,7 @@
 
 @section('solution')
     <div class="nav-item dropdown">
-        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Our Solution</a>
+        <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Others Product</a>
         <div class="dropdown-menu bg-light">
             <ul>
                 <h6>SERVICES</h6>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <span>WE PROVIDE</span>
-                    <h2 class="mb-3 text-danger">
+                    <h2 class="mb-3 text-dark">
                         DANGEROUS GOODS TRAINING
                     </h2>
                     <p class="mb-4">
@@ -69,7 +69,7 @@
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row g-12 justify-content-center">
-                        <h3 class="text-danger text-center">Why is CBTA so important?</h3>
+                        <h3 class="text-dark text-center">Why is CBTA so important?</h3>
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center py-4 px-3">
@@ -132,7 +132,7 @@
                         </div>
                     </div>
                     <!-- <div class="justify-content-center" style="text-align: center;">
-                        <a href="/" class="btn btn-danger mb-3">VIEW ALL COURSES</a>
+                        <a href="/" class="btn btn-primary mb-3">VIEW ALL COURSES</a>
                     </div> -->
                 </div>
             </div>

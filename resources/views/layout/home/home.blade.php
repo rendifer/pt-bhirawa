@@ -10,15 +10,13 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="template/img/icon/barang.jpg" alt="Image">
+                    <img class="w-100" src="template/img/pt.jpg" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row" style="text-align: center;">
                                 <div class="col-12 col-lg-12">
-                                    <h1 class="display-3 text-dark animated slideInDown text-white">DG PACKAGING</h1>
-                                    <h2 class="display-4 text-dark mb-4 animated slideInDown text-white">INDONESIA</h2>
-                                    <p class="fs-5 mb-5" style="color: white;">Transporting dangerous goods, biomedical and temperature sensitive packaging has never been safer or easier. Here at DG Packaging, we provide complete dangerous goods packaging and transport service.</p>
-                                    <a href="#details" class="btn btn-danger py-3 px-5">More Details</a>
+                                    <h1 class="display-3 text-dark animated slideInDown text-white">PT. BHIRAWA METAL MANDIRI</h1>
+                                    <a href="#details" class="btn btn-primary py-3 px-5">More Details</a>
                                 </div>
                             </div>
                         </div>
@@ -33,40 +31,127 @@
             </div>
         </div>
     </div>
-    <div class="container-xxl py-5">
+
+    <div class="container-xxl py-5 mb-5">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="row g-12">
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-1.png" alt="" style="width: 40%;">
-                                    <h5 class="mb-0">Easy Process</h5>
+                    <div class="row g-12 justify-content-center">
+                        <h1 class="text-dark text-center">Products</h1>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-5.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-2.png" alt="" style="width: 40%;">
-                                    <h5 class="mb-0">Fast Delivery</h5>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-2.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-3.png" alt="" style="width: 40%;">
-                                    <h5 class="mb-0">Policy Controlling</h5>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-7.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded py-4 px-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-4.png" alt="" style="width: 40%;">
-                                    <h5 class="mb-0">Money Saving</h5>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-4.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-6.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-3.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-8.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
+                                    <h5 class="mb-0">Upskilling</h5>
+                                    <br>
+                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -77,125 +162,35 @@
     </div>
     
     <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container" style="text-align: center;">
-            <div class="row g-5">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="display-6 text-white mb-5">OUR FEATURED PRODUCTS</h1>
-                    <p class="text-white mb-5">Beyond being a provider of integrated logistics services, DG Packaging assists to appropriately repackage your dangerous goods. Secure packaging options include specialized boxes, biomedical packaging, U.N. boxes, pallets, drums, labelling and more.</p>
-                    <a href="/dangerous-goods-un-boxes" class="btn btn-danger px-3 d-none d-lg-block" style="widows: 10%;">View Products</a>
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="template/img/icon/icon-5.png" alt="" style="width: 70%;">
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container-xxl py-5">
         <div class="container">
-            <div class="text-center mx-auto" style="max-width: 500px;">
-                <h2 class="mb-5 text-danger">FEATURED SERVICES</h2>
-            </div>
-            <div class="row g-5 justify-content-center">
-                <div class="col-lg-6">
-                    <div class="owl-carousel testimonial-carousel">
-                        <div class="bg-danger rounded h-100 p-1">
-                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-3 px-3">
-                                <img class="align-self-center mb-3" src="template/img/icon/icon-6.jpg" alt="" style="width: 40%;">
-                                <h5 class="mb-3 text-center text-danger">DANGEROUS GOODS TRANSPORT</h5>
-                                <ul>
-                                    <li>Fully Licensed Fleet of DG Trucks</li>
-                                    <li>SCDF Licensed</li>
-                                    <li>NEA Licensed</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="bg-danger rounded h-100 p-1">
-                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                                <img class="align-self-center mb-3" src="template/img/icon/icon-7.png" alt="">
-                                <h5 class="mb-3 text-center text-danger">LOGISTICS MANAGEMENT BUSINESS</h5>
-                                <ul>
-                                    <li>International Logistics Service</li>                                
-                                    <li>Warehouse and Distribution</li>
-                                </ul>                         
-                            </div>
-                        </div>
-                        <div class="bg-danger rounded h-100 p-1">
-                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                                <img class="align-self-center mb-3" src="template/img/icon/icon-8.png" alt="">
-                                <h5 class="mb-3 text-center text-danger">CHEMICAL & SPECIALTY LOGISTIC</h5>
-                                <ul>
-                                    <li>Hazardous and Dangerous Goods Logistics Integrator</li>
-                                    <li>Dangerous Goods Packaging Solution Provider</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="bg-danger rounded h-100 p-1">
-                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-3 px-3">
-                                <img class="align-self-center mb-3" src="template/img/icon/icon-9.png" alt="">
-                                <h5 class="mb-3 text-center text-danger">Biomedical SERVICES</h5>
-                                <ul>
-                                    <li>IATA approved DG packaging services</li>
-                                    <li>Packaging of Class 6.2</li>
-                                    <li>Cold room packaging services</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="bg-danger rounded h-100 p-1">
-                            <div class="bg-white d-flex flex-column justify-content-center rounded h-100 py-4 px-3">
-                                <img class="align-self-center mb-3" src="template/img/icon/icon-10.png" alt="">
-                                <h5 class="mb-3 text-center text-danger">TEMPERATURE SENSITIVE PACKAGING</h5>
-                                <ul>
-                                    <li>Validated -2°C to -8°C Coolpac kits available</li>
-                                    <li>Temperature tested performance reports available on request</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container-fluid" data-wow-delay="0.1s">
-        <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                    <h4 class="">CLIENTS CHOOSE US FOR OUR HIGH VALUE SERVICES:</h4>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Dangerous Goods Repackaging Services</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Same day service inclusive of pickup and delivery</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Preparation of Dangerous Goods Declaration</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> On-site Repacking and Inspection Services</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Dangerous Goods Local Pick-up and Delivery</p>      
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> International Transport of Dangerous Goods by Air</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Decanting and Palletizing Services</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> Provision of Dry Ice & Gel Packs for Temperature Control</p>
-                    <p class="text-dark"><i class="fa-solid fa-check"></i> In-house Dangerous Goods Safety Advisors</p>      
-                </div>
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="rounded">
-                        <img class="img-fluid" src="template/img/icon/gambar-1.jpg" alt="">
+                    <h1 class="display-6 text-white mb-5">Tisco Metal Manufacturing Co., Ltd</h1>
+                    <p class="text-white mb-5">
+                        Tisco Metal Manufacturing Co., Ltd. is located in Wuxi, Jiangsu Province. We are a large enterprise, with our own manufacturing plant, the main products are: carbon steel coil, carbon steel plate, seamless steel pipe, galvanized coil and so on. It is widely used in pipeline, chemical industry, aerospace, electric power, decoration, food processing, catering, brewing, machinery hardware, bridge construction and other fields. The company has more than 2000 employees, including 16 senior engineers and assistants, 20 engineering and technical personnel, 20 technical personnel. Our company provides heat treatment, CNC machining, testing, packaging and a series of processing technology. We pay more attention to quality and after-sale service.
+                    </p>
+                    <div class="col-12">
+                        <a href="/about" class="btn btn-primary text-white">View More</a>
                     </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn bg-blue" data-wow-delay="0.5s">
+                    <img class="img-fluid" src="template/img/pt.jpg" alt="" >
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="bg-light">
-        <div class="container-fluid appointment2 wow fadeIn" data-wow-delay="0.1s">
-            <div class="container skew p-5" style="text-align: center;">
-                <div class="row g-12">
-                    <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                        <h1 class="display-6 text-white mb-5">OUR TRUSTED CLIENTS</h1>
-                        <p class="text-white mb-5">Over the years, many of the world’s biggest organisations and brands have come to entrust the transportation of their dangerous goods to us. Our vast experience combined with a global network ensures that special care is given to all goods.</p>
-                        <div class="row g-12">
-                            <div class="col-sm-12" data-wow-delay="0.1s">
-                                <img class="img-fluid" src="template/img/icon/partnership.png" alt="">
-                            </div>
-                            <!-- <div class="col-sm-6" data-wow-delay="0.1s">
-                                <img class="img-fluid" style="width: 55%;" src="template/img/icon/gambar-4.png" alt="">
-                            </div> -->
-                        </div>
+    <div class="container-fluid my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
+                    <h1 class="display-6 text-dark">MAIN PRODUCTS</h1>
+                    <h4 class="text-dark">Our products:</h4>
+                    <p class="text-dark mb-5">
+                        We are a large enterprise, with our own manufacturing plant, the main products are: carbon steel coil, carbon steel plate, seamless steel pipe, galvanized coil and so on. It is widely used in pipeline, chemical industry, aerospace, electric power, decoration, food processing, catering, brewing, machinery hardware, bridge construction and other fields. The company has more than 2000 employees, including 16 senior engineers and assistants, 20 engineering and technical personnel, 20 technical personnel. Our company provides heat treatment, CNC machining, testing, packaging and a series of processing technology.
+                        We pay more attention to quality and after-sale service.Our products are widely used in the Chinese market, with a comprehensive annual production capacity of more than 200,000 tons.
+                    <div class="col-12">
+                        <a href="/about" class="btn btn-primary text-white">View More</a>
                     </div>
                 </div>
             </div>
@@ -206,8 +201,9 @@
         <div class="container">
             <div class="row hazmat">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="text-danger">DG PACKAGING INDONESIA,<br> PACKAGING EXPERT;</h1>
-                    <p class="text-dark">Our first priority At DG Packaging Indonesia, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
+                    <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI,</h1>
+                    <h1 class="text-dark"> ENCLOUSURE & METALSHEET PRODUCTS;</h1>
+                    <p class="text-dark">Our first priority At PT. BHIRAWA METAL MANDIRI, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     @if(Session::has('success'))
@@ -223,7 +219,7 @@
                                     <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
                                     <label for="name">Your Name</label>
                                     @if ($errors->has('nama'))
-                                        <span class="text-danger">{{ $errors->first('nama') }}</span>
+                                        <span class="text-dark">{{ $errors->first('nama') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -232,7 +228,7 @@
                                     <input type="email" class="form-control" id="email" placeholder="Your Email" name="email">
                                     <label for="email">Your Email</label>
                                     @if ($errors->has('email'))
-                                        <span class="text-danger">{{ $errors->first('email') }}</span>
+                                        <span class="text-dark">{{ $errors->first('email') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -241,7 +237,7 @@
                                     <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
                                     <label for="subject">Subject</label>
                                     @if ($errors->has('subject'))
-                                        <span class="text-danger">{{ $errors->first('subject') }}</span>
+                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
                                     @endif
                                 </div>
                             </div>
@@ -250,12 +246,12 @@
                                     <textarea class="form-control" placeholder="Leave a message here" id="message" name="message" style="height: 100px"></textarea>
                                     <label for="message">Message</label>
                                     @if ($errors->has('message'))
-                                        <span class="text-danger">{{ $errors->first('message') }}</span>
+                                        <span class="text-dark">{{ $errors->first('message') }}</span>
                                     @endif
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-danger" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit">Submit</button>
                             </div>
                         </div>
                     </form>
