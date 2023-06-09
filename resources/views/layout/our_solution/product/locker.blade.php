@@ -6,7 +6,7 @@
     <div class="dropdown-menu bg-light">
         <ul>
             {{-- <h6>PRODUCTS</h6> --}}
-            <a href="/Console deks" class="dropdown-item ">Console deks</a>
+            <a href="/Console-desk" class="dropdown-item ">Console deks</a>
             <a href="/Locker" class="dropdown-item active">Locker</a>
             {{-- <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
             <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>

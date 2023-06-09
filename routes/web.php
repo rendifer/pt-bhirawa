@@ -39,7 +39,7 @@ Route::get('/Temperature-Sensitive-Packaging', [TemperatureServiceController::cl
 Route::get('/lithium-batteries-shipping', [LithiumController::class, 'index'])->name('lithium-batteries-shipping');
 Route::get('/Dangerous-Goods-Training', [DangerousGoodTrainingController::class, 'index'])->name('Dangerous-Goods-Training');
 
-Route::get('/Console-desk', [ConsoleController::class, 'index'])->name('Console deks');
+Route::get('/Console-desk', [ConsoleController::class, 'index'])->name('Console-desk');
 Route::get('/Locker', [LockerController::class, 'index'])->name('Locker');
 Route::get('/biomedical-packaging', [BiomedicalController::class, 'index'])->name('biomedical-packaging');
 Route::get('/specialized-boxes', [SpesializedController::class, 'index'])->name('specialized-boxes');
