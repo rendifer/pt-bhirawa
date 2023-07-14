@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Dangerous Goods Packaging Indonesia</title>
+    <title>PT BHIRAWA METAL MANDIRI</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -18,7 +18,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <link href="{{ asset('template/lib/animate/animate.min.css') }}" rel="stylesheet">
-    {{-- <link href="{{ asset('template/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet"> --}}
+    <link href="{{ asset('template/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
 
     <link href="{{ asset('template/css/bootstrap.min.css') }}" rel="stylesheet">
 
@@ -42,7 +42,7 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
         <a href="#" class="navbar-brand d-flex align-items-center">
-            <img class="img-fluid me-3" src="template/img/logo.png" alt="">
+            <img class="img-fluid me-3" src="template/img/logo2.jpg" alt="">
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -61,11 +61,17 @@
                         <div class="dropdown-menu bg-light">
                             <ul>
                                 {{-- <h6>PRODUCTS</h6> --}}
-                                <a href="/Console-desk" class="dropdown-item">Console deks</a>
-                                <a href="/Locker" class="dropdown-item">Locker</a>
-                                {{-- <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
-                                <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>
-                                <a href="/other-packaging-materials" class="dropdown-item">Other Packaging Materials</a> --}}
+                                <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
+                                <a href="/Industrial" class="dropdown-item">Industrial</a>
+                                <a href="/Telecominication" class="dropdown-item">Telecominication</a>
+                                <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
+                                <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
+                                <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
+                                <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
+                                <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
+                                <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
+                                <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
+                                <a href="/Console desk" class="dropdown-item">Console desk</a>
                             </ul>
                         </div>
                     </div>
@@ -109,7 +115,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
-                    <img class="img-fluid me-3 logo2" src="template/img/logo.png" alt="">
+                    <img class="img-fluid me-3 logo2" src="template/img/logo2.jpg" alt="">
                     <!-- <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -135,12 +141,17 @@
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Others Product</a>
                         <div class="dropdown-menu bg-light">
                             <ul>
-                                {{-- <h6>PRODUCTS</h6> --}}
-                                <a href="/Console-desk" class="dropdown-item">Console deks</a>
-                                <a href="/Locker" class="dropdown-item">Locker</a>
-                                {{-- <a href="/biomedical-packaging" class="dropdown-item">Biomedical Packaging</a>
-                                <a href="/specialized-boxes" class="dropdown-item">Specialized Boxes</a>
-                                <a href="/other-packaging-materials" class="dropdown-item">Other Packaging Materials</a> --}}
+                                <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
+                                <a href="/Industrial" class="dropdown-item">Industrial</a>
+                                <a href="/Telecominication" class="dropdown-item">Telecominication</a>
+                                <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
+                                <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
+                                <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
+                                <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
+                                <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
+                                <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
+                                <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
+                                <a href="/Console desk" class="dropdown-item">Console desk</a>
                             </ul>
                         </div>
                     </div>
@@ -183,7 +194,7 @@
     <script src="{{ asset('template2/lib/easing2/easing.min.js') }}"></script>
     <script src="{{ asset('template2/lib/waypoints2/waypoints.min.js') }}"></script>
     <script src="{{ asset('template2/lib/counterup2/counterup.min.js') }}"></script>
-    {{-- <script src="{{ asset('template2/lib/owlcarousel2/owl.carousel.min.js') }}"></script> --}}
+    <script src="{{ asset('template2/lib/owlcarousel2/owl.carousel.min.js') }}"></script>
 
     {{-- <script src="{{ asset('template2/js/main2.js') }}"></script> --}}
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>

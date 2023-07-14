@@ -4,18 +4,26 @@
     <a href="/" class="nav-item nav-link active">Home</a>
 @endsection
 
+<style>
+    .blue-text {
+      color: rgb(243, 243, 248);
+      background-color: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(5px);
+    }
+</style>
+
 @section('content')
 
     <div class="container-fluid p-0 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="template/img/pt.jpg" alt="Image">
+                    <img class="w-100" src="template/img/bg.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row" style="text-align: center;">
                                 <div class="col-12 col-lg-12">
-                                    <h1 class="display-3 text-dark animated slideInDown text-white">PT. BHIRAWA METAL MANDIRI</h1>
+                                    <h1 class="display-3 text-dark animated slideInDown text-dark blue-text">PT. BHIRAWA METAL MANDIRI</h1>
                                     <a href="#details" class="btn btn-primary py-3 px-5">More Details</a>
                                 </div>
                             </div>
@@ -41,10 +49,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-5.jpg" alt="">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/free standing/1 jadii.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Console-desk" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -54,10 +62,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-2.jpg" alt="">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing mrs/1jadi.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Console-desk" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -67,10 +75,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-7.jpg" alt="">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing trafo/1jadii.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Console-desk" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -80,10 +88,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-4.jpg" alt="">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel server/1.jadii.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Locker" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -93,10 +101,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
+                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/1.jadii.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Locker" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -106,49 +114,10 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-6.jpg" alt="">
+                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel mcc/1jadi.png" alt="">
                                     <h5 class="mb-0">Upskilling</h5>
                                     <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-3.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-8.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
+
                                     <div class="col-12 mt-3">
                                         <a href="/Locker" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -174,13 +143,13 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn bg-blue" data-wow-delay="0.5s">
-                    <img class="img-fluid" src="template/img/pt.jpg" alt="" >
+                    <img class="img-fluid" src="template/img/bg.png" alt="" >
                 </div>
             </div>
         </div>
     </div>
 
-    <div class="container-fluid my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+    {{-- <div class="container-fluid my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
@@ -195,7 +164,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
     <div class="container-fluid bg-light" data-wow-delay="0.1s">
         <div class="container">
@@ -260,14 +229,13 @@
         </div>
     </div>
 
-    
     <div class="container-fluid py-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="row">
         <h1 class="text-black text-center">Find Us</h1>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                 <div class="overflow-hidden h-100">
                     <iframe class="position-relative w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d991.5294379190411!2d106.9773814!3d-6.2482108!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698d7d65c78e09%3A0xb90fbb4c7d103f12!2sDG%20Packaging%20Indonesia%20-%20PT.%20Daya%20Guna%20Perkasa!5e0!3m2!1sid!2sid!4v1679394655666!5m2!1sid!2sid"
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.7937291979865!2d106.50316469371319!3d-6.2908197027734385!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207cf06758343%3A0x103107f0201610a5!2sPG53%2BM7G%2C%20Kutruk%2C%20Kec.%20Jambe%2C%20Kabupaten%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1688540858778!5m2!1sid!2sid" 
                             frameborder="0" style="min-height: 500px; border:0;" allowfullscreen="" aria-hidden="false"
                             tabindex="0">
                     </iframe>

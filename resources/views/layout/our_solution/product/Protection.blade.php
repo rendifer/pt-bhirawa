@@ -1,6 +1,5 @@
 @extends('template/main')
 
-
 @section('solution')             
 <div class="nav-item dropdown">
     <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Others Product</a>
@@ -10,11 +9,11 @@
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item active">Locker & Office Equipment</a>
+            <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
             <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
             <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
             <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
+            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item active">Protection Panel Fix & Swing Door</a>
             <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
             <a href="/Console desk" class="dropdown-item">Console desk</a>
         </ul>
@@ -22,18 +21,21 @@
 </div>
 @endsection
 
-    <style>
-        .poto {
-            margin-left: 20%;
-        }
-    </style>
+<style>
+    .poto {
+        margin-left: 25%;
+    }
+    .poto1 {
+        margin-left: 5%;
+    }
+</style>
 
 @section('content')
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-white">
-                Locker & Office Equipment
+                Protection Panel Fix & Swing Door
             </h4>
         </div>
     </div>
@@ -45,31 +47,25 @@
                 <div class="col-md-6 mb-5">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 100%;" src="template/img/product/locker/2jadii.png"" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 poto1" style="width: 90%; height: 100%;" src="template/img/product/panel server/1.jadii.png"" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 40%; height: 100%;" src="template/img/product/locker/3.1jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 90%; height: 100%;" src="template/img/product/panel server/2.jadii.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 100%;" src="template/img/product/locker/4.jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 90%; height: 100%;" src="template/img/product/panel server/3.jadii.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
-                    </div>
-                </div>
-                
-                <div class="col-md-5">
-                    <div class="">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3 " style="width: 95%; height: 95%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
-                            <h5 class="text-primary text-center">Console Desk</h5>
+                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 50%; height: 100%;" src="template/img/product/panel server/4 jadi.png" alt="">
+                            <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <br><br><br>
 
 @endsection

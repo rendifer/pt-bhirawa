@@ -14,8 +14,8 @@
             <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
             <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
             <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-            <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-            <a href="/Console desk" class="dropdown-item active">Console desk</a>
+            <a href="/Wall-Mounting" class="dropdown-item active">Wall Mounting</a>
+            <a href="/Console desk" class="dropdown-item">Console desk</a>
         </ul>
     </div>
 </div>
@@ -26,7 +26,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-white">
-                Console desk
+                Wall Mounting
             </h4>
         </div>
     </div>

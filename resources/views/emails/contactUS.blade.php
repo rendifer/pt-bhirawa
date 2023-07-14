@@ -191,7 +191,7 @@
                                                                     width: 300px;
                                                                 "
                                                             >
-                                                                <img
+                                                                {{-- <img
                                                                     height="auto"
                                                                     src="https://th.bing.com/th/id/OIP.h3LRwNs6C380QEz4MjshqAAAAA?pid=ImgDet&rs=1"
                                                                     style="
@@ -201,7 +201,7 @@
                                                                         text-decoration: none;
                                                                         width: 100%;
                                                                     "
-                                                                />
+                                                                /> --}}
                                                             </td>
                                                         </tr>
                                                     </tbody>

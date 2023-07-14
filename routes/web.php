@@ -4,16 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ContactController;
-use App\Http\Controllers\Solution\service\DangerousGoodController;
-use App\Http\Controllers\Solution\service\BiomedicalServiceController;
-use App\Http\Controllers\Solution\service\TemperatureServiceController;
-use App\Http\Controllers\Solution\service\LithiumController;
-use App\Http\Controllers\Solution\service\DangerousGoodTrainingController;
-use App\Http\Controllers\Solution\Product\ConsoleController;
-use App\Http\Controllers\Solution\Product\LockerController;
-use App\Http\Controllers\Solution\Product\BiomedicalController;
-use App\Http\Controllers\Solution\Product\SpesializedController;
-use App\Http\Controllers\Solution\Product\MaterialisController;
+use App\Http\Controllers\Solution\Product\OtherproductsController;
 use App\Http\Controllers\EmailController;
 
 /*
@@ -33,16 +24,16 @@ Route::get('/', function () {
 
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
-Route::get('/Dangerous-Goods-Packaging-Service', [DangerousGoodController::class, 'index'])->name('Dangerous-Goods-Packaging-Service');
-Route::get('/biomedical-service', [BiomedicalServiceController::class, 'index'])->name('biomedical-service');
-Route::get('/Temperature-Sensitive-Packaging', [TemperatureServiceController::class, 'index'])->name('Temperature-Sensitive-Packaging');
-Route::get('/lithium-batteries-shipping', [LithiumController::class, 'index'])->name('lithium-batteries-shipping');
-Route::get('/Dangerous-Goods-Training', [DangerousGoodTrainingController::class, 'index'])->name('Dangerous-Goods-Training');
-
-Route::get('/Console-desk', [ConsoleController::class, 'index'])->name('Console-desk');
-Route::get('/Locker', [LockerController::class, 'index'])->name('Locker');
-Route::get('/biomedical-packaging', [BiomedicalController::class, 'index'])->name('biomedical-packaging');
-Route::get('/specialized-boxes', [SpesializedController::class, 'index'])->name('specialized-boxes');
-Route::get('/other-packaging-materials', [MaterialisController::class, 'index'])->name('other-packaging-materials');
+Route::get('/oil and gas', [OtherproductsController::class, 'oil'])->name('oil-and-gas');
+Route::get('/Industrial', [OtherproductsController::class, 'Industrial'])->name('Industrial');
+Route::get('/Telecominication', [OtherproductsController::class, 'Telecominication'])->name('Telecominication');
+Route::get('/Building & Infrastucture', [OtherproductsController::class, 'Building'])->name('Building');
+Route::get('/Locker & Office Equipment', [OtherproductsController::class, 'Locker'])->name('Locker');
+Route::get('/Outdor Cabin', [OtherproductsController::class, 'Outdor'])->name('Outdor');
+Route::get('/Housing MRS', [OtherproductsController::class, 'Housing'])->name('Housing');
+Route::get('/Marshaling Kios', [OtherproductsController::class, 'Marshaling'])->name('Marshaling');
+Route::get('/Protection-Panel Fix & Swing Door', [OtherproductsController::class, 'Protection'])->name('Protection');
+Route::get('/Wall-Mounting', [OtherproductsController::class, 'Wall'])->name('Wall');
+Route::get('/Console desk', [OtherproductsController::class, 'Console'])->name('Console');
 
 Route::post('/contactUs', [EmailController::class, 'postMessage'])->name('contactUs');
