@@ -25,9 +25,9 @@
     .poto {
         margin-left: 25%;
     }
-    .poto1 {
-        margin-left: 5%;
-    }
+    /* .poto1 {
+        margin-left: 10%;
+    } */
 </style>
 
 @section('content')
@@ -47,19 +47,19 @@
                 <div class="col-md-6 mb-5">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto1" style="width: 90%; height: 100%;" src="template/img/product/panel server/1.jadii.png"" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 100%; height: 80%;" src="template/img/product/panel server/2.jadii.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 90%; height: 100%;" src="template/img/product/panel server/2.jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 poto1" style="width: 100%; height: 80%;" src="template/img/product/panel server/1.jadii.png"" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 90%; height: 100%;" src="template/img/product/panel server/3.jadii.png" alt="">
+                        {{-- <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3 " style="width: 100%; height: 80%;" src="template/img/product/panel server/3.jadii.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
-                        </div>
+                        </div> --}}
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 50%; height: 100%;" src="template/img/product/panel server/4 jadi.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 70%;" src="template/img/product/panel server/4 jadi.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
                     </div>
