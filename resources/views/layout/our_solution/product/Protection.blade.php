@@ -62,6 +62,7 @@
                             <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 70%;" src="template/img/product/panel server/4 jadi.png" alt="">
                             <h5 class="text-primary text-center">Locker Staff 12p</h5>
                         </div>
+                        
                     </div>
                 </div>
             </div>
