@@ -127,6 +127,8 @@
                     <h5 class="text-light mb-4">Address</h5>
                     <h6 class="text-light">Factory</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
+                    <h6 class ="text-light">operational hour</h6>
+                    <p><i class="fa fa map-marker-alt me-3"></i> 08.00 WIB - 17.00 WIB </p>
                     <h6 class="text-light">Office</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
                     <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">0812 9492 512 </a></p>
@@ -163,7 +165,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                         Copyright 2023 &copy; PT. BHIRAWA METAL MANDIRI &#8211; PT. Daya Guna Perkasa
+                         Copyright 2023 &copy; PT. BHIRAWA METAL MANDIRI &#8211; 
                     </div>
                 </div>
             </div>

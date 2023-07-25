@@ -45,16 +45,16 @@
                 <div class="col-md-6 mb-5">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 100%;" src="template/img/product/locker/2jadii.png"" alt="">
-                            <h5 class="text-primary text-center">Locker Staff 12p</h5>
+                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 70%;" src="template/img/product/locker/2jadii.png"" alt="">
+                            <h5 class="text-primary text-center">Locker Staff </h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 40%; height: 100%;" src="template/img/product/locker/3.1jadii.png" alt="">
-                            <h5 class="text-primary text-center">Locker Staff 12p</h5>
+                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 40%; height: 70%;" src="template/img/product/locker/3.1jadii.png" alt="">
+                            <h5 class="text-primary text-center">Locker Staff </h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 100%;" src="template/img/product/locker/4.jadii.png" alt="">
-                            <h5 class="text-primary text-center">Locker Staff 12p</h5>
+                            <img class="align-self-center mb-3 py-3 px-3 poto" style="width: 60%; height: 70%;" src="template/img/product/locker/4.jadii.png" alt="">
+                            <h5 class="text-primary text-center">Locker Staff </h5>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                 <div class="col-md-5">
                     <div class="">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3 " style="width: 95%; height: 95%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
+                            <img class="align-self-center py-3 px-3 " style="width: 70%; height: 60%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
                             <h5 class="text-primary text-center">Console Desk</h5>
                         </div>
                     </div>

@@ -81,5 +81,75 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid py-5 bg-light">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="row g-12">
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column team-item py-4 px-3">
+                                    <h3 class="text-dark mb-4 justify-content-center text-center">BIDANG USAHA</h3>
+                                    <p class="text-dark mb-3">
+                                        PT.BHIRAWA METAL MANDIRI adalah perusahann yang memproduksi enclosure/cabinet& metal sheet product lainya sesuai dengan spesifikasi dan kebutuhan para pelanggan .
+                                    </p>
+                                    <ul>
+                                        <li>
+                                            <p class="text-dark mb-3">
+                                                market coverage oleh PT.BHIRAWA METAL MANDIRI antara lain:
+                                            </p>
+                                            <ul>
+                                                <li>
+                                                    <p class="text-dark mb-3">
+                                                        ELECTRICAL UTILITY 
+                                                    </p>
+                                                
+                                                <li>
+                                                    <p class="text-dark mb-3">
+                                                        OIL & GAS 
+                                                    </p>
+                                                    
+                                                <li>
+                                                    <p class="text-dark mb-3">
+                                                        INDUSTRIAL
+                                                    </p>
+                                                    
+                                                <li>
+                                                    <p class="text-dark mb-3">
+                                                        TELEKOMUNIKASI  
+                                                    </p>
+                                                  
+                                                    <li>
+                                                        <p class="text-dark mb-3">
+                                                           BUILDING & INFRASTRUCTURE 
+                                                        </p>
+                                                        
+                                                        <li>
+                                                            <p class="text-dark mb-3">
+                                                               TRANSPORTATION
+                                                            </p>
 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column team-item py-4 px-3">
+                                    <h3 class="text-dark mb-4 justify-content-center text-center">HISTORY PT.BHIRAWA METAL MANDIRI </h3>
+                                    <ul>
+                                        <li>
+                                            <p class="text-dark mb-3">
+                                                PT.BHIRAWA METAL MANDIRI berdiri di tangerang oktober 2022 dengan dukungan dan keyakinan dari team yang sangat berpengalaman di bidang industri metalsheet,mempunyai kompetensi yang tinggi dan mempunyai tujuan yang sama yaitu untuk memberikan kepuasan para pelanggan dalam hal mutu dan kualitas produk.
+                                                dengan di dukung tenaga yang profesional di bidang masing-masing kami yakin dapat memenuhi semua kebutuhan para pelanggan kami.
+                                            </p>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection

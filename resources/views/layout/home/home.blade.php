@@ -172,7 +172,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI,</h1>
                     <h1 class="text-dark"> ENCLOUSURE & METALSHEET PRODUCTS;</h1>
-                    <p class="text-dark">Our first priority At PT. BHIRAWA METAL MANDIRI, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
+                    <p class="text-dark">untuk mendukung kebutuhan anda,kami dengan senang hati akan memberikan harga yang kompetitive dari waktu delivery yag terbaik.silahkan kirimkan kebutuhan anda kepada kami.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     @if(Session::has('success'))
