@@ -9,8 +9,8 @@
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item active">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-            <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
+            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+            <a href="/transportation" class="dropdown-item">transportation</a>
             <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
             <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
             <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>

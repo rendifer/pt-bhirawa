@@ -10,8 +10,8 @@
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item active">Locker & Office Equipment</a>
-            <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
+            <a href="/electrical utility" class="dropdown-item active">electrical utility</a>
+            <a href="/transportation" class="dropdown-item">transportation</a>
             <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
             <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
             <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
@@ -33,7 +33,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-white">
-                Locker & Office Equipment
+                electrical utility
             </h4>
         </div>
     </div>

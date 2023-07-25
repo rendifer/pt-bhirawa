@@ -10,6 +10,13 @@
       background-color: rgba(255, 255, 255, 0.2);
       backdrop-filter: blur(5px);
     }
+    .ptbhirawa {
+        margin-top: -25%;
+        text-align: center;
+    }
+    .more {
+        text-align: center;
+    }
 </style>
 
 @section('content')
@@ -21,10 +28,10 @@
                     <img class="w-100" src="template/img/bg.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
-                            <div class="row" style="text-align: center;">
-                                <div class="col-12 col-lg-12">
-                                    <h1 class="display-3 text-dark animated slideInDown text-dark blue-text">PT. BHIRAWA METAL MANDIRI</h1>
-                                    <a href="#details" class="btn btn-primary py-3 px-5">More Details</a>
+                            <div class="row">
+                                <div class="col-12 col-lg-12 text-center ">
+                                    <h1 class="display-3 text-dark animated slideInDown ptbhirawa">PT. BHIRAWA METAL MANDIRI</h1>
+                                    <a href="#details" class="btn btn-primary py-3 px-5 more">More Details</a>
                                 </div>
                             </div>
                         </div>

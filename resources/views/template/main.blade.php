@@ -42,7 +42,7 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
         <a href="#" class="navbar-brand d-flex align-items-center">
-            <img class="img-fluid me-3" src="template/img/logo2.jpg" alt="">
+            <img class="img-fluid me-3" src="template/img/logo2.png" alt="">
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -55,9 +55,18 @@
                 @section('about')
                     <a href="/about" class="nav-item nav-link">About Us</a>
                 @show
+                @section('Carrier')
+                    <a href="#" class="nav-item nav-link">Carrier</a>
+                @show
+                @section('Services')
+                    <a href="#" class="nav-item nav-link">Services</a>
+                @show
+                @section('project')
+                    <a href="#" class="nav-item nav-link">project Reference</a>
+                @show
                 @section('solution')    
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Others Product</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Product</a>
                         <div class="dropdown-menu bg-light">
                             <ul>
                                 {{-- <h6>PRODUCTS</h6> --}}
@@ -65,13 +74,8 @@
                                 <a href="/Industrial" class="dropdown-item">Industrial</a>
                                 <a href="/Telecominication" class="dropdown-item">Telecominication</a>
                                 <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-                                <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-                                <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
-                                <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-                                <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-                                <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-                                <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-                                <a href="/Console desk" class="dropdown-item">Console desk</a>
+                                <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+                                <a href="/transportation" class="dropdown-item">transportation</a>
                             </ul>
                         </div>
                     </div>
@@ -115,7 +119,7 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-4 col-md-6">
-                    <img class="img-fluid me-3 logo2" src="template/img/logo2.jpg" alt="">
+                    <img class="img-fluid me-3 logo2" src="template/img/logo1.png" alt="">
                     <!-- <div class="d-flex pt-2">
                         <a class="btn btn-square me-1" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-square me-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -129,17 +133,20 @@
                     
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
                     <h6 class ="text-light">operational hour</h6>
-                    <p><i class="fa fa map-marker-alt me-3"></i> 08.00 WIB - 17.00 WIB </p>
+                    <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
                     <h6 class="text-light">Office</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
                     <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">0812 9492 512 </a></p>
-                    <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">0812 1478 0437</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+62818880390/">0812 1478 0437</a></p>
                     <p><i class="fa fa-envelope me-3"></i><a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
                     <a class="btn btn-link" href="/">Home</a>
                     <a class="btn btn-link" href="/about">About Us</a>
+                    <a href="#" class="btn btn-link">Carrier</a>
+                    <a href="#" class="btn btn-link">Services</a>
+                    <a href="#" class="btn btn-link">project Reference</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Others Product</a>
                         <div class="dropdown-menu bg-light">
@@ -148,13 +155,8 @@
                                 <a href="/Industrial" class="dropdown-item">Industrial</a>
                                 <a href="/Telecominication" class="dropdown-item">Telecominication</a>
                                 <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-                                <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-                                <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
-                                <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-                                <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-                                <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-                                <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-                                <a href="/Console desk" class="dropdown-item">Console desk</a>
+                                <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+                                <a href="/transportation" class="dropdown-item">transportation</a>
                             </ul>
                         </div>
                     </div>
@@ -177,10 +179,10 @@
         <img src="template/img/icon/wa.png" alt="" class="wa-img">
     </a> --}}
 
-    <a href="https://wa.me/+62818880390/" class="btn-lg-square whatsapp2" target="_blank">
+    {{-- <a href="https://wa.me/+62818880390/" class="btn-lg-square whatsapp2" target="_blank">
         <img src="template/img/icon/wa.png" alt="" class="wa-img2">
         <span>Need Help? <b>Chat With Us</b></span>
-    </a>
+    </a> --}}
      
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 

@@ -81,7 +81,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid py-5 bg-light">
+    <div class="container-fluid py-5 bg-white">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -147,6 +147,21 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid bg-light">
+        <div class="container-fluid px-lg-0">
+            <div class="row g-0 mx-lg-0">
+                <div class="col-lg-12 facts-text wow fadeIn mt-5" data-wow-delay="0.1s">
+                    <div class="h-100 px-4 ps-lg-0 text-center mb-5">
+                        <h3 class="text-dark mb-4 t"> STRUKTURAL</h3>
+                        <h3 class="text-dark mb-4 t"> PT.BHIRAWA METAL MANDIRI</h3>
+                        <img src="template/img/struktur.png" alt="">
+
                     </div>
                 </div>
             </div>
