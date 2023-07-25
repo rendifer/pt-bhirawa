@@ -143,7 +143,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="display-6 text-white mb-5">Tisco Metal Manufacturing Co., Ltd</h1>
                     <p class="text-white mb-5">
-                        Tisco Metal Manufacturing Co., Ltd. is located in Wuxi, Jiangsu Province. We are a large enterprise, with our own manufacturing plant, the main products are: carbon steel coil, carbon steel plate, seamless steel pipe, galvanized coil and so on. It is widely used in pipeline, chemical industry, aerospace, electric power, decoration, food processing, catering, brewing, machinery hardware, bridge construction and other fields. The company has more than 2000 employees, including 16 senior engineers and assistants, 20 engineering and technical personnel, 20 technical personnel. Our company provides heat treatment, CNC machining, testing, packaging and a series of processing technology. We pay more attention to quality and after-sale service.
+                        Engineering yang profesional, Proses fabrikasi lembaran logam presisi sesuai spesifikasi; permesinan handal; Finishing dan Assembling yang berkualitas serta Quality Control yang ketat sesuai pengalaman kami dalam industri metalsheet guna mendukung dan memberikan kepuasan kepada para Pelanggan.
                     </p>
                     <div class="col-12">
                         <a href="/about" class="btn btn-primary text-white">View More</a>
