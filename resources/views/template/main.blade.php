@@ -126,6 +126,7 @@
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
                     <h6 class="text-light">Factory</h6>
+                    
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
                     <h6 class ="text-light">operational hour</h6>
                     <p><i class="fa fa map-marker-alt me-3"></i> 08.00 WIB - 17.00 WIB </p>
