@@ -21,24 +21,24 @@
                     <div class="h-100 px-4 ps-lg-0">
                         <h3 class="text-dark mb-4">PT.BHIRAWA METAL MANDIRI</h3>
                         <p class="text-dark mb-3">
-                            Established by a global network of professionals with years of specialized experience in the Dangerous Goods field, DG Packaging Group is committed to providing total solutions on Dangerous Goods, Biomedical and Temperature Sensitive Packaging. Additionally, we possess expertise in the Repacking and Integrated Logistics Services for chemical, pharmaceutical and biomedical industries.
+                            PT. Bhirawa Metal Mandiri berdiri di Tangerang sejak Oktober 2022. Dengan dukungan dan keyakinan dari team yang sangat berpengalaman dibidang industri metalsheet, mempunyai kompetensi yang tinggi dan mempunyai tujuan yang sama yaitu untuk memberikan kepuasan para Pelanggan dalam hal mutu dan kualitas produk.
+                            Dengan di dukung tenaga yang profesional dibidang masing-masing, kami yakin dapat memenuhi semua kebutuhan para Pelanggan Kami.
                         </p>
                         <p class="text-dark mb-3">
-                            Our specialized teams of Dangerous Goods experts are certified in all aspects of transportation regulations. The in-house Dangerous Goods Safety Advisor and certified Dangerous Goods Instructors are our primary resources to supplement our knowledge management system and our regulatory compliance skills.
-                        </p>
+                            
                         <p class="text-dark mb-5">
-                            With our close network of experts all around the globe, you, our customer, can rest assured that your Dangerous Goods shipments are not only serviced with the right packaging, but also shipped in accordance with the right regulations and the right safety practices.
+                            
                         </p>
                         <p class="text-dark mb-3">
-                            akte pendirian:
-                            no:155
-                            date: 28/2022
+                            Akte pendirian:
+                            No:155
+                            Date: 28/2022
                             <p class="text-dark mb-3">
-                                sk kemenhukam 
+                                SK Kemenhukam 
                                 No: AHU - 0022964.AH.01.01.Tahun 2022
                                 <p class="text-dark mb-3">
                                NIB : 0604110000086
-                               Date: april,6,2022
+                               Date : april,6,2022
 
                     </div>
                 </div>

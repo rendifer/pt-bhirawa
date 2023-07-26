@@ -57,7 +57,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/free standing/1 jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">INDUSTRIAL</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -70,7 +70,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing mrs/1jadi.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">OIL & GAS </h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -83,7 +83,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing trafo/1jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">TELECOMUNICATION</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -96,7 +96,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel server/1.jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">BUILD & INFRASTRUCTURE</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -109,7 +109,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/1.jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">ELECTRICAL UTILITY</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -122,7 +122,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel mcc/1jadi.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">TRANSPORTATION</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
