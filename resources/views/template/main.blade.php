@@ -83,7 +83,7 @@
                 @section('contact')
                     <a href="/contact" class="nav-item nav-link">Contact Us</a>
                 @show
-                <a href="template/file/katalog-produk.pdf" download class="btn btn-primary nav-item nav-link text-white ms-5" style="margin-left: 5px"
+                <a href="template/file/katalog-produk.pdf" download class="btn btn-primary nav-item nav-link text-white ms-" style="margin-left: 5px"
                 ><span>katalog product</span>
                 <i class="fas fa-download"></i>
               </a>
