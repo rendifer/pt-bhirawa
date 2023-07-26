@@ -11,11 +11,6 @@
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
             <a href="/transportation" class="dropdown-item">transportation</a>
-            <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-            <a href="/Marshaling Kios" class="dropdown-item active">Marshaling Kios</a>
-            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-            <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-            <a href="/Console desk" class="dropdown-item">Console desk</a>
         </ul>
     </div>
 </div>
