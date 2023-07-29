@@ -32,11 +32,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <style>
-        .disabled {
-          pointer-events: none;
-          opacity: 0.8;
+        .navbar-brand img {
+          width: 150px;
+          height: 100px;
         }
-      </style>
+    </style>
 </head>
 
 <body>
@@ -140,7 +140,9 @@
                     <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
                     <h6 class="text-light">Office</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
+                    <h6 class="text-light">Nomor telfon sales</h6>
                     <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">0812 9492 512 </a></p>
+
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+62818880390/">0812 1478 0437</a></p>
                     <p><i class="fa fa-envelope me-3"></i><a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a></p>
                 </div>
@@ -152,7 +154,7 @@
                     <a href="#" class="btn btn-link">Services</a>
                     <a href="#" class="btn btn-link">project Reference</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Others Product</a>
+                        <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Product</a>
                         <div class="dropdown-menu bg-light">
                             <ul>
                                 <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>

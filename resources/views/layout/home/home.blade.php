@@ -17,6 +17,9 @@
     .more {
         text-align: center;
     }
+    .oil{
+        margin-bottom: 95px;
+    }
 </style>
 
 @section('content')
@@ -56,12 +59,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/free standing/1 jadii.png" alt="">
+                                    <img class="align-self-center py-3 px-3" style="width: 80%; height: 80%;" src="template/img/industrial/Picture5.png" alt="">
                                     <h5 class="mb-0">INDUSTRIAL</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="Industrial" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -69,12 +72,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing mrs/1jadi.png" alt="">
+                                    <img class="align-self-center py-3 px-3 oil" style="width: 100%; height: 100%;" src="template/img/oil/Picture2.png" alt="">
                                     <h5 class="mb-0">OIL & GAS </h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="/oil and gas" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -82,12 +85,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing trafo/1jadii.png" alt="">
+                                    <img class="align-self-center mb-5 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture2.png" alt="">
                                     <h5 class="mb-0">TELECOMUNICATION</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="/Telecominication" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +98,7 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel server/1.jadii.png" alt="">
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building /Picture1.png" alt="">
                                     <h5 class="mb-0">BUILD & INFRASTRUCTURE</h5>
                                     <br>
 
@@ -108,7 +111,7 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/1.jadii.png" alt="">
+                                    <img class="align-self-center mb-2 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/Picture2.png" alt="">
                                     <h5 class="mb-0">ELECTRICAL UTILITY</h5>
                                     <br>
 
@@ -121,10 +124,9 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel mcc/1jadi.png" alt="">
+                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/electrica/Picture1.png" alt="">
                                     <h5 class="mb-0">TRANSPORTATION</h5>
                                     <br>
-
                                     <div class="col-12 mt-3">
                                         <a href="/Locker" class="btn btn-primary text-white">More</a>
                                     </div>

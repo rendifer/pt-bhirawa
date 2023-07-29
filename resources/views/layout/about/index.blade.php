@@ -31,6 +31,7 @@
                         </p>
                         <p class="text-dark mb-3">
                             Akte pendirian:
+                            <p class="text-dark mb-3">
                             No:155
                             Date: 28/2022
                             <p class="text-dark mb-3">
@@ -38,6 +39,7 @@
                                 No: AHU - 0022964.AH.01.01.Tahun 2022
                                 <p class="text-dark mb-3">
                                NIB : 0604110000086
+                               <p class="text-dark mb-3">
                                Date : april,6,2022
 
                     </div>

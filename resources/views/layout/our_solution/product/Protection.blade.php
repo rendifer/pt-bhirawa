@@ -2,7 +2,7 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Others Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
     <div class="dropdown-menu bg-light">
         <ul>
             <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
