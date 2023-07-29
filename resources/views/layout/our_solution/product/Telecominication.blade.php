@@ -20,13 +20,21 @@
     .build{
         margin-bottom: 43%;
     }
+    .testimonial-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .inch {
+        margin-bottom: 70px;
+    }
 </style>
 
 @section('content')
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h4 class="display-6 animated slideInDown mb-4 text-white">
+            <h4 class="display-6 animated slideInDown mb-4 text-blue">
                 Telecominication
             </h4>
         </div>
@@ -42,38 +50,33 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 53%; height: 53%;" src="template/img/telecomunication/Picture1.png" alt="">
-                                    <h5 class="mb-0">INDUSTRIAL</h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="Industrial" class="btn btn-primary text-white">More</a>
-                                    </div>
+                                    <h5 class="mb-0">19 INCH - OPEN RACK</h5>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 75%; height: 75%;" src="template/img/telecomunication/Picture4.png" alt="">
-                                    <h5 class="mb-0">OIL & GAS </h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="/oil and gas" class="btn btn-primary text-white">More</a>
-                                    </div>
+                        <div class="col-md-4">
+                            <div class="owl-carousel testimonial-carousel">
+                                <div class="testimonial-item position-relative team-item">
+                                    <img class="align-self-center py-3 px-3 inch" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture6.png" alt="">
+                                    <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
+                                </div>
+                                <div class="testimonial-item position-relative team-item">
+                                    <img class="align-self-center py-3 px-3 inch" style="width: 60%; height: 60%;" src="template/img/telecomunication/Picture7.png" alt="">
+                                    <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
+                                </div>
+                                <div class="testimonial-item position-relative team-item">
+                                    <img class="align-self-center py-3 px-3 inch" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture8.png" alt="">
+                                    <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
                                 </div>
                             </div>
                         </div>
+                        <br>
+                        <br>
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-5 py-3 px-3" style="width: 75%; height: 75%;" src="template/img/telecomunication/Picture3.png" alt="">
-                                    <h5 class="mb-0">TELECOMUNICATION</h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
-                                    </div>
+                                    <h5 class="mb-0">CLOSED CABINET</h5>
                                 </div>
                             </div>
                         </div>
@@ -81,12 +84,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center py-3 px-3 build" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture2.png" alt="">
-                                    <h5 class="mb-0">BUILD & INFRASTRUCTURE</h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
+                                    <h5 class="mb-0">WALL MOUNTED RACK</h5>
                                 </div>
                             </div>
                         </div>
@@ -94,12 +92,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/telecomunication/Picture5.png" alt="">
-                                    <h5 class="mb-0">ELECTRICAL UTILITY</h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
+                                    <h5 class="mb-0">19 INCH RACK CABINET</h5>
                                 </div>
                             </div>
                         </div>

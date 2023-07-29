@@ -36,7 +36,7 @@
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h4 class="display-6 animated slideInDown mb-4 text-white">
+            <h4 class="display-6 animated slideInDown mb-4 text-blue">
                 OIL & GAS
             </h4>
         </div>
@@ -50,15 +50,15 @@
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 50%;" src="template/img/oil/Picture1.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 50%;" src="template/img/oil/Picture4.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/oil/Picture6.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                     </div>
                 </div>
@@ -66,15 +66,15 @@
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/oil/Picture2.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/oil/Picture3.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/oil/Picture5.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                     </div>
                 </div>

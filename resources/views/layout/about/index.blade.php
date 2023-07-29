@@ -8,7 +8,7 @@
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h4 class="display-6 animated slideInDown mb-4 text-white">
+            <h4 class="display-6 animated slideInDown mb-4 text-blue">
                 About Us
             </h4>
         </div>

@@ -116,7 +116,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                        <a href="/electrical utility" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>

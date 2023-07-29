@@ -4,10 +4,20 @@
     <a href="/contact" class="nav-item nav-link active">Contact Us</a>
 @endsection
 
+<style>
+    /* Custom CSS to make the top and bottom borders even */
+    .row.g-12 [class^="col"] {
+        border-top: 1px solid #dee2e6;
+        border-bottom: 1px solid #dee2e6;
+        padding-top: 10px; /* Adjust this value as needed */
+        padding-bottom: 10px; /* Adjust this value as needed */
+    }
+</style>
+
 @section('content')
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h4 class="display-6 animated slideInDown mb-4 text-white">
+            <h4 class="display-6 animated slideInDown mb-4 text-blue">
                 Contact Us
             </h4>
         </div>
@@ -20,9 +30,9 @@
                     <h2 class="text-dark">REACH US</h2>
                     <div class="row g-12">
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 py-3">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_1.png" alt="" style="width: 42%;">
+                            <div class="bg-primary rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3 py-3">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon_1.jpg" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">FACTORY</h5>
                                     <p>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang</p>
                                     <h5 class="mb-0  text-dark">OFFICE</h5>
@@ -31,43 +41,37 @@
                             </div>
                         </div>
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
+                            <div class="bg-primary rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 26%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">EMAIL ADMIN</h5>
-                                    <p>sales@ptbhima.com</p>
+                                    <p><a href="mailto:sales@ptbhima.com">sales@ptbhima.com</a></p>
                                     <h5 class="mb-0  text-dark">EMAIL SALES</h5>
-                                    <p>ms4_pti@yahoo.com</p>
-                                    <p>dhony46@yahoo.com</p>
-                                    <p>sudianideni@ptbhima.com</p>
-
-
-                                    </p>
+                                    <span><a href="mailto:ms4_pti@yahoo.com">ms4_pti@yahoo.com</a></span>
+                                    <span><a href="mailto:dhony46@yahoo.com">dhony46@yahoo.com</a></span>
+                                    <span><a href="mailto:sudianideni@ptbhima.com">sudianideni@ptbhima.com</a></span>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 50%;">
-                                    <h5 class="mb-0  text-dark">PHONE</h5>
-
-
-                                    <h5 class="mb-0  text-dark">SALES</h5>
-                                    <p>DENI SUDAENI : 0821-1478-0437</p>
-                                    <p>DHONI FAJAR PRASETYO : 0856-9241-4038</p>
-                                    <p>BASONI SAIB : 0878-8508-1636</p>
-                                    <p>MASFAR NOERDIN: 0815-9920-741</p>
-
+                        <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
+                            <div class="bg-primary rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 10%; padding-top: 6%;">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
+                                    <h5 class="mb-0  text-dark">PHONE SALES</h5>
+                                    <span><b>DENI SUDAENI :</b><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a> </span>
+                                    <span><b>DHONI FAJAR :</b><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a> </span>
+                                    <span><b>BASONI SAIB :</b><a href="https://wa.me/+6287885081636"> 0878-8508-1636</a> </span>
+                                    <span><b>MASFAR NOERDIN:</b><a href="https://wa.me/+628159920741"> 0815-9920-741</a> </span>
+                                    <br>
                                     <h5 class="mb-0  text-dark">SALES ADMIN</h5>
-                                    <p>SALES ADMIN : 0896-6202-7907</p>
+                                    <p><b>SALES ADMIN : </b><a href="https://wa.me/+6289662027907"> 0896-6202-7907</a> </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.4s">
-                            <div class="bg-danger rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 61%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_4.png" alt="" style="width: 42%;">
+                            <div class="bg-primary rounded p-1">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 47%; padding-top: 6%;">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon_4.jpg" alt="" style="width: 60%;">
                                     <h5 class="mb-0  text-dark">SOCIAL MEDIA</h5>
                                     <p>pt.bhima metal mandiri </p>
                                     <p>pt.bhima metal mandiri.co.id</p>

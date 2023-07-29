@@ -141,9 +141,11 @@
                     <h6 class="text-light">Office</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
                     <h6 class="text-light">Nomor telfon sales</h6>
-                    <p><i class="fa fa-phone-alt me-3"></i><a href="tel:+622188965802">0812 9492 512 </a></p>
-
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+62818880390/">0812 1478 0437</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"> 0878-8508-1636</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741"> 0815-9920-741</a></p>
+                    <h6 class="text-light">Email</h6>
                     <p><i class="fa fa-envelope me-3"></i><a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -167,6 +169,9 @@
                         </div>
                     </div>
                     <a class="btn btn-link" href="/contact">Contact Us</a>
+                    <br><br>
+                    <h6 class="text-light">Nomor telfon sales admin</h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"> 0896-6202-7907</a></p>
                 </div>
             </div>
         </div>

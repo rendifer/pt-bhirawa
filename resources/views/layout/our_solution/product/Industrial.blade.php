@@ -36,7 +36,7 @@
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h4 class="display-6 animated slideInDown mb-4 text-white">
+            <h4 class="display-6 animated slideInDown mb-4 text-blue">
                 INDUSTRIAL
             </h4>
         </div>
@@ -46,43 +46,48 @@
         <div class="container px-lg-5 mt-5">
             <div class="row g-5 justify-content-center">
                 <h1 class="text-dark text-center">Products</h1>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture4.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">OUTDOOR CABIN</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture5.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">OUTDOOR CABIN</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture6.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">OUTDOOR CABIN</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture7.png" alt="">
-                            <h5 class="text-primary text-center mt-2">Outdoor Cabin</h5>
+                            <h5 class="text-primary text-center mt-2">OUTDOOR CABIN</h5>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture2.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">MASHALLING KIOS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture3.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
-                        </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 80%; height: 80%;" src="template/img/industrial/Picture1.png" alt="">
-                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                            <h5 class="text-primary text-center">MASHALLING KIOS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture8.png" alt="">
-                            <h5 class="text-primary text-center mt-5">Outdoor Cabin</h5>
+                            <h5 class="text-primary text-center mt-5">MASHALLING KIOS</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="p-1">
+                        <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                            <img class="align-self-center mb-5 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/industrial/Picture1.png" alt="">
+                            <h5 class="text-primary text-center">KIOS DEGREE OF PROTECTIONS: IP56</h5>
+                            <br>
                         </div>
                     </div>
                 </div>
