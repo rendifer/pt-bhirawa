@@ -26,9 +26,6 @@
     .testimonial-item img {
       width: 50%;
       height: 50%;
-      /* Jika ingin gambar tetap berada di tengah vertikal, tambahkan baris berikut */
-      /* margin-top: auto;
-      margin-bottom: auto; */
     }
     .build2{
         margin-bottom: 110px;
