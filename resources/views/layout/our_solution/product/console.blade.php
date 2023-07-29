@@ -2,20 +2,15 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Others Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
     <div class="dropdown-menu bg-light">
         <ul>
             <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-            <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
-            <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-            <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-            <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-            <a href="/Console desk" class="dropdown-item active">Console desk</a>
+            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+            <a href="/transportation" class="dropdown-item">transportation</a>
         </ul>
     </div>
 </div>

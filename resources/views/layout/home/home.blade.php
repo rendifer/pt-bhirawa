@@ -10,6 +10,16 @@
       background-color: rgba(255, 255, 255, 0.2);
       backdrop-filter: blur(5px);
     }
+    .ptbhirawa {
+        margin-top: -25%;
+        text-align: center;
+    }
+    .more {
+        text-align: center;
+    }
+    .oil{
+        margin-bottom: 95px;
+    }
 </style>
 
 @section('content')
@@ -21,10 +31,10 @@
                     <img class="w-100" src="template/img/bg.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
-                            <div class="row" style="text-align: center;">
-                                <div class="col-12 col-lg-12">
-                                    <h1 class="display-3 text-dark animated slideInDown text-dark blue-text">PT. BHIRAWA METAL MANDIRI</h1>
-                                    <a href="#details" class="btn btn-primary py-3 px-5">More Details</a>
+                            <div class="row">
+                                <div class="col-12 col-lg-12 text-center ">
+                                    <h1 class="display-3 text-dark animated slideInDown ptbhirawa">PT. BHIRAWA METAL MANDIRI</h1>
+                                    <a href="#details" class="btn btn-primary py-3 px-5 more">More Details</a>
                                 </div>
                             </div>
                         </div>
@@ -49,12 +59,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/free standing/1 jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <img class="align-self-center py-3 px-3" style="width: 80%; height: 80%;" src="template/img/industrial/Picture5.png" alt="">
+                                    <h5 class="mb-0">INDUSTRIAL</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="Industrial" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -62,12 +72,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing mrs/1jadi.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <img class="align-self-center py-3 px-3 oil" style="width: 100%; height: 100%;" src="template/img/oil/Picture2.png" alt="">
+                                    <h5 class="mb-0">OIL & GAS </h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="/oil and gas" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -75,12 +85,12 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/hausing trafo/1jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <img class="align-self-center mb-5 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture2.png" alt="">
+                                    <h5 class="mb-0">TELECOMUNICATION</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Console-desk" class="btn btn-primary text-white">More</a>
+                                        <a href="/Telecominication" class="btn btn-primary text-white">More</a>
                                     </div>
                                 </div>
                             </div>
@@ -88,21 +98,8 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel server/1.jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-
-                                    <div class="col-12 mt-3">
-                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/1.jadii.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building /Picture1.png" alt="">
+                                    <h5 class="mb-0">BUILD & INFRASTRUCTURE</h5>
                                     <br>
 
                                     <div class="col-12 mt-3">
@@ -114,10 +111,22 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/panel mcc/1jadi.png" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <img class="align-self-center mb-2 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/Picture2.png" alt="">
+                                    <h5 class="mb-0">ELECTRICAL UTILITY</h5>
                                     <br>
 
+                                    <div class="col-12 mt-3">
+                                        <a href="/Locker" class="btn btn-primary text-white">More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
+                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/electrica/Picture1.png" alt="">
+                                    <h5 class="mb-0">TRANSPORTATION</h5>
+                                    <br>
                                     <div class="col-12 mt-3">
                                         <a href="/Locker" class="btn btn-primary text-white">More</a>
                                     </div>
@@ -136,7 +145,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="display-6 text-white mb-5">Tisco Metal Manufacturing Co., Ltd</h1>
                     <p class="text-white mb-5">
-                        Tisco Metal Manufacturing Co., Ltd. is located in Wuxi, Jiangsu Province. We are a large enterprise, with our own manufacturing plant, the main products are: carbon steel coil, carbon steel plate, seamless steel pipe, galvanized coil and so on. It is widely used in pipeline, chemical industry, aerospace, electric power, decoration, food processing, catering, brewing, machinery hardware, bridge construction and other fields. The company has more than 2000 employees, including 16 senior engineers and assistants, 20 engineering and technical personnel, 20 technical personnel. Our company provides heat treatment, CNC machining, testing, packaging and a series of processing technology. We pay more attention to quality and after-sale service.
+                        Engineering yang profesional, Proses fabrikasi lembaran logam presisi sesuai spesifikasi; permesinan handal; Finishing dan Assembling yang berkualitas serta Quality Control yang ketat sesuai pengalaman kami dalam industri metalsheet guna mendukung dan memberikan kepuasan kepada para Pelanggan.
                     </p>
                     <div class="col-12">
                         <a href="/about" class="btn btn-primary text-white">View More</a>
@@ -172,7 +181,7 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI,</h1>
                     <h1 class="text-dark"> ENCLOUSURE & METALSHEET PRODUCTS;</h1>
-                    <p class="text-dark">Our first priority At PT. BHIRAWA METAL MANDIRI, we make it point to prioritize safety excellence in every aspect of our business. Our team’s passion, commitment and contribution, are some of the driving factors here that have propelled us to the stage of global success. Our organization’s commitment to good corporate governance sets out several factors that involve us going beyond what is required of us. We don’t do good, we do great. Interested to find out how we can safely and timely transport your goods? Talk to our consultants to find out more.</p>
+                    <p class="text-dark">untuk mendukung kebutuhan anda,kami dengan senang hati akan memberikan harga yang kompetitive dari waktu delivery yag terbaik.silahkan kirimkan kebutuhan anda kepada kami.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     @if(Session::has('success'))

@@ -2,79 +2,94 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Others Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
     <div class="dropdown-menu bg-light">
         <ul>
             <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-            <a href="/Building & Infrastucture" class="dropdown-item active">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-            <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
-            <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-            <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-            <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-            <a href="/Console desk" class="dropdown-item">Console desk</a>
+            <a href="/building& Infrastucture" class="dropdown-item">building& Infrastucture</a>
+            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+            <a href="/transportation" class="dropdown-item">transportation</a>
         </ul>
     </div>
 </div>
-@endsection
+@endsection  
+
+
+<style>
+    .testimonial-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .testimonial-item img {
+      width: 50%;
+      height: 50%;
+      /* Jika ingin gambar tetap berada di tengah vertikal, tambahkan baris berikut */
+      /* margin-top: auto;
+      margin-bottom: auto; */
+    }
+    .build2{
+        margin-bottom: 90px;
+    }
+  </style>
 
 @section('content')
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-white">
-                Building & Infrastucture
+                building& Infrastucture
             </h4>
         </div>
     </div>
 
     <div class="container-xxl py-5 mb-5">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="row g-12 justify-content-center">
-                        <h1 class="text-dark text-center">Products</h1>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-4.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
+        <div class="container px-lg-5 mt-5">
+            <div class="row g-5 justify-content-center">
+                <h1 class="text-dark text-center">Products</h1>
+                <div class="col-md-4">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 70%; height: 70%;" src="template/img/building/Picture3.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 70%; height: 70%;" src="template/img/building/Picture9.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="p-1">
-                                <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-6.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
-                                    <br>
-                                    <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
-                                    <div class="col-12 mt-3">
-                                        <a class="btn btn-primary text-white">More</a>
-                                    </div>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building/Picture4.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3 build2" style="width: 100%; height: 100%;" src="template/img/building/Picture5.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building/Picture10.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/building/Picture6.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/building/Picture8.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/building/Picture7.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
                     </div>
                 </div>

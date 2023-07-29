@@ -2,24 +2,35 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Others Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
     <div class="dropdown-menu bg-light">
         <ul>
             <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
             <a href="/Industrial" class="dropdown-item active">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/Locker & Office Equipment" class="dropdown-item">Locker & Office Equipment</a>
-            <a href="/Outdor Cabin" class="dropdown-item">Outdor Cabin</a>
-            <a href="/Housing MRS" class="dropdown-item">Housing MRS</a>
-            <a href="/Marshaling Kios" class="dropdown-item">Marshaling Kios</a>
-            <a href="/Protection-Panel Fix & Swing Door" class="dropdown-item">Protection Panel Fix & Swing Door</a>
-            <a href="/Wall-Mounting" class="dropdown-item">Wall Mounting</a>
-            <a href="/Console desk" class="dropdown-item">Console desk</a>
+            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+            <a href="/transportation" class="dropdown-item">transportation</a>
         </ul>
     </div>
 </div>
 @endsection
+
+<style>
+    .testimonial-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .testimonial-item img {
+      width: 50%;
+      height: 50%;
+      /* Jika ingin gambar tetap berada di tengah vertikal, tambahkan baris berikut */
+      /* margin-top: auto;
+      margin-bottom: auto; */
+    }
+  </style>
 
 @section('content')
 
@@ -38,28 +49,40 @@
                 <div class="col-md-6">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/mk outdoor/1.jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture4.png" alt="">
                             <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/mk outdoor/1.jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture5.png" alt="">
                             <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/product/photo product/mk outdoor/1.jadii.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture6.png" alt="">
                             <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture7.png" alt="">
+                            <h5 class="text-primary text-center mt-2">Outdoor Cabin</h5>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-6">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3" style="width: 95%; height: 95%;" src="template/img/product/outdoor cabin/1.jadii.png" alt="">
-                            <h5 class="text-primary text-center">Outdoor Cabin</h5>
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture2.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3" style="width: 95%; height: 95%;" src="template/img/product/outdoor cabin/2.jadii.png" alt="">
-                            <h5 class="text-primary text-center">Outdoor Cabin</h5>
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture3.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 80%; height: 80%;" src="template/img/industrial/Picture1.png" alt="">
+                            <h5 class="text-primary text-center">Marshaling kios</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture8.png" alt="">
+                            <h5 class="text-primary text-center mt-5">Outdoor Cabin</h5>
                         </div>
                     </div>
                 </div>

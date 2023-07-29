@@ -23,8 +23,10 @@
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3 py-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-dark">ADDRESS</h5>
-                                    <p>Ruko kali malang square, Jl.KH Noer Ali Blok E.22, RT.007/RW.003, Pekayon Jaya, Bekasi Selatan, Bekasi City, West Java 17148</p>
+                                    <h5 class="mb-0  text-dark">FACTORY</h5>
+                                    <p>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang</p>
+                                    <h5 class="mb-0  text-dark">OFFICE</h5>
+                                    <p>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang</p>
                                 </div>
                             </div>
                         </div>
@@ -32,17 +34,33 @@
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-dark">EMAIL</h5>
-                                    <p>chris@dg-idpackaging.com</p>
+                                    <h5 class="mb-0  text-dark">EMAIL ADMIN</h5>
+                                    <p>sales@ptbhima.com</p>
+                                    <h5 class="mb-0  text-dark">EMAIL SALES</h5>
+                                    <p>ms4_pti@yahoo.com</p>
+                                    <p>dhony46@yahoo.com</p>
+                                    <p>sudianideni@ptbhima.com</p>
+
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.3s">
                             <div class="bg-danger rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 45%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 50%;">
                                     <h5 class="mb-0  text-dark">PHONE</h5>
-                                    <p>+62 852-1694-1433</p>
+
+
+                                    <h5 class="mb-0  text-dark">SALES</h5>
+                                    <p>DENI SUDAENI : 0821-1478-0437</p>
+                                    <p>DHONI FAJAR PRASETYO : 0856-9241-4038</p>
+                                    <p>BASONI SAIB : 0878-8508-1636</p>
+                                    <p>MASFAR NOERDIN: 0815-9920-741</p>
+
+                                    <h5 class="mb-0  text-dark">SALES ADMIN</h5>
+                                    <p>SALES ADMIN : 0896-6202-7907</p>
                                 </div>
                             </div>
                         </div>
@@ -51,6 +69,8 @@
                                 <div class="bg-white d-flex flex-column justify-content-center text-center rounded px-3" style="padding-bottom: 61%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_4.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">SOCIAL MEDIA</h5>
+                                    <p>pt.bhima metal mandiri </p>
+                                    <p>pt.bhima metal mandiri.co.id</p>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +142,7 @@
                         frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
                         tabindex="0"></iframe>
                     </div>
-                </div>
+                    <
             </div>
         </div>
     </div>
