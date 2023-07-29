@@ -14,7 +14,7 @@ class Email extends Mailable
     public $email;
 
     /**
-     * Create a new message instance.
+     * Membuat instance pesan baru.
      *
      * @return void
      */
@@ -24,12 +24,17 @@ class Email extends Mailable
     }
 
     /**
-     * Build the message.
+     * Membangun pesan.
      *
      * @return $this
      */
     public function build()
     {
-        return $this->view('emails.contactUs');
+        return $this->view('emails.contactUs')
+                    ->from($this->email['email'], $this->email['nama'])
+                    ->subject('Customer PT Bhirawa - ' . $this->email['subject']);
     }
 }
+
+
+

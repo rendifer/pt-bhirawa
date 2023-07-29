@@ -8,7 +8,8 @@ use Illuminate\Support\Facades\Mail;
 
 class EmailController extends Controller
 {
-    public function postMessage(Request $request){
+    public function postMessage(Request $request)
+    {
         $email = [
             'nama' => $request->nama,
             'email' => $request->email,
@@ -23,10 +24,11 @@ class EmailController extends Controller
             'message' => 'required'
         ]);
 
-        Mail::to('rendiferdian2112@gmail.com')->send(New Email($email));
-        // ContactUs::create( $email);
+        Mail::to('rendiferdian2112@gmail.com')->send(new Email($email));
+        // Mail::from($email['email'], $email['nama'])->to('rendiferdian2112@gmail.com')->send(new Email($email));
+        // ContactUs::create($email);
         return redirect()->back()
-                         ->with(['success' => 'Thank you for contact us. we will contact you shortly.']);
-
+                         ->with(['success' => 'Terima kasih telah menghubungi kami. Kami akan segera menghubungi Anda.']);
     }
 }
+
