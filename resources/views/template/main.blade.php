@@ -146,7 +146,7 @@
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"> 0878-8508-1636</a></p>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741"> 0815-9920-741</a></p>
                     <h6 class="text-light">Email</h6>
-                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:chris@dg-idpackaging.com">chris@dg-idpackaging.com</a></p>
+                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com">sales@ptbhima.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
