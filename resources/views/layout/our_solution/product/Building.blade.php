@@ -8,7 +8,7 @@
             <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
             <a href="/Industrial" class="dropdown-item">Industrial</a>
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-            <a href="/building& Infrastucture" class="dropdown-item active">building& Infrastucture</a>
+            <a href="/building & Infrastucture" class="dropdown-item active">building& Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
             <a href="/transportation" class="dropdown-item">transportation</a>
         </ul>
