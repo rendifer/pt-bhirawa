@@ -22,7 +22,6 @@
       flex-direction: column;
       align-items: center;
     }
-    
     .testimonial-item img {
       width: 50%;
       height: 50%;
