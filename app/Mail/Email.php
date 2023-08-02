@@ -34,6 +34,7 @@ class Email extends Mailable
                     ->from($this->email['email'], $this->email['nama'])
                     ->subject('Customer PT Bhirawa - ' . $this->email['subject']);
     }
+    
 }
 
 
