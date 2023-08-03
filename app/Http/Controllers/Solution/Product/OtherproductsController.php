@@ -52,4 +52,8 @@ class OtherproductsController extends Controller
     {
         return view ('layout.our_solution.product.Console');
     }
+    public function project()
+    {
+        return view ('layout.our_solution.product.project');
+    }
 }

@@ -20,7 +20,16 @@
     .oil{
         margin-bottom: 95px;
     }
+
+    /* Hindari pemisahan baris pada elemen slideshow */
+    #slideshow {
+        white-space: nowrap;
+    }
+    #slideshowContainer {
+        overflow: hidden; /* Tambahkan properti ini untuk menghindari gambar yang melampaui konten */
+    }
 </style>
+  
 
 @section('content')
 
@@ -238,7 +247,7 @@
         </div>
     </div>
 
-    <div class="container-fluid py-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid  wow fadeIn" data-wow-delay="0.1s">
         <div class="row">
         <h1 class="text-black text-center">Find Us</h1>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
@@ -253,4 +262,64 @@
         </div>
     </div>
 
+    <div class="container-fluid bg-light" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row hazmat">
+                <div class="col-lg-12 wow fadeIn text-center mb-3" data-wow-delay="0.3s">
+                    <h2 class="text-dark">Our Clients</h2>
+                    <h2 class="text-primary">PT. BHIRAWA METAL MANDIRI</h2>
+                </div>
+                <div class="col-lg-12 wow fadeIn text-center" data-wow-delay="0.3s">
+                    <div class="">
+                        <div id="slideshowContainer" class="slideshow-container">
+                            <div id="slideshow" class="slideshow">
+                                <img src="template/img/client/1.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/2.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/3.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/4.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/5.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/6.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/7.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/8.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/9.jpg" class="m-5 slide" width="10%" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Mendapatkan elemen slideshow dan container
+        var slideshowContainer = document.getElementById("slideshowContainer");
+        var slideshow = document.getElementById("slideshow");
+        
+        // Fungsi untuk menggerakkan gambar ke kiri
+        function moveLeft() {
+            // Mendapatkan lebar gambar
+            var imageWidth = slideshow.children[0].offsetWidth;
+    
+            // Geser gambar ke kiri
+            var currentPosition = parseInt(slideshow.style.left || 0, 10);
+            currentPosition -= imageWidth;
+            slideshow.style.left = currentPosition + "px";
+    
+            // Jika gambar pertama sudah sepenuhnya di luar, pindahkan gambar pertama ke akhir elemen slideshow
+            if (currentPosition <= -imageWidth) {
+                slideshow.style.left = "0px";
+                slideshow.appendChild(slideshow.children[0]);
+            }
+        }
+    
+        // Fungsi untuk memulai animasi marquee
+        function startMarquee() {
+            setInterval(moveLeft, 800); // Ganti nilai 10 dengan kecepatan animasi yang diinginkan
+        }
+    
+        // Mulai animasi marquee setelah semua gambar terload
+        window.onload = startMarquee;
+    </script>
+    
 @endsection

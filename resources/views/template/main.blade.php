@@ -62,7 +62,7 @@
                     <a href="#" class="nav-item nav-link">Services</a>
                 @show
                 @section('project')
-                    <a href="#" class="nav-item nav-link">project Reference</a>
+                    <a href="project-reference" class="nav-item nav-link">project Reference</a>
                 @show
                 @section('solution')    
                     <div class="nav-item dropdown">
@@ -154,7 +154,7 @@
                     <a class="btn btn-link" href="/about">About Us</a>
                     <a href="#" class="btn btn-link">Carrier</a>
                     <a href="#" class="btn btn-link">Services</a>
-                    <a href="#" class="btn btn-link">project Reference</a>
+                    <a href="project-reference" class="btn btn-link">project Reference</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Product</a>
                         <div class="dropdown-menu bg-light">
