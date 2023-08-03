@@ -59,7 +59,7 @@
                     <a href="#" class="nav-item nav-link">Carrier</a>
                 @show
                 @section('Services')
-                    <a href="#" class="nav-item nav-link">Services</a>
+                    <a href="services" class="nav-item nav-link">Services</a>
                 @show
                 @section('project')
                     <a href="project-reference" class="nav-item nav-link">project Reference</a>

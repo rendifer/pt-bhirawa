@@ -36,5 +36,6 @@ Route::get('/Protection-Panel Fix & Swing Door', [OtherproductsController::class
 Route::get('/Wall-Mounting', [OtherproductsController::class, 'Wall'])->name('Wall');
 Route::get('/Console desk', [OtherproductsController::class, 'Console'])->name('Console');
 Route::get('/project-reference', [OtherproductsController::class, 'project'])->name('project');
+Route::get('/services', [OtherproductsController::class, 'service'])->name('service');
 
 Route::post('/contactUs', [EmailController::class, 'postMessage'])->name('contactUs');
