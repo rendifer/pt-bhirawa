@@ -291,8 +291,6 @@
         </div>
     </div>
 
-
-
     <script>
         // Mendapatkan elemen slideshow dan container
         var slideshowContainer = document.getElementById("slideshowContainer");
