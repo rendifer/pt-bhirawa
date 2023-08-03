@@ -99,6 +99,7 @@
                           </div>
                         </div>
                       </div>
+                      
                       <div class="col-lg-4 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden"  style="padding-bottom: 14%;">
                           <div class="text-center p-4">
