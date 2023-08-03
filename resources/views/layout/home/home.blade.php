@@ -59,7 +59,7 @@
         </div>
     </div>
 
-    <div class="container-xxl py-5 mb-5">
+    <div class="container-xxl mb-5">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -148,7 +148,7 @@
         </div>
     </div>
     
-    <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid appointment  py-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
@@ -166,23 +166,6 @@
             </div>
         </div>
     </div>
-
-    {{-- <div class="container-fluid my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container">
-            <div class="row g-5">
-                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="display-6 text-dark">MAIN PRODUCTS</h1>
-                    <h4 class="text-dark">Our products:</h4>
-                    <p class="text-dark mb-5">
-                        We are a large enterprise, with our own manufacturing plant, the main products are: carbon steel coil, carbon steel plate, seamless steel pipe, galvanized coil and so on. It is widely used in pipeline, chemical industry, aerospace, electric power, decoration, food processing, catering, brewing, machinery hardware, bridge construction and other fields. The company has more than 2000 employees, including 16 senior engineers and assistants, 20 engineering and technical personnel, 20 technical personnel. Our company provides heat treatment, CNC machining, testing, packaging and a series of processing technology.
-                        We pay more attention to quality and after-sale service.Our products are widely used in the Chinese market, with a comprehensive annual production capacity of more than 200,000 tons.
-                    <div class="col-12">
-                        <a href="/about" class="btn btn-primary text-white">View More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> --}}
 
     <div class="container-fluid bg-light" data-wow-delay="0.1s">
         <div class="container">
