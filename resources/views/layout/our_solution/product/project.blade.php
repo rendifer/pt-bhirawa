@@ -21,7 +21,6 @@
             </div>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-              
                   <!-- Slide 1 -->
                   <div class="carousel-item active">
                     <div class="row g-4">
@@ -110,8 +109,6 @@
                       <!-- Add more slides here -->
                     </div>
                   </div>
-              
-              
                 </div>
               
                 <!-- Previous and Next buttons -->
@@ -123,7 +120,7 @@
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                   <span class="sr-only">Next</span>
                 </a>
-              </div>
+            </div>
         </div>
     </div>
 
