@@ -367,6 +367,15 @@
                                       <div class="text-center p-4 center-image d-flex align-items-center">
                                           <img class="img-fluid m-4" src="template/img/service/finis/2.jpeg" width="100%" alt="">
                                       </div>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="carousel-item">
+                              <div class="row g-6">
+                                  <div class="col-lg-12 col-md-6">
+                                      <div class="text-center p-4 center-image d-flex align-items-center">
+                                          <img class="img-fluid m-4" src="template/img/service/finis/3.jpeg" width="100%" alt="">
+                                      </div>
                                        <!-- Add a play button to start the modal -->
                                        <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#finising">
                                         Play Video
