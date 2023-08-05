@@ -61,4 +61,5 @@ class OtherproductsController extends Controller
     {
         return view ('layout.our_solution.product.service');
     }
+
 }

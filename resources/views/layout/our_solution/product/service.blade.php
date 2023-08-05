@@ -347,8 +347,37 @@
                       </a>
                   </div>
               </div>
+              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                  <div id="" class="carousel slide" data-ride="carousel">
+                    <h4 class="text-center">assembling proccesing </h4>
+
+                              <div class="row g-6">
+                                  <div class="col-lg-12 col-md-6">
+                                      <div class="text-center p-4 center-image d-flex align-items-center">
+                                          <img class="img-fluid m-4" src="template/img/service/rakit/foto1.jpeg" width="100%" alt="">
+                                      </div>
+                                  </div>
+                                </div>
+                  </div>
+
+              </div>
+              <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                  <div id="" class="carousel slide" data-ride="carousel">
+                    <h4 class="text-center">coating proccesing </h4>
+
+                              <div class="row g-6">
+                                  <div class="col-lg-12 col-md-6">
+                                      <div class="text-center p-4 center-image d-flex align-items-center">
+                                          <img class="img-fluid m-4" src="template/img/service/tekuk/1.jpeg" width="100%" alt="">
+                                      </div>
+                                  </div>
+                                </div>
+                  </div>
+
+              </div>
               <div class="col-sm-12 wow fadeIn justify-content-center" data-wow-delay="0.1s">
                   <div id="finis" class="carousel slide" data-ride="carousel">
+                    
                     <h4 class="text-center">Finishing</h4>
                       <div class="carousel-inner">
                           <!-- Slide 1 -->

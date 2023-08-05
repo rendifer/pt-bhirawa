@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -60,10 +60,6 @@
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/industrial/Picture6.png" alt="">
                             <h5 class="text-primary text-center">OUTDOOR CABIN</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture7.png" alt="">
-                            <h5 class="text-primary text-center mt-2">OUTDOOR CABIN</h5>
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -75,10 +71,6 @@
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture3.png" alt="">
                             <h5 class="text-primary text-center">MASHALLING KIOS</h5>
-                        </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture8.png" alt="">
-                            <h5 class="text-primary text-center mt-5">MASHALLING KIOS</h5>
                         </div>
                     </div>
                 </div>

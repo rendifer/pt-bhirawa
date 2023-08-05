@@ -142,9 +142,9 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="min-height: 450px;">
                     <div class="position-relative rounded overflow-hidden h-100">
                         <iframe class="position-relative w-100 h-100"
-                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3965.7937291979865!2d106.50316469371319!3d-6.2908197027734385!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207cf06758343%3A0x103107f0201610a5!2sPG53%2BM7G%2C%20Kutruk%2C%20Kec.%20Jambe%2C%20Kabupaten%20Tangerang%2C%20Banten!5e0!3m2!1sid!2sid!4v1688540858778!5m2!1sid!2sid" 
-                        frameborder="0" style="min-height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
-                        tabindex="0"></iframe>
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253810.80143529744!2d106.19826793670654!3d-6.290814037399815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207cc6c4d1ab9%3A0x91646f8dfe6b0345!2sPT.%20Bhirawa%20Metal%20Mandiri!5e0!3m2!1sen!2sid!4v1691142187856!5m2!1sen!2sid" 
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                       
                     </div>
                     <
             </div>

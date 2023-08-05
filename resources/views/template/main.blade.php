@@ -62,7 +62,7 @@
                     <a href="services" class="nav-item nav-link">Services</a>
                 @show
                 @section('project')
-                    <a href="project-reference" class="nav-item nav-link">project Reference</a>
+                    <a href="project-reference" class="nav-item nav-link">Project Reference</a>
                 @show
                 @section('solution')    
                     <div class="nav-item dropdown">
@@ -75,7 +75,7 @@
                                 <a href="/Telecominication" class="dropdown-item">Telecominication</a>
                                 <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
                                 <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-                                <a href="/transportation" class="dropdown-item">transportation</a>
+                                <a href="/Office & Equitmen" class="dropdown-item">office & equitment</a>
                             </ul>
                         </div>
                     </div>
@@ -83,9 +83,9 @@
                 @section('contact')
                     <a href="/contact" class="nav-item nav-link">Contact Us</a>
                 @show
-                <a href="template/file/katalog-produk.pdf" download class="btn btn-primary nav-item nav-link text-white ms-" style="margin-left: 5px"
+                {{-- <a href="template/file/katalog-produk.pdf" download class="btn btn-primary nav-item nav-link text-white ms-" style="margin-left: 5px"
                 ><span>katalog product</span>
-                <i class="fas fa-download"></i>
+                <i class="fas fa-download"></i> --}}
               </a>
             </div>
         </div>
@@ -164,7 +164,7 @@
                                 <a href="/Telecominication" class="dropdown-item">Telecominication</a>
                                 <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
                                 <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-                                <a href="/transportation" class="dropdown-item">transportation</a>
+                                <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
                             </ul>
                         </div>
                     </div>

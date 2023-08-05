@@ -32,15 +32,16 @@
                         <p class="text-dark mb-3">
                             Akte pendirian:
                             <p class="text-dark mb-3">
-                            No:155
-                            Date: 28/2022
+                            No:155 , 28 Maret 2022
+                         
                             <p class="text-dark mb-3">
                                 SK Kemenhukam 
-                                No: AHU - 0022964.AH.01.01.Tahun 2022
+                                No: AHU - 0022964.AH.01.01.Tahun 2022 , 31 Maret 2022 
                                 <p class="text-dark mb-3">
-                               NIB : 0604110000086
-                               <p class="text-dark mb-3">
-                               Date : april,6,2022
+                               NIB : 0604110000086 , 6 April 2022
+                              
+                               
+                            
 
                     </div>
                 </div>
@@ -141,7 +142,7 @@
                                                         
                                                         <li>
                                                             <p class="text-dark mb-3">
-                                                               TRANSPORTATION
+                                                               Office & Equitmen
                                                             </p>
 
                                 </div>
@@ -167,15 +168,51 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid py-5 bg-light">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="row g-12">
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column team-item py-4 px-3">
+                                    <h3 class="text-dark mb-4 justify-content-center text-center">METAL PROCESSING MACINES</h3>
+                                    <p class="text-dark mb-3">
+                                      Shearing machine with capacity of 70 tons capable to cut sheet steel with 2.500 mm leght up to 4 mm thick. Computerized Numeric Control/CNC turret  punch machine to make various shapes for all kinds of plates up to 3 mm thick.
+                                      Bending machines with capacity up to 100 tons to bend sheet steel with leghth of 3.000 mm and 3 mm thick equitment with auto bending facility
+                                       
 
-    <div class="container-fluid bg-light">
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
+                            <div class="p-1">
+                                <div class="d-flex flex-column team-item py-4 px-3">
+                                    <h3 class="text-dark mb-4 justify-content-center text-center">MANUFACTURE</h3>
+                                    <ul>
+                                        <li>
+                                            <p class="text-dark mb-3">
+                                                Production capacity : 2.000 cubicle/year with Modern manufacture facility 
+                                                Quality control on each sub-process paint qualification tested based on ANSI and ASTM Standard
+                                                Our factory is equipped with modern manufacture and testing facilities , we have around 50 skilled and semi skilled workers , experienced in manufacturing various types of enclosures and metal sheet products.
+                                            </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div class="container-fluid bg-white">
         <div class="container-fluid px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 facts-text wow fadeIn mt-5" data-wow-delay="0.1s">
                     <div class="h-100 px-4 ps-lg-0 text-center mb-5">
                         <h3 class="text-dark mb-4 t"> STRUKTURAL</h3>
                         <h3 class="text-dark mb-4 t"> PT.BHIRAWA METAL MANDIRI</h3>
-                        <img src="template/img/struktur.png" alt="">
+                        <img src="template/img/struktur2.png" alt="">
 
                     </div>
                 </div>

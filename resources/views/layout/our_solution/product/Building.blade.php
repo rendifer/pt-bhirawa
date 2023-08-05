@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/building & Infrastucture" class="dropdown-item active">building& Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -52,10 +52,6 @@
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 70%; height: 70%;" src="template/img/building/Picture3.png" alt="">
                             <h5 class="text-primary text-center">MANLESS TICKET PARKING</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 70%; height: 70%;" src="template/img/building/Picture9.png" alt="">
-                            <h5 class="text-primary text-center">MANLESS TICKET PARKING</h5>
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -66,10 +62,6 @@
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center py-3 px-3 build2" style="width: 100%; height: 100%;" src="template/img/building/Picture5.png" alt="">
-                            <h5 class="text-primary text-center">WALL MOUNTING</h5>
-                        </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building/Picture10.png" alt="">
                             <h5 class="text-primary text-center">WALL MOUNTING</h5>
                         </div>
                     </div>

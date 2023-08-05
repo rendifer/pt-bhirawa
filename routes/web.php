@@ -29,7 +29,7 @@ Route::get('/Industrial', [OtherproductsController::class, 'Industrial'])->name(
 Route::get('/Telecominication', [OtherproductsController::class, 'Telecominication'])->name('Telecominication');
 Route::get('/Building & Infrastucture', [OtherproductsController::class, 'Building'])->name('Building');
 Route::get('/electrical utility', [OtherproductsController::class, 'Locker'])->name('Locker');
-Route::get('/transportation', [OtherproductsController::class, 'Outdor'])->name('Outdor');
+Route::get('/Office & Equitmen', [OtherproductsController::class, 'Outdor'])->name('Outdor');
 Route::get('/Housing MRS', [OtherproductsController::class, 'Housing'])->name('Housing');
 Route::get('/Marshaling Kios', [OtherproductsController::class, 'Marshaling'])->name('Marshaling');
 Route::get('/Protection-Panel Fix & Swing Door', [OtherproductsController::class, 'Protection'])->name('Protection');

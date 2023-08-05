@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -21,7 +21,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                transportation
+                Office & Equitmen
             </h4>
         </div>
     </div>

@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item active">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -50,7 +50,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 53%; height: 53%;" src="template/img/telecomunication/Picture1.png" alt="">
-                                    <h5 class="mb-0">19 INCH - OPEN RACK</h5>
+                                    <h5 class="mb-0">m</h5>
                                 </div>
                             </div>
                         </div>

@@ -56,10 +56,6 @@
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 50%;" src="template/img/oil/Picture4.png" alt="">
                             <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/oil/Picture6.png" alt="">
-                            <h5 class="text-primary text-center">HOUSING MRS</h5>
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -70,10 +66,6 @@
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/oil/Picture3.png" alt="">
-                            <h5 class="text-primary text-center">HOUSING MRS</h5>
-                        </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 95%; height: 95%;" src="template/img/oil/Picture5.png" alt="">
                             <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                     </div>

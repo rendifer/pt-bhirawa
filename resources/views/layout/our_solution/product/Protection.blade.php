@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -43,7 +43,7 @@
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3 " style="width: 100%; height: 80%;" src="template/img/product/panel server/2.jadii.png" alt="">
-                            <h5 class="text-primary text-center">Locker Staff 12p</h5>
+                            <h5 class="text-primary text-center">m</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
                             <img class="align-self-center mb-3 py-3 px-3 poto1" style="width: 100%; height: 80%;" src="template/img/product/panel server/1.jadii.png"" alt="">

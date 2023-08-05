@@ -11,7 +11,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item active">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -64,11 +64,6 @@
                             <br>
                             <h5 class="text-primary text-center">OUTDOOR CABIN</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-5 px-3 mb-3" style="width: 60%; height: 60%;" src="template/img/industrial/Picture7.png" alt="">
-                            <br>
-                            <h5 class="text-primary text-center mt-2">OUTDOOR CABIN</h5>
-                        </div>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -81,14 +76,33 @@
                             <img class="align-self-center py-3 px-3" style="width: 40%; height: 40%;" src="template/img/electrical/Picture2.png" alt="">
                             <h5 class="text-primary text-center">SWING PANEL</h5>
                         </div>
-                        <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/Picture3.png" alt="">
-                            <h5 class="text-primary text-center mt-5">SWING PANEL</h5>
-                        </div>
                     </div>
                 </div>
+    <div class="col-md-6">
+        <div class="owl-carousel testimonial-carousel">
+            <div class="testimonial-item position-relative team-item">
+                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/1.png" alt="">
+                <h5 class="text-primary text-center"> MCC</h5>
+            </div>
+            <div class="testimonial-item position-relative team-item">
+                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/2.png" alt="">
+                <h5 class="text-primary text-center">MCC</h5>
+            </div>
+            <div class="testimonial-item position-relative team-item">
+                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/3.png" alt="">
+                <h5 class="text-primary text-center">MCC</h5>
+            </div>
+            <div class="testimonial-item position-relative team-item">
+                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/4.png" alt="">
+                <h5 class="text-primary text-center">MCC</h5>
+            </div>
+            <div class="testimonial-item position-relative team-item">
+                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/5.png" alt="">
+                <h5 class="text-primary text-center">MCC</h5>
             </div>
         </div>
     </div>
-
+</div>
+</div>
+</div>
 @endsection

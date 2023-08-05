@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
         </ul>
     </div>
 </div>
@@ -36,7 +36,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-4.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">m</h5>
                                     <br>
                                     <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
                                     <div class="col-12 mt-3">
@@ -49,7 +49,7 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/barang-9.jpg" alt="">
-                                    <h5 class="mb-0">Upskilling</h5>
+                                    <h5 class="mb-0">m</h5>
                                     <br>
                                     <span>CBTA looks at the ability of each individual against the skills needed for a particular task and comes up with a targeted plan to bridge any gap.</span>
                                     <div class="col-12 mt-3">
