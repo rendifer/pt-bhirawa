@@ -10,7 +10,7 @@
             <a href="/Telecominication" class="dropdown-item">Telecominication</a>
             <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/transportation" class="dropdown-item">transportation</a>
+            <a href="/Office & Equitment" class="dropdown-item">Office & Equitment</a>
         </ul>
     </div>
 </div>
@@ -49,11 +49,11 @@
                 <div class="col-md-6">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 50%;" src="template/img/oil/Picture1.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 50%;" src="template/img/oil/Picture1.png" alt="">
                             <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 50%;" src="template/img/oil/Picture4.png" alt="">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 50%;" src="template/img/oil/Picture4.png" alt="">
                             <h5 class="text-primary text-center">HOUSING MRS</h5>
                         </div>
                     </div>
@@ -71,6 +71,9 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="text-center m-5">
+            <a href="/contact" class="btn btn-primary">More detail product</a>
         </div>
     </div>
 

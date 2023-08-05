@@ -36,7 +36,7 @@
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
                             <img class="img-fluid  mb-4" src="template/img/client/2.jpg" width="65%" alt="">
-                            <p>MCC PANEL PRODUKSI , MV AND LV PANEL FOR INDUSTRI</p>
+                            <p>MCC PANEL , MV AND LV PANEL FOR INDUSTRI</p>
                           </div>
                         </div>
                       </div>
@@ -44,7 +44,7 @@
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
                             <img class="img-fluid  mb-4" src="template/img/client/3.jpg" width="40%" alt="">
-                            <p>OUTDOOR CABIN PRODUKSI</p>
+                            <p>OUTDOOR CABIN  </p>
                           </div>
                         </div>
                       </div>
@@ -81,8 +81,8 @@
                   </div>
 
                   <div class="carousel-item">
-                    <div class="row g-4">
-                      <div class="col-lg-4 col-md-6" >
+                    <div class="row g-12">
+                      <div class="col-lg-3 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
                             <img class="img-fluid  mb-4" src="template/img/client/7.jpg" width="20%" alt="">
@@ -90,7 +90,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-4 col-md-6" >
+                      <div class="col-lg-3 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden" style="padding-bottom: 13%;">
                           <div class="text-center p-4">
                             <img class="img-fluid  mb-4" src="template/img/client/8.jpg" width="40%" alt="">
@@ -98,11 +98,19 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-4 col-md-6" >
+                      <div class="col-lg-3 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden"  style="padding-bottom: 14%;">
                           <div class="text-center p-4">
                             <img class="img-fluid" src="template/img/client/9.jpg" width="40%" style="margin-bottom: 21%;" alt="">
                             <p>LOCKER AND OFFICE EQUITMENT</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-lg-3 col-md-6" >
+                        <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden"  style="padding-bottom: 14%;">
+                          <div class="text-center p-4">
+                            <img class="img-fluid" src="template/img/client/11.png" width="40%" style="margin-bottom: 21%;" alt="">
+                            <p>MCC PANEL</p>
                           </div>
                         </div>
                       </div>

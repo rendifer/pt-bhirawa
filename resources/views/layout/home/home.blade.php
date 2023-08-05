@@ -133,7 +133,7 @@
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                                    <img class="align-self-center mb-4 py-3 px-3" style="width: 130%; height: 200%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
+                                    <img class="align-self-center py-3 px-3" style="width: 130%; height: 200%; margin-bottom: 53%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
                                     <h5 class="mb-0">Office & Equitmen</h5>
                                     <br>
                                     <div class="col-12 mt-3">
@@ -148,7 +148,7 @@
         </div>
     </div>
     
-    <div class="container-fluid appointment  py-5 wow fadeIn" data-wow-delay="0.1s">
+    {{-- <div class="container-fluid appointment  py-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
@@ -165,7 +165,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
     <div class="container-fluid bg-light" data-wow-delay="0.1s">
         <div class="container">
@@ -250,6 +250,7 @@
                                 <img src="template/img/client/7.jpg" class="m-5 slide" width="10%" alt="">
                                 <img src="template/img/client/8.jpg" class="m-5 slide" width="10%" alt="">
                                 <img src="template/img/client/9.jpg" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/11.png" class="m-5 slide" width="10%" alt="">
                             </div>
                         </div>
                     </div>
@@ -259,15 +260,15 @@
         </div>
     </div>
 
-    <div class="container-fluid  wow fadeIn" data-wow-delay="0.1s">
+    <div class="container-fluid wow fadeIn" data-wow-delay="0.1s">
         <div class="row">
-        <h1 class="text-black text-center mb-3">Find Us</h1>
+        <h1 class="text-black text-center">Find Us</h1>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                 <div class="overflow-hidden h-100">
                     <iframe class="position-relative w-100 h-100"
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253810.80143529744!2d106.19826793670654!3d-6.290814037399815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207cc6c4d1ab9%3A0x91646f8dfe6b0345!2sPT.%20Bhirawa%20Metal%20Mandiri!5e0!3m2!1sen!2sid!4v1691142187856!5m2!1sen!2sid" 
-                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                         
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d253810.80143529744!2d106.19826793670654!3d-6.290814037399815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e4207cc6c4d1ab9%3A0x91646f8dfe6b0345!2sPT.%20Bhirawa%20Metal%20Mandiri!5e0!3m2!1sen!2sid!4v1691142187856!5m2!1sen!2sid"
+                            frameborder="0" style="min-height: 500px; border:0;" allowfullscreen="" aria-hidden="false"
+                            tabindex="0">
                     </iframe>
                 </div>
             </div>

@@ -85,6 +85,9 @@
                 </div>
             </div>
         </div>
+        <div class="text-center m-5">
+            <a href="/contact" class="btn btn-primary">More detail product</a>
+        </div>
     </div>
 
 @endsection

@@ -190,13 +190,11 @@
                             <div class="p-1">
                                 <div class="d-flex flex-column team-item py-4 px-3">
                                     <h3 class="text-dark mb-4 justify-content-center text-center">MANUFACTURE</h3>
-                                    <ul>
-                                        <li>
-                                            <p class="text-dark mb-3">
-                                                Production capacity : 2.000 cubicle/year with Modern manufacture facility 
-                                                Quality control on each sub-process paint qualification tested based on ANSI and ASTM Standard
-                                                Our factory is equipped with modern manufacture and testing facilities , we have around 50 skilled and semi skilled workers , experienced in manufacturing various types of enclosures and metal sheet products.
-                                            </p>
+                                    <p class="text-dark mb-3">
+                                        Production capacity : 2.000 cubicle/year with Modern manufacture facility 
+                                        Quality control on each sub-process paint qualification tested based on ANSI and ASTM Standard
+                                        Our factory is equipped with modern manufacture and testing facilities , we have around 50 skilled and semi skilled workers , experienced in manufacturing various types of enclosures and metal sheet products.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -204,16 +202,16 @@
                 </div>
             </div>
         </div>
+    </div>
 
     <div class="container-fluid bg-white">
         <div class="container-fluid px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-12 facts-text wow fadeIn mt-5" data-wow-delay="0.1s">
                     <div class="h-100 px-4 ps-lg-0 text-center mb-5">
-                        <h3 class="text-dark mb-4 t"> STRUKTURAL</h3>
-                        <h3 class="text-dark mb-4 t"> PT.BHIRAWA METAL MANDIRI</h3>
-                        <img src="template/img/struktur2.png" alt="">
-
+                        <h3 class="text-dark mb-4"> STRUKTURAL</h3>
+                        <h3 class="text-dark mb-4"> PT.BHIRAWA METAL MANDIRI</h3>
+                        <img src="template/img/struktur2.png" alt="" width="100%">
                     </div>
                 </div>
             </div>

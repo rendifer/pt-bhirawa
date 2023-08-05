@@ -33,10 +33,10 @@
                             <div class="bg-primary rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center rounded px-3 py-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.jpg" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-dark">FACTORY</h5>
-                                    <p>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang</p>
                                     <h5 class="mb-0  text-dark">OFFICE</h5>
                                     <p>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang</p>
+                                    <h5 class="mb-0  text-dark">FACTORY</h5>
+                                    <p>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang</p>
                                 </div>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-primary rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 10%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon_3.png" alt="" style="width: 42%;">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-wa.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">PHONE SALES</h5>
                                     <span><b>DENI SUDAENI :</b><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a> </span>
                                     <span><b>DHONI FAJAR :</b><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a> </span>
@@ -146,9 +146,9 @@
                         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                        
                     </div>
-                    <
             </div>
         </div>
+    </div>
     </div>
 
 @endsection

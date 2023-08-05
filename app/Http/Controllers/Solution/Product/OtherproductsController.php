@@ -26,11 +26,11 @@ class OtherproductsController extends Controller
     }
     public function Locker()
     {
-        return view ('layout.our_solution.product.Locker');
+        return view ('layout.our_solution.product.electrical');
     }
     public function Outdor()
     {
-        return view ('layout.our_solution.product.Outdor');
+        return view ('layout.our_solution.product.office');
     }
     public function Housing()
     {

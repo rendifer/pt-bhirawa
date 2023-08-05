@@ -42,7 +42,7 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
         <a href="#" class="navbar-brand d-flex align-items-center">
-            <img class="img-fluid me-3" src="template/img/logo2.png" alt="">
+            <h5 class="" style="color: #14056a;">PT. BHIRAWA METAL MANDIRI</h5>
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -56,7 +56,7 @@
                     <a href="/about" class="nav-item nav-link">About Us</a>
                 @show
                 @section('Carrier')
-                    <a href="#" class="nav-item nav-link">Carrier</a>
+                    <a href="Carrier" class="nav-item nav-link">Carrier</a>
                 @show
                 @section('Services')
                     <a href="services" class="nav-item nav-link">Services</a>
@@ -133,13 +133,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
-                    <h6 class="text-light">Factory</h6>
-                    
-                    <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
-                    <h6 class ="text-light">operational hour</h6>
-                    <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
                     <h6 class="text-light">Office</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
+                    <h6 class="text-light">Factory</h6>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
+                    <h6 class ="text-light">operational hour</h6>
+                    <p><i class="fa-solid fa-calendar-days me-3"></i>Senin - Jum'at</p>
+                    <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
                     <h6 class="text-light">Nomor telfon sales</h6>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a></p>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a></p>
@@ -152,8 +152,8 @@
                     <h5 class="text-light mb-4">Quick Links</h5>
                     <a class="btn btn-link" href="/">Home</a>
                     <a class="btn btn-link" href="/about">About Us</a>
-                    <a href="#" class="btn btn-link">Carrier</a>
-                    <a href="#" class="btn btn-link">Services</a>
+                    <a href="Carrier" class="btn btn-link">Carrier</a>
+                    <a href="services" class="btn btn-link">Services</a>
                     <a href="project-reference" class="btn btn-link">project Reference</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Product</a>

@@ -6,6 +6,7 @@ use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ContactController;
 use App\Http\Controllers\Solution\Product\OtherproductsController;
 use App\Http\Controllers\EmailController;
+use App\Http\Controllers\CareerController;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,5 +38,7 @@ Route::get('/Wall-Mounting', [OtherproductsController::class, 'Wall'])->name('Wa
 Route::get('/Console desk', [OtherproductsController::class, 'Console'])->name('Console');
 Route::get('/project-reference', [OtherproductsController::class, 'project'])->name('project');
 Route::get('/services', [OtherproductsController::class, 'service'])->name('service');
+
+Route::get('/Carrier', [CareerController::class, 'career'])->name('career');
 
 Route::post('/contactUs', [EmailController::class, 'postMessage'])->name('contactUs');
