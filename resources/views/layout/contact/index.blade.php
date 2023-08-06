@@ -35,6 +35,7 @@
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.jpg" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">OFFICE</h5>
                                     <p>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang</p>
+                                    <p>(021- 5571- 9624)</p>
                                     <h5 class="mb-0  text-dark">FACTORY</h5>
                                     <p>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang</p>
                                 </div>
@@ -56,15 +57,17 @@
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-primary rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 10%; padding-top: 6%;">
-                                    <img class="align-self-center mb-3" src="template/img/icon/icon-wa.png" alt="" style="width: 42%;">
+                                    <img class="align-self-center mb-3" src="template/img/icon/icon-wa.png" alt="" style="width: 35%;">
                                     <h5 class="mb-0  text-dark">PHONE SALES</h5>
                                     <span><b>DENI SUDAENI :</b><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a> </span>
-                                    <span><b>DHONI FAJAR :</b><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a> </span>
+                                    <span><b>DHONY FAJAR :</b><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a> </span>
                                     <span><b>BASONI SAIB :</b><a href="https://wa.me/+6287885081636"> 0878-8508-1636</a> </span>
                                     <span><b>MASFAR NOERDIN:</b><a href="https://wa.me/+628159920741"> 0815-9920-741</a> </span>
                                     <br>
                                     <h5 class="mb-0  text-dark">SALES ADMIN</h5>
                                     <p><b>SALES ADMIN : </b><a href="https://wa.me/+6289662027907"> 0896-6202-7907</a> </p>
+                                    <h5 class="mb-0  text-dark">ENGINEERING</h5>
+                                    <p><b>ARI : </b><a href="https://wa.me/+6289662027907">  0817-6761-112 </a> </p>
                                 </div>
                             </div>
                         </div>

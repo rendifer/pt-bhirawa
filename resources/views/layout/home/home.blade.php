@@ -171,8 +171,8 @@
         <div class="container">
             <div class="row hazmat">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
-                    <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI,</h1>
-                    <h1 class="text-dark"> ENCLOUSURE & METALSHEET PRODUCTS;</h1>
+                    <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI</h1>
+                    <h1 class="text-dark"> Enclousure & MetalSheet Manufacturer </h1>
                     <p class="text-dark">untuk mendukung kebutuhan anda,kami dengan senang hati akan memberikan harga yang kompetitive dari waktu delivery yag terbaik.silahkan kirimkan kebutuhan anda kepada kami.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">

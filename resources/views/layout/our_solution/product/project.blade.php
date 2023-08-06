@@ -1,7 +1,7 @@
 @extends('template/main')
 
 @section('project')
-<a href="project-reference" class="nav-item nav-link active">project Reference</a>
+<a href="project-reference" class="nav-item nav-link active">Project Reference</a>
 @endsection
 
 @section('content')
@@ -86,7 +86,7 @@
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
                             <img class="img-fluid  mb-4" src="template/img/client/7.jpg" width="20%" alt="">
-                            <p>CONTROL AND PROTECTION RELAY FOR PROJECT PLN (GARDU INDUK PLN ) , SERVICE & SUPPORTING SYSTEM : HANDLING & INSTALLATION PANEL (GARDU INDDUK JABODETABEK)</p>
+                            <p>CONTROL AND PROTECTION RELAY FOR PROJECT PLN (GARDU INDUK PLN ) , SERVICE & SUPPORTING SYSTEM : HANDLING & INSTALLATION PANEL (GARDU INDUK JABODETABEK)</p>
                           </div>
                         </div>
                       </div>

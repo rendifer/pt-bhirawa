@@ -134,19 +134,20 @@
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Address</h5>
                     <h6 class="text-light">Office</h6>
-                    <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>
+                    <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>                      
+                        <p><i class="fa-brands fa-whatsapp me-3"></i>(021- 5571- 9624)</p>
                     <h6 class="text-light">Factory</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
-                    <h6 class ="text-light">operational hour</h6>
+                    <h6 class ="text-light">Operational Hour</h6>
                     <p><i class="fa-solid fa-calendar-days me-3"></i>Senin - Jum'at</p>
                     <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
-                    <h6 class="text-light">Nomor telfon sales</h6>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"> 0856-9241-4038</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"> 0878-8508-1636</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741"> 0815-9920-741</a></p>
+                    <h6 class="text-light">Phone Sales </h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"h6 class ="text-light">0821-1478-0437 (DENI)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"h6 class ="text-light">0856-9241-4038 (DHONY)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"h6 class ="text-light">0878-8508-1636 (BASONI)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741"h6 class ="text-light">0815-9920-741 (MASFAR)</a></p>
                     <h6 class="text-light">Email</h6>
-                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com">sales@ptbhima.com</a></p>
+                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com"h6 class ="text-light">sales@ptbhima.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <h5 class="text-light mb-4">Quick Links</h5>
@@ -154,7 +155,7 @@
                     <a class="btn btn-link" href="/about">About Us</a>
                     <a href="Carrier" class="btn btn-link">Carrier</a>
                     <a href="services" class="btn btn-link">Services</a>
-                    <a href="project-reference" class="btn btn-link">project Reference</a>
+                    <a href="project-reference" class="btn btn-link">Project Reference</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Product</a>
                         <div class="dropdown-menu bg-light">
@@ -163,16 +164,19 @@
                                 <a href="/Industrial" class="dropdown-item">Industrial</a>
                                 <a href="/Telecominication" class="dropdown-item">Telecominication</a>
                                 <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-                                <a href="/electrical utility" class="dropdown-item">electrical utility</a>
+                                <a href="/electrical utility" class="dropdown-item">Electrical Utility</a>
                                 <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
                             </ul>
                         </div>
                     </div>
                     <a class="btn btn-link" href="/contact">Contact Us</a>
                     <br><br>
-                    <h6 class="text-light">Nomor telfon sales admin</h6>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"> 0896-6202-7907</a></p>
+                    <h6 class="text-light">Phone Sales Admin </h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0896-6202-7907</a></p>
+                    <h6 class="text-light">Phone Engineering </h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0817-6761-112 (ARI)</a></p>
                 </div>
+
             </div>
         </div>
         <div class="container-fluid copyright appointment text-white">
