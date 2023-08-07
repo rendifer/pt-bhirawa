@@ -28,6 +28,20 @@
     #slideshowContainer {
         overflow: hidden; /* Tambahkan properti ini untuk menghindari gambar yang melampaui konten */
     }
+    .slideshow-container {
+    overflow: hidden;
+    width: 100%;
+    }
+
+    .slideshow {
+        display: flex;
+        transition: transform 2s ease; /* Animasi transisi 2 detik dengan efek 'ease' (lebih lembut) */
+    }
+    @media (max-width: 600px) {
+        .slideshow img {
+            flex: 0 0 15%;
+        }
+    }
 </style>
   
 
@@ -241,18 +255,18 @@
                     <div class="">
                         <div id="slideshowContainer" class="slideshow-container">
                             <div id="slideshow" class="slideshow">
-                                <img src="template/img/client/1.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/2.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/3.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/4.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/5.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/6.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/7.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/8.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/9.jpg" class="m-5 slide" width="10%" alt="">
-                                <img src="template/img/client/11.png" class="m-5 slide" width="10%" alt="">
+                                <img src="template/img/client/1.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/2.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/3.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/4.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/5.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/6.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/7.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/8.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/9.jpg" class="m-5 slide" width="7%" height="100%" alt="">
+                                <img src="template/img/client/11.png" class="m-5 slide" width="7%" height="100%" alt="">
                             </div>
-                        </div>
+                        </div>                        
                     </div>
                 </div>
                 
@@ -262,7 +276,7 @@
 
     <div class="container-fluid wow fadeIn" data-wow-delay="0.1s">
         <div class="row">
-        <h1 class="text-black text-center">Find Us</h1>
+        <h1 class="text-black text-center mb-5">Find Us</h1>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                 <div class="overflow-hidden h-100">
                     <iframe class="position-relative w-100 h-100"
@@ -282,24 +296,22 @@
         
         // Fungsi untuk menggerakkan gambar ke kiri
         function moveLeft() {
-            // Mendapatkan lebar gambar
             var imageWidth = slideshow.children[0].offsetWidth;
-    
-            // Geser gambar ke kiri
-            var currentPosition = parseInt(slideshow.style.left || 0, 10);
-            currentPosition -= imageWidth;
-            slideshow.style.left = currentPosition + "px";
-    
-            // Jika gambar pertama sudah sepenuhnya di luar, pindahkan gambar pertama ke akhir elemen slideshow
-            if (currentPosition <= -imageWidth) {
-                slideshow.style.left = "0px";
+            slideshow.style.transform = "translateX(-" + imageWidth + "px)";
+            
+            setTimeout(function () {
+                slideshow.style.transition = "none";
                 slideshow.appendChild(slideshow.children[0]);
-            }
+                slideshow.style.transform = "translateX(0)";
+                setTimeout(function () {
+                    slideshow.style.transition = "transform 2s ease"; // Ganti 2 dengan durasi animasi yang diinginkan
+                }, 50);
+            }, 2000); // Ganti 2000 dengan kecepatan animasi yang diinginkan (dalam milidetik)
         }
     
         // Fungsi untuk memulai animasi marquee
         function startMarquee() {
-            setInterval(moveLeft, 800); // Ganti nilai 10 dengan kecepatan animasi yang diinginkan
+            setInterval(moveLeft, 2500); // Ganti 2500 dengan kecepatan animasi yang diinginkan (dalam milidetik)
         }
     
         // Mulai animasi marquee setelah semua gambar terload
