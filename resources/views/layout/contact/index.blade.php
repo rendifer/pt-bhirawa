@@ -43,7 +43,7 @@
                         </div>
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-primary rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 26%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 41%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_2.png" alt="" style="width: 42%;">
                                     <h5 class="mb-0  text-dark">EMAIL ADMIN</h5>
                                     <p><a href="mailto:sales@ptbhima.com">sales@ptbhima.com</a></p>
@@ -56,7 +56,7 @@
                         </div>
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.2s">
                             <div class="bg-primary rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 10%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 9%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon-wa.png" alt="" style="width: 35%;">
                                     <h5 class="mb-0  text-dark">PHONE SALES</h5>
                                     <span><b>DENI SUDAENI :</b><a href="https://wa.me/+6282114780437"> 0821-1478-0437</a> </span>
@@ -73,7 +73,7 @@
                         </div>
                         <div class="col-sm-3 wow fadeIn" data-wow-delay="0.4s">
                             <div class="bg-primary rounded p-1">
-                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 47%; padding-top: 6%;">
+                                <div class="bg-white d-flex flex-column justify-content-center rounded px-3" style="padding-bottom: 62%; padding-top: 6%;">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_4.jpg" alt="" style="width: 60%;">
                                     <h5 class="mb-0  text-dark">SOCIAL MEDIA</h5>
                                     <p>pt.bhima metal mandiri </p>
@@ -149,9 +149,9 @@
                         width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                        
                     </div>
+                </div>
             </div>
         </div>
-    </div>
     </div>
 
 @endsection
