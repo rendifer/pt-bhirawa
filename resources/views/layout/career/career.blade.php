@@ -85,7 +85,7 @@
                         <div class="d-flex flex-column ">
                             <h5 class="text-dark">With energy, drive and a spirit of collaboration, </h5>
                             <h5 class="text-dark">there are no limits to what we can achieve together.</h5>
-                            <h5 class="text-dark mb-5">Better still, there are no limits on the legacy you can leave while working for PT> BHIRAWA METAL MANDIRI.</h5>
+                            <h5 class="text-dark mb-5">Better still, there are no limits on the legacy you can leave while working for PT. BHIRAWA METAL MANDIRI.</h5>
                             <h5 class="text-dark">Please send your application letter, CV dan recent photograph to :.</h5>
                         </div>
                     </div>
