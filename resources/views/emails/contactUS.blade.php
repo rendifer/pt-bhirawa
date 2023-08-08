@@ -100,7 +100,7 @@
                         <tr>
                             <td
                                 style="
-                                    border-bottom: #a40303 solid 5px;
+                                    border-bottom: #25024d solid 5px;
                                     direction: ltr;
                                     font-size: 0px;
                                     padding: 20px 0;
@@ -226,7 +226,7 @@
                                                         font-weight: bold;
                                                         line-height: 1;
                                                         text-align: center;
-                                                        color: #555;
+                                                        color: blue;
                                                     "
                                                 >
                                                     Welcome to <br /> PT. BHIRAWA METAL MANDIRI
