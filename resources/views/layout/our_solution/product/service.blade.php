@@ -452,19 +452,24 @@
               </div> 
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="" class="carousel slide" data-ride="carousel">
-                  <h4 class="text-center">coating processing</h4>
+                  <h4 class="text-center">Assembling Processing</h4>
                   <div class="row g-6">
                     <div class="col-lg-12 col-md-6">
                       <div class="text-center p-4 center-image d-flex align-items-center arrow-line-container">
-                        <img class="img-fluid m-4" src="template/img/service/tekuk/1.jpeg" width="100%" alt="">
+                        <img class="img-fluid m-4" src="template/img/service/rakit/foto1.jpeg" width="100%" alt="">
                       </div>
-                      <img class="img-fluid desktop-image" style="" src="template/img/panah/4.png" width="500%" alt="">
-                      <img class="img-fluid mobile-image mb-5" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                      {{-- <img class="img-fluid desktop-image" style="" src="template/img/panah/4.png" width="500%" alt="">
+                      <img class="img-fluid mobile-image mb-5" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt=""> --}}
                     </div>
                   </div>
                 </div>
             </div>
-            <div class="col-sm-6 wow fadeIn" style="margin-top: -15%;" data-wow-delay="0.1s">
+        </div>
+      </div>
+  </div>
+</div>
+
+            {{-- <div class="col-sm-6 wow fadeIn" style="margin-top: -15%;" data-wow-delay="0.1s">
               <div id="" class="carousel slide" data-ride="carousel">
                 <h4 class="text-center">assembling processing</h4>
                 <div class="row g-6">
@@ -473,13 +478,8 @@
                       <img class="img-fluid m-4" src="template/img/service/rakit/foto1.jpeg" width="100%" alt="">
                     </div>
                   </div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </div>
-    </div>
-  
+                </div> --}}
+              {{-- </div> --}}
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
