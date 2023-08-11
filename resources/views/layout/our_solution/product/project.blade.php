@@ -4,6 +4,19 @@
 <a href="project-reference" class="nav-item nav-link active">Project Reference</a>
 @endsection
 
+<style>
+  .project-list-content {
+    display: none;
+    border-top: 2px solid #007bff;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+  }
+
+  .project-list-button.clicked + .project-list-content {
+      display: block;
+  }
+</style>
+
 @section('content')
 
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
@@ -27,24 +40,66 @@
                       <div class="col-lg-4 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
-                            <img class="img-fluid  mb-4" src="template/img/client/1.jpg" width="62%" alt="">
+                            <img class="img-fluid mb-4" src="template/img/product/photo product/photo-001 2/2.png" width="38%" alt="">
                             <p>LOCKER AND OFFICE EQUITMENT</p>
+                            <a href="javascript:void(0);" class="btn btn-primary text-white project-list-button mb-3">Project List</a>
+                            <div class="project-list-content">
+                              <ul>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                              </ul>
+                            </div>
                           </div>
                         </div>
                       </div>
                       <div class="col-lg-4 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
-                            <img class="img-fluid  mb-4" src="template/img/client/2.jpg" width="65%" alt="">
+                            <img class="img-fluid  mb-4" src="template/img/electrical/1.png" width="60%" alt="">
                             <p>MCC PANEL , MV AND LV PANEL FOR INDUSTRI</p>
+                            <a href="javascript:void(0);" class="btn btn-primary text-white project-list-button mb-3">Project List</a>
+                            <div class="project-list-content">
+                              <ul>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                              </ul>
+                            </div>
                           </div>
                         </div>
                       </div>
                       <div class="col-lg-4 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
-                            <img class="img-fluid  mb-4" src="template/img/client/3.jpg" width="40%" alt="">
+                            <img class="img-fluid  mb-4" src="template/img/industrial/Picture4.png" width="70%" alt="">
                             <p>OUTDOOR CABIN  </p>
+                            <a href="javascript:void(0);" class="btn btn-primary text-white project-list-button mb-3">Project List</a>
+                            <div class="project-list-content">
+                              <ul>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                              </ul>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -64,8 +119,22 @@
                       <div class="col-lg-4 col-md-6" >
                         <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                           <div class="text-center p-4">
-                            <img class="img-fluid  mb-4" src="template/img/client/5.jpg" width="35%" alt="">
+                            <img class="img-fluid  mb-4" src="template/img/oil/Picture1.png" width="35%" alt="">
                             <p>MRS PRODUCT </p>
+                            <a href="javascript:void(0);" class="btn btn-primary text-white project-list-button mb-3">Project List</a>
+                            <div class="project-list-content">
+                              <ul>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                                <li>
+                                  <p> <b>PT. 2.BHIRAWA METAL</b> </p>
+                                </li>
+                              </ul>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -133,7 +202,18 @@
     </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+          const projectListButtons = document.querySelectorAll(".project-list-button");
+
+          projectListButtons.forEach(button => {
+              button.addEventListener("click", function () {
+                  this.classList.toggle("clicked");
+              });
+          });
+      });
+    </script>
 @endsection

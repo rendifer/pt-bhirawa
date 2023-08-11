@@ -14,12 +14,14 @@ class EmailController extends Controller
             'nama' => $request->nama,
             'email' => $request->email,
             'subject' => $request->subject,
+            'notel' => $request->notel,
             'message' => $request->message
         ];
 
         $request->validate([
             'nama' => 'required',
             'email' => 'required|email',
+            'notel' => 'required',
             'subject' => 'required',
             'message' => 'required'
         ]);

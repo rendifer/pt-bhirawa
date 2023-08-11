@@ -11,6 +11,7 @@
             <a href="/building & Infrastucture" class="dropdown-item active">building& Infrastucture</a>
             <a href="/electrical utility" class="dropdown-item">electrical utility</a>
             <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
+            <a href="/service & installation system" class="dropdown-item">Service & Installation System</a>
         </ul>
     </div>
 </div>
@@ -82,14 +83,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                {{-- <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                     <div class="p-1">
                         <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                             <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building/Picture1.png" alt="">
                             <h5 class="mb-0">OUTDOOR MARSHALLING KIOS IP 54</h5>
                         </div>
                     </div>
-                </div>
+                </div> --}}
                 <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                     <div class="p-1">
                         <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">

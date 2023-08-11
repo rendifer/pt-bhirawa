@@ -38,6 +38,7 @@ Route::get('/Wall-Mounting', [OtherproductsController::class, 'Wall'])->name('Wa
 Route::get('/Console desk', [OtherproductsController::class, 'Console'])->name('Console');
 Route::get('/project-reference', [OtherproductsController::class, 'project'])->name('project');
 Route::get('/services', [OtherproductsController::class, 'service'])->name('service');
+Route::get('/service & installation system', [OtherproductsController::class, 'install'])->name('install');
 
 Route::get('/Carrier', [CareerController::class, 'career'])->name('career');
 

@@ -61,5 +61,10 @@ class OtherproductsController extends Controller
     {
         return view ('layout.our_solution.product.service');
     }
+    
+    public function install()
+    {
+        return view ('layout.our_solution.product.install');
+    }
 
 }

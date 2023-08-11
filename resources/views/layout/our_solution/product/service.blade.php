@@ -122,7 +122,7 @@
               </div>
               <div class="col-sm-2 wow fadeIn arrow" data-wow-delay="0.1s">
                 <img class="img-fluid desktop-image" style="margin-top: 65%;" src="template/img/panah/1.jpg" width="100%" alt="">
-                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div>              
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="punch" class="carousel slide" data-ride="carousel">
@@ -218,7 +218,7 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
-                <img class="img-fluid mb-3" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                <img class="img-fluid mb-3" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div>
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="las" class="carousel slide" data-ride="carousel">
@@ -286,12 +286,12 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
-                {{-- <img class="img-fluid mb-3 mobile-image" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt=""> --}}
-                <img class="img-fluid mb-3 desktop-image" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                {{-- <img class="img-fluid mb-3 mobile-image" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt=""> --}}
+                <img class="img-fluid mb-3 desktop-image" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div>
               <div class="col-sm-2 wow fadeIn arrow" data-wow-delay="0.1s">
                 <img class="img-fluid desktop-image" style="margin-top: 100%;" src="template/img/panah/3.jpg" width="100%" alt="">
-                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div> 
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="tekuk" class="carousel slide" data-ride="carousel">
@@ -377,7 +377,7 @@
                         <span class="sr-only">Next</span>
                     </a>
                 </div>
-                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div>
               <div class="col-sm-5 wow fadeIn justify-content-center" data-wow-delay="0.1s">
                 <div id="finis" class="carousel slide" data-ride="carousel">
@@ -448,7 +448,7 @@
               </div>
               <div class="col-sm-2 wow fadeIn arrow" data-wow-delay="0.1s">
                 <img class="img-fluid desktop-image" style="margin-top: 100%;" src="template/img/panah/1.jpg" width="100%" alt="">
-                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt="">
+                <img class="img-fluid mobile-image mb-3" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt="">
               </div> 
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="" class="carousel slide" data-ride="carousel">
@@ -459,7 +459,7 @@
                         <img class="img-fluid m-4" src="template/img/service/rakit/foto1.jpeg" width="100%" alt="">
                       </div>
                       {{-- <img class="img-fluid desktop-image" style="" src="template/img/panah/4.png" width="500%" alt="">
-                      <img class="img-fluid mobile-image mb-5" style="margin-left: 45%;" src="template/img/panah/2.png" width="20%" alt=""> --}}
+                      <img class="img-fluid mobile-image mb-5" style="margin-left: 45%;" src="template/img/panah/2.jpg" width="20%" alt=""> --}}
                     </div>
                   </div>
                 </div>

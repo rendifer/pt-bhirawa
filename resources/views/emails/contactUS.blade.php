@@ -293,11 +293,15 @@
                                                         >{{
                                                         $email['nama']}}</span
                                                     >
-                                                    <br />
+                                                    <br>
                                                     <span
                                                         >{{
                                                         $email['email']}}</span
                                                     >
+                                                    <br>
+                                                    <a href="wa.me/+62{{$email['notel']}}">
+                                                        <span>{{$email['notel']}}</span>
+                                                    </a>
                                                 </div>
                                             </td>
                                         </tr>

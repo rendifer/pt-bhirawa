@@ -251,7 +251,7 @@
 }
 
 .page-header {
-    background: url(../img/bg.png) center center no-repeat;
+    background: url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -307,7 +307,7 @@
 
 .container.facts .facts-text {
     background: linear-gradient(rgb(7, 2, 52, 0.91), rgba(7, 2, 52, 0.91)),
-        url(../img/bg.png) center right no-repeat;
+        url(../img/1jadi.png) center right no-repeat;
     background-size: cover;
 }
 
@@ -316,7 +316,7 @@
             rgba(255, 255, 255, 0.9),
             rgba(255, 255, 255, 0.9)
         ),
-        url(../img/bg.png) center right no-repeat;
+        url(../img/1jadi.png) center right no-repeat;
     background-size: cover;
 }
 
@@ -361,14 +361,14 @@
 /*** Appointment ***/
 .appointment {
     background: linear-gradient(rgba(7, 2, 52, 0.91), rgba(7, 2, 52, 0.91)),
-    url(../img/bg.png) center center no-repeat;
+    url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
     backdrop-filter: blur(10px);
 }
 
 .safety {
     background: linear-gradient(rgba(7, 2, 52, 0.91), rgba(7, 2, 52, 0.91)),
-        url(../img/bg.png) center center no-repeat;
+        url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
     transform: skew(0deg, 5deg) translateY(-50px);
     margin-top: 8%;
@@ -382,7 +382,7 @@
 
 .appointment2 {
     background: linear-gradient(rgba(7, 2, 52, 0.91), rgba(7, 2, 52, 0.91)),
-        url(../img/bg.png) center center no-repeat;
+        url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
     transform: skew(0deg, 5deg) translateY(-50px);
     margin-top: 15%;
@@ -403,12 +403,12 @@
             rgba(255, 255, 255, 0.9),
             rgba(255, 255, 255, 0.9)
         ),
-        url(../img/bg.png) center center no-repeat;
+        url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
 }
 
 .bg-home {
-    background: url(../img/bg.png) center center no-repeat;
+    background: url(../img/1jadi.png) center center no-repeat;
     background-size: cover;
 }
 

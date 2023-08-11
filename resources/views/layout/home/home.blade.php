@@ -51,12 +51,12 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="template/img/bg.png" alt="Image">
+                    <img class="w-100" src="template/img/1 jadi.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row">
                                 <div class="col-12 col-lg-12 text-center ">
-                                    <h1 class="display-3 text-dark animated slideInDown ptbhirawa">PT. BHIRAWA METAL MANDIRI</h1>
+                                    <h1 class="display-3 text-dark animated slideInDown ptbhirawa text-white">PT. BHIRAWA METAL MANDIRI</h1>
                                     <a href="#details" class="btn btn-primary py-3 px-5 more">More Details</a>
                                 </div>
                             </div>
@@ -216,12 +216,21 @@
                                     @endif
                                 </div>
                             </div>
-                            <div class="col-12">
+                            <div class="col-6">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
                                     <label for="subject">Subject</label>
                                     @if ($errors->has('subject'))
                                         <span class="text-dark">{{ $errors->first('subject') }}</span>
+                                    @endif
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-floating">
+                                    <input type="number" class="form-control" id="notel" placeholder="Your Phone" name="notel">
+                                    <label for="notel">Your Phone</label>
+                                    @if ($errors->has('notel'))
+                                        <span class="text-dark">{{ $errors->first('notel') }}</span>
                                     @endif
                                 </div>
                             </div>
