@@ -110,8 +110,8 @@
                                 <div class="d-flex flex-column mt-4">
                                     <h3 class="text-primary">PT. BHIRAWA METAL MANDIRI</h3>
                                     <h6>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang</h6>
-                                    <h6> <b>Telp</b>     : 0896-6202-7907</h6>
-                                    <h6> <b>Email</b>    : sales@ptbhima.com</h6>
+                                    <h6> <b>Telp</b>     : 021- 5571- 9624</h6>
+                                    <h6> <b>Email</b>    : sugiyarno@ptbhima.com</h6>
                                 </div>
                             </div>
                         </div>

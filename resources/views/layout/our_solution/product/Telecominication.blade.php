@@ -62,11 +62,7 @@
                                     <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
                                 </div>
                                 <div class="testimonial-item position-relative team-item">
-                                    <img class="align-self-center py-3 px-3 inch" style="width: 60%; height: 60%;" src="template/img/telecomunication/Picture7.png" alt="">
-                                    <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
-                                </div>
-                                <div class="testimonial-item position-relative team-item">
-                                    <img class="align-self-center py-3 px-3 inch" style="width: 100%; height: 100%;" src="template/img/telecomunication/Picture8.png" alt="">
+                                    <img class="align-self-center py-3 px-3 inch" style="width: 70%; height: 80%;" src="template/img/telecomunication/Picture5.png" alt="">
                                     <h5 class="text-dark text-center">19 INCH RACK CABINET</h5>
                                 </div>
                             </div>
@@ -89,12 +85,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                        {{-- <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
                                     <img class="align-self-center mb-4 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/telecomunication/Picture5.png" alt="">
                                     <h5 class="mb-0">19 INCH RACK CABINET</h5>
-                                </div>
+                                </div> --}}
                             </div>
                         </div>
                     </div>

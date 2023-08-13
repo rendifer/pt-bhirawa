@@ -50,18 +50,38 @@
                 <div class="col-md-10">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 50%;" src="template/img/oil/Picture1.png" alt="">
-                            <h5 class="text-primary text-center">HOUSING MRS</h5>
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 70%;" src="template/img/handlingservice/1.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
                         </div>
                         <div class="testimonial-item position-relative team-item">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 50%;" src="template/img/oil/Picture4.png" alt="">
-                            <h5 class="text-primary text-center">HOUSING MRS</h5>
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 60%;" src="template/img/handlingservice/2.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 50%; height: 60%;" src="template/img/handlingservice/3.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/handlingservice/4.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 40%;" src="template/img/handlingservice/5.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 60%;" src="template/img/handlingservice/6.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 40%; height: 50%;" src="template/img/handlingservice/7.jpeg" alt="">
+                            <h5 class="text-primary text-center">SERVICE & INSTALLATION</h5>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="text-center m-5">
+        <div class="text-center m-3">
             <a href="/contact" class="btn btn-primary">More detail product</a>
         </div>
     </div>

@@ -21,8 +21,7 @@
                     <div class="h-100 px-4 ps-lg-0">
                         <h3 class="text-dark mb-4">PT.BHIRAWA METAL MANDIRI</h3>
                         <p class="text-dark mb-3">
-                            PT. Bhirawa Metal Mandiri berdiri di Tangerang sejak Oktober 2022. Dengan dukungan dan keyakinan dari team yang sangat berpengalaman dibidang industri metalsheet, mempunyai kompetensi yang tinggi dan mempunyai tujuan yang sama yaitu untuk memberikan kepuasan para Pelanggan dalam hal mutu dan kualitas produk.
-                            Dengan di dukung tenaga yang profesional dibidang masing-masing, kami yakin dapat memenuhi semua kebutuhan para Pelanggan Kami.
+                            PT. Bhirawa Metal Mandiri was established in Tangerang since October 2022. With the support and confidence of a team that is very experienced in the metalsheet industry, has high competence and has the same goal, namely to provide customer satisfaction in terms of quality and product quality. Supported by professional staff in their respective fields, we are confident that we can meet all the needs of our customers.
                         </p>
                         <p class="text-dark mb-3">
                             
@@ -30,13 +29,13 @@
                             
                         </p>
                         <p class="text-dark mb-3">
-                            Akte pendirian:
+                         Deed of establishment:
                             <p class="text-dark mb-3">
-                            No:155 , 28 Maret 2022
+                            No:155 , 28 March 2022
                          
                             <p class="text-dark mb-3">
                                 SK Kemenhukam 
-                                No: AHU - 0022964.AH.01.01.Tahun 2022 , 31 Maret 2022 
+                                No: AHU - 0022964.AH.01.01.Tahun 2022 , 31 March 2022 
                                 <p class="text-dark mb-3">
                                NIB : 0604110000086 , 6 April 2022
                               
@@ -105,14 +104,15 @@
                         <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column team-item py-4 px-3">
-                                    <h3 class="text-dark mb-4 justify-content-center text-center">BIDANG USAHA</h3>
+                                    <h3 class="text-dark mb-4 justify-content-center text-center">BUSINESS FIELDS</h3>
                                     <p class="text-dark mb-3">
-                                        PT.BHIRAWA METAL MANDIRI adalah perusahann yang memproduksi enclosure/cabinet& metal sheet product lainya sesuai dengan spesifikasi dan kebutuhan para pelanggan .
+                                        
+                                        PT. BHIRAWA METAL MANDIRI is a company that manufactures enclosure/cabinet & other metal sheet products according to the specifications and needs of customers.
                                     </p>
                                     <ul>
                                         <li>
                                             <p class="text-dark mb-3">
-                                                market coverage oleh PT.BHIRAWA METAL MANDIRI antara lain:
+                                                market coverage by PT. BHIRAWA METAL MANDIRI, among others:
                                             </p>
                                             <ul>
                                                 <li>
@@ -155,8 +155,7 @@
                                     <ul>
                                         <li>
                                             <p class="text-dark mb-3">
-                                                PT.BHIRAWA METAL MANDIRI berdiri di tangerang oktober 2022 dengan dukungan dan keyakinan dari team yang sangat berpengalaman di bidang industri metalsheet,mempunyai kompetensi yang tinggi dan mempunyai tujuan yang sama yaitu untuk memberikan kepuasan para pelanggan dalam hal mutu dan kualitas produk.
-                                                dengan di dukung tenaga yang profesional di bidang masing-masing kami yakin dapat memenuhi semua kebutuhan para pelanggan kami.
+                                                PT. Bhirawa Metal Mandiri was established in Tangerang since October 2022. With the support and confidence of a team that is very experienced in the metalsheet industry, has high competence and has the same goal, namely to provide customer satisfaction in terms of quality and product quality. Supported by professional staff in their respective fields, we are confident that we can meet all the needs of our customers.
                                             </p>
                                         </li>
                                     </ul>

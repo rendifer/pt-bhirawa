@@ -26,8 +26,27 @@
             </h4>
         </div>
     </div>
-
     <div class="container-xxl py-5 mb-5">
+        <div class="container px-lg-5 mt-5">
+            <div class="row g-5 justify-content-center">
+                <h1 class="text-dark text-center">Products</h1>
+                <div class="col-md-4">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/product/photo product/photo-001 2/2.jadii.png" alt="">
+                            <h5 class="text-primary text-center">CONSOLE DESK </h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/c1.jpeg" alt="">
+                            <h5 class="text-primary text-center">CONSOLE DESK </h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 68%; height: 68%;" src="template/img/c2.jpeg" alt="">
+                            <h5 class="text-primary text-center">CONSOLE DESK </h5>
+                        </div>
+                    </div>
+                </div>
+    {{-- <div class="container-xxl py-5 mb-5">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
@@ -41,7 +60,7 @@
                                     <br>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
