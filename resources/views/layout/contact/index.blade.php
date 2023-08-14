@@ -1,7 +1,7 @@
 @extends('template/main')
 
 @section('contact')
-    <a href="/contact" class="nav-item nav-link active">Contact Us</a>
+    <a href="/contact" class="nav-item nav-link active">{{ GoogleTranslate::trans('Contact Us',\App::getLocale()) }}</a>
 @endsection
 
 <style>
@@ -18,7 +18,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                Contact Us
+                {{ GoogleTranslate::trans('Contact Us',\App::getLocale()) }}
             </h4>
         </div>
     </div>
@@ -27,13 +27,13 @@
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
-                    <h2 class="text-dark">REACH US</h2>
+                    <h2 class="text-dark">{{ GoogleTranslate::trans('REACH US',\App::getLocale()) }}</h2>
                     <div class="row g-12">
                         <div class="col-sm-3 mb-3 wow fadeIn" data-wow-delay="0.1s">
                             <div class="bg-primary rounded p-1">
                                 <div class="bg-white d-flex flex-column justify-content-center rounded px-3 py-3">
                                     <img class="align-self-center mb-3" src="template/img/icon/icon_1.jpg" alt="" style="width: 42%;">
-                                    <h5 class="mb-0  text-dark">OFFICE</h5>
+                                    <h5 class="mb-0  text-dark"> {{ GoogleTranslate::trans('Office',\App::getLocale()) }}</h5>
                                     <p>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang</p>
                                     <p>(021- 5571- 9624)</p>
                                     <h5 class="mb-0  text-dark">FACTORY</h5>
@@ -96,14 +96,14 @@
                             {{Session::get('success')}}
                         </div>
                     @endif
-                    <h3 class="mb-5 text-dark">NEED HELP? CONTACT US!</h3>
+                    <h3 class="mb-5 text-dark">{{ GoogleTranslate::trans('NEED HELP? CONTACT US!',\App::getLocale()) }}</h3>
                     <form id="myForm" method="post" action="{{ route('contactUs') }}" >
                         @csrf
                         <div class="row g-3">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">{{ GoogleTranslate::trans('Your Name',\App::getLocale()) }}</label>
                                     @if ($errors->has('nama'))
                                         <span class="text-dark">{{ $errors->first('nama') }}</span>
                                     @endif
@@ -112,7 +112,7 @@
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control" id="email" placeholder="Your Email" name="email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">{{ GoogleTranslate::trans('Your Email ',\App::getLocale()) }}</label>
                                     @if ($errors->has('email'))
                                         <span class="text-dark">{{ $errors->first('email') }}</span>
                                     @endif
@@ -120,17 +120,8 @@
                             </div>
                             <div class="col-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
-                                    <label for="subject">Subject</label>
-                                    @if ($errors->has('subject'))
-                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
-                                    @endif
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="form-floating">
                                     <input type="number" class="form-control" id="notel" placeholder="Your Phone" name="notel">
-                                    <label for="notel">Your Phone</label>
+                                    <label for="notel">{{ GoogleTranslate::trans('Your Phone ',\App::getLocale()) }}</label>
                                     @if ($errors->has('notel'))
                                         <span class="text-dark">{{ $errors->first('notel') }}</span>
                                     @endif
@@ -138,15 +129,24 @@
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+                                    <label for="subject"> {{ GoogleTranslate::trans('Subject',\App::getLocale()) }}</label>
+                                    @if ($errors->has('subject'))
+                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
+                                    @endif
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
                                     <textarea class="form-control" placeholder="Leave a message here" id="message" name="message" style="height: 100px"></textarea>
-                                    <label for="message">Message</label>
+                                    <label for="message"> {{ GoogleTranslate::trans('Message',\App::getLocale()) }}</label>
                                     @if ($errors->has('message'))
                                         <span class="text-dark">{{ $errors->first('message') }}</span>
                                     @endif
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit"> {{ GoogleTranslate::trans('Submit',\App::getLocale()) }}</button>
                             </div>
                         </div>
                     </form>

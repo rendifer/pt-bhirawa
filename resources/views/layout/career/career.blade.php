@@ -1,7 +1,7 @@
 @extends('template/main')
 
 @section('Carrier')
-    <a href="/Carrier" class="nav-item nav-link active">Carrier</a>
+    <a href="/Carrier" class="nav-item nav-link active">{{ GoogleTranslate::trans('Career',\App::getLocale()) }}</a>
 @endsection
 
 <style>
@@ -41,7 +41,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                Carrier
+                {{ GoogleTranslate::trans('Career',\App::getLocale()) }}
             </h4>
         </div>
     </div>
@@ -52,7 +52,7 @@
             <div class="p-1">
               <div class="d-flex flex-column py-4 px-3">
                 <h3 class="text-primary">PT. BHIRAWA METAL MANDIRI</h3>
-                <span class="ms-5">Enclosure & Metal Sheet Manufacture</span>
+                <span class="ms-5"> {{ GoogleTranslate::trans('Enclosure & Metal Sheet Manufacture',\App::getLocale()) }}</span>
               </div>
             </div>
           </div>
@@ -70,8 +70,8 @@
         <div class="col-sm-12 wow fadeIn" data-wow-delay="0.1s">
             <div class="p-0 d-flex justify-content-end">
                 <div class="d-flex flex-column text-end py-5 px-5">
-                    <h5 class="" style="color: #14056a;">A BETTER WORLD</h5>
-                    <h5 class="" style="color: #14056a;">BEGINS WITH YOU</h5>
+                    <h5 class="" style="color: #14056a;"> {{ GoogleTranslate::trans('A BETTER WORLD',\App::getLocale()) }}</h5>
+                    <h5 class="" style="color: #14056a;"> {{ GoogleTranslate::trans('BEGINS WITH YOU',\App::getLocale()) }}</h5>
                 </div>
             </div>
         </div>
@@ -83,10 +83,10 @@
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row g-12">
                         <div class="d-flex flex-column ">
-                            <h5 class="text-dark">With energy, drive and a spirit of collaboration, </h5>
-                            <h5 class="text-dark">there are no limits to what we can achieve together.</h5>
-                            <h5 class="text-dark mb-5">Better still, there are no limits on the legacy you can leave while working for PT. BHIRAWA METAL MANDIRI.</h5>
-                            <h5 class="text-dark">Please send your application letter, CV dan recent photograph to :.</h5>
+                            <h5 class="text-dark"> {{ GoogleTranslate::trans('With energy, drive and a spirit of collaboration,',\App::getLocale()) }}</h5>
+                            <h5 class="text-dark">{{ GoogleTranslate::trans('there are no limits to what we can achieve together.',\App::getLocale()) }}</h5>
+                            <h5 class="text-dark mb-5">{{ GoogleTranslate::trans('Better still, there are no limits on the legacy you can leave while working for PT. BHIRAWA METAL MANDIRI.',\App::getLocale()) }}</h5>
+                            <h5 class="text-dark">{{ GoogleTranslate::trans('Please send your application letter, CV dan recent photograph to :.',\App::getLocale()) }}</h5>
                         </div>
                     </div>
                 </div>

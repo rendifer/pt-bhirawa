@@ -24,6 +24,8 @@ Route::get('/', function () {
 });
 
 Route::get('/about', [AboutController::class, 'index'])->name('about');
+Route::get('google/translate/change',[AboutController::class,'googleTranslateChange'])->name('google.translate.change');
+
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
 Route::get('/oil and gas', [OtherproductsController::class, 'oil'])->name('oil-and-gas');
 Route::get('/Industrial', [OtherproductsController::class, 'Industrial'])->name('Industrial');

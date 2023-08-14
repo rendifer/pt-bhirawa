@@ -2,16 +2,16 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">{{ GoogleTranslate::trans('Product',\App::getLocale()) }}</a>
     <div class="dropdown-menu bg-light">
         <ul>
-            <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
-            <a href="/Industrial" class="dropdown-item">Industrial</a>
-            <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-            <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
-            <a href="/service & installation system" class="dropdown-item">Service & Installation System</a>
+            <a href="/oil and gas" class="dropdown-item">{{ GoogleTranslate::trans('Oil & Gas',\App::getLocale()) }}</a>
+            <a href="/Industrial" class="dropdown-item">{{ GoogleTranslate::trans('Industrial',\App::getLocale()) }}</a>
+            <a href="/Telecominication" class="dropdown-item">{{ GoogleTranslate::trans('Telecominication',\App::getLocale()) }}</a>
+            <a href="/Building & Infrastucture" class="dropdown-item">{{ GoogleTranslate::trans('building & Infrastucture',\App::getLocale()) }}</a>
+            <a href="/electrical utility" class="dropdown-item">{{ GoogleTranslate::trans('electrical utility',\App::getLocale()) }}</a>
+            <a href="/Office & Equitmen" class="dropdown-item">{{ GoogleTranslate::trans('Office & Equitmen',\App::getLocale()) }}</a>
+            <a href="/service & installation system" class="dropdown-item">{{ GoogleTranslate::trans('Service & Installation System',\App::getLocale()) }}</a>
         </ul>
     </div>
 </div>
@@ -22,7 +22,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                Housing MRS
+                {{ GoogleTranslate::trans('Housing MRS',\App::getLocale()) }}
             </h4>
         </div>
     </div>
@@ -32,7 +32,7 @@
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="row g-12 justify-content-center">
-                        <h1 class="text-dark text-center">Products</h1>
+                        <h1 class="text-dark text-center">{{ GoogleTranslate::trans('Products',\App::getLocale()) }}</h1>
                         <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
                             <div class="p-1">
                                 <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">

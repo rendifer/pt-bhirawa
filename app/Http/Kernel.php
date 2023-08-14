@@ -1,7 +1,8 @@
 <?php
 
 namespace App\Http;
-
+use App;
+use Session;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
@@ -37,6 +38,7 @@ class Kernel extends HttpKernel
             \Illuminate\View\Middleware\ShareErrorsFromSession::class,
             \App\Http\Middleware\VerifyCsrfToken::class,
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
+            \App\Http\Middleware\GoogleTranslate::class,
         ],
 
         'api' => [

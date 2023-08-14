@@ -2,16 +2,16 @@
 
 @section('solution')             
 <div class="nav-item dropdown">
-    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">Product</a>
+    <a href="#" class="nav-link dropdown-toggle  active" data-bs-toggle="dropdown">{{ GoogleTranslate::trans('Product',\App::getLocale()) }}</a>
     <div class="dropdown-menu bg-light">
         <ul>
-            <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
-            <a href="/Industrial" class="dropdown-item">Industrial</a>
-            <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-            <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-            <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-            <a href="/Office & Equitmen" class="dropdown-item active">Office & Equitmen</a>
-            <a href="/service & installation system" class="dropdown-item">Service & Installation System</a>
+            <a href="/oil and gas" class="dropdown-item">{{ GoogleTranslate::trans('Oil & Gas',\App::getLocale()) }}</a>
+            <a href="/Industrial" class="dropdown-item">{{ GoogleTranslate::trans('Industrial',\App::getLocale()) }}</a>
+            <a href="/Telecominication" class="dropdown-item">{{ GoogleTranslate::trans('Telecominication',\App::getLocale()) }}</a>
+            <a href="/Building & Infrastucture" class="dropdown-item">{{ GoogleTranslate::trans('building & Infrastucture',\App::getLocale()) }}</a>
+            <a href="/electrical utility" class="dropdown-item">{{ GoogleTranslate::trans('electrical utility',\App::getLocale()) }}</a>
+            <a href="/Office & Equitmen" class="dropdown-item active">{{ GoogleTranslate::trans('Office & Equitmen',\App::getLocale()) }}</a>
+            <a href="/service & installation system" class="dropdown-item">{{ GoogleTranslate::trans('Service & Installation System',\App::getLocale()) }}</a>
         </ul>
     </div>
 </div>
@@ -22,14 +22,14 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                Office & Equitmen
+                {{ GoogleTranslate::trans('Office and Equitment',\App::getLocale()) }}
             </h4>
         </div>
     </div>
     <div class="container-xxl py-5 mb-5">
         <div class="container px-lg-5 mt-5">
             <div class="row g-5 justify-content-center">
-                <h1 class="text-dark text-center">Products</h1>
+                <h1 class="text-dark text-center">{{ GoogleTranslate::trans('Products',\App::getLocale()) }}</h1>
                 <div class="col-md-4">
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item position-relative team-item">
@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="text-center m-5">
-            <a href="/contact" class="btn btn-primary">More detail product</a>
+            <a href="/contact" class="btn btn-primary">{{ GoogleTranslate::trans('more detail product',\App::getLocale()) }}</a>
         </div>
     </div>
 

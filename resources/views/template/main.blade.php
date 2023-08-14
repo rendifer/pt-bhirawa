@@ -36,6 +36,14 @@
           width: 150px;
           height: 100px;
         }
+        .flag-icon {
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
     </style>
 </head>
 
@@ -50,75 +58,62 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto rounded pe-4 py-3 py-lg-0">
                 @section('home')
-                    <a href="/" class="nav-item nav-link">Home</a>
+                    <a href="/" class="nav-item nav-link">{{ GoogleTranslate::trans('Home',\App::getLocale()) }}</a>
                 @show
                 @section('about')
-                    <a href="/about" class="nav-item nav-link">About Us</a>
+                    <a href="/about" class="nav-item nav-link"> {{ GoogleTranslate::trans('About Us',\App::getLocale()) }}</a>
                 @show
                 @section('Carrier')
-                    <a href="Carrier" class="nav-item nav-link">Carrier</a>
+                    <a href="Carrier" class="nav-item nav-link"> {{ GoogleTranslate::trans('Career',\App::getLocale()) }}</a>
                 @show
                 @section('Services')
-                    <a href="services" class="nav-item nav-link">Services</a>
+                    <a href="services" class="nav-item nav-link"> {{ GoogleTranslate::trans('Service',\App::getLocale()) }}</a>
                 @show
                 @section('project')
-                    <a href="project-reference" class="nav-item nav-link">Project Reference</a>
+                    <a href="project-reference" class="nav-item nav-link"> {{ GoogleTranslate::trans('Project Reference',\App::getLocale()) }}</a>
                 @show
                 @section('solution')    
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Product</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"> {{ GoogleTranslate::trans('Product',\App::getLocale()) }}</a>
                         <div class="dropdown-menu bg-light">
                             <ul>
                                 {{-- <h6>PRODUCTS</h6> --}}
-                                <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
-                                <a href="/Industrial" class="dropdown-item">Industrial</a>
-                                <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-                                <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-                                <a href="/electrical utility" class="dropdown-item">electrical utility</a>
-                                <a href="/Office & Equitmen" class="dropdown-item">office & equitment</a>
-                                <a href="/service & installation system" class="dropdown-item">Service & Installation System</a>
+                                <a href="/oil and gas" class="dropdown-item"> {{ GoogleTranslate::trans('Oil & Gas',\App::getLocale()) }}</a>
+                                <a href="/Industrial" class="dropdown-item"> {{ GoogleTranslate::trans('Industrial',\App::getLocale()) }}</a>
+                                <a href="/Telecominication" class="dropdown-item"> {{ GoogleTranslate::trans('Telecominication',\App::getLocale()) }}</a>
+                                <a href="/Building & Infrastucture" class="dropdown-item"> {{ GoogleTranslate::trans('Building & Infrastucture',\App::getLocale()) }}</a>
+                                <a href="/electrical utility" class="dropdown-item"> {{ GoogleTranslate::trans('electrical utility',\App::getLocale()) }}</a>
+                                <a href="/Office & Equitmen" class="dropdown-item"> {{ GoogleTranslate::trans('office & equitment',\App::getLocale()) }}</a>
+                                <a href="/service & installation system" class="dropdown-item"> {{ GoogleTranslate::trans('Service & Installation System',\App::getLocale()) }}</a>
                             </ul>
                         </div>
                     </div>
                 @show
                 @section('contact')
-                    <a href="/contact" class="nav-item nav-link">Contact Us</a>
+                    <a href="/contact" class="nav-item nav-link"> {{ GoogleTranslate::trans('Contact Us',\App::getLocale()) }}</a>
                 @show
                 {{-- <a href="template/file/katalog-produk.pdf" download class="btn btn-primary nav-item nav-link text-white ms-" style="margin-left: 5px"
-                ><span>katalog product</span>
-                <i class="fas fa-download"></i> --}}
-              </a>
+                    ><span>katalog product</span>
+                    <i class="fas fa-download"></i>
+                </a> --}}
+                <div class="">
+                    <select class="form-select changeLanguage">
+                        <option value="en" {{ session()->get('locale') == 'en' ? 'selected' : ''}}>
+                            <span class="flag-icon" style="background-image: url('template/img/en.jpg');" alt="English Flag"></span>
+                            <i class="fa-sharp fa-solid fa-flag"></i>
+                            English
+                        </option>
+                        <option value="in" {{ session()->get('locale') == 'in' ? 'selected' : ''}}>
+                            <span class="flag-icon" style="background-image: url('template/img/in.png');" alt="Indonesian Flag"></span>
+                            Indonesia
+                        </option>
+                    </select>               
+                </div>                
             </div>
         </div>
     </nav>
 
     @yield('content')
-
-    <div id="myModal" class="modal fade" role="dialog">
-        <div class="modal-dialog col-sm-4">
-          <div class="modal-content">
-            <div class="modal-header" style="background-color: green;">
-                <h5 class="modal-title text-white" id="staticBackdropLabel"><i class="fa-brands fa-whatsapp"></i>   Start a Conversation</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-                <p style="margin-top: -2%;">The team typically replies in a few minutes</p>
-                <a href="https://wa.me/+628971413088/">
-                    <div class="border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">DG Packaging
-                        {{-- <img src="template/img/icon/icon-wa.png" class="" style="width: 30px; margin-left: 30%" alt=""> --}}
-                    </div>
-                </a>
-                <a href="https://wa.me/+628971413088/">
-                    <div class="mt-2 border-5 border-start border-success" style="background-color: rgba(245, 239, 239, 0.93);">
-                        <img src="template/img/icon/wa.png" style="width: 55px; margin: 10px;" alt="">DG Packaging
-                        {{-- <img src="template/img/icon/icon-wa.png" style="width: 30px; margin-left: 30%" alt=""> --}}
-                    </div>
-                </a>
-            </div>
-          </div>
-        </div>
-    </div>
 
     <div class="container-fluid appointment footer wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
@@ -133,16 +128,16 @@
                     </div> -->
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="text-light mb-4">Address</h5>
-                    <h6 class="text-light">Office</h6>
+                    <h5 class="text-light mb-4">{{ GoogleTranslate::trans('Address',\App::getLocale()) }}</h5>
+                    <h6 class="text-light">{{ GoogleTranslate::trans('Office',\App::getLocale()) }}</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>                      
                         <p><i class="fa-brands fa-whatsapp me-3"></i>(021- 5571- 9624)</p>
-                    <h6 class="text-light">Factory</h6>
+                    <h6 class="text-light">{{ GoogleTranslate::trans('Factory',\App::getLocale()) }}</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
-                    <h6 class ="text-light">Operational Hour</h6>
+                    <h6 class ="text-light">{{ GoogleTranslate::trans('Operational Hour',\App::getLocale()) }}</h6>
                     <p><i class="fa-solid fa-calendar-days me-3"></i>Senin - Jum'at</p>
                     <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
-                    <h6 class="text-light">Phone Sales </h6>
+                    <h6 class="text-light">{{ GoogleTranslate::trans('Phone Sales',\App::getLocale()) }} </h6>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"h6 class ="text-light">0821-1478-0437 (DENI)</a></p>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"h6 class ="text-light">0856-9241-4038 (DHONY)</a></p>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"h6 class ="text-light">0878-8508-1636 (BASONI)</a></p>
@@ -151,31 +146,31 @@
                     <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com"h6 class ="text-light">sales@ptbhima.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="text-light mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="/">Home</a>
-                    <a class="btn btn-link" href="/about">About Us</a>
-                    <a href="Carrier" class="btn btn-link">Carrier</a>
-                    <a href="services" class="btn btn-link">Services</a>
-                    <a href="project-reference" class="btn btn-link">Project Reference</a>
+                    <h5 class="text-light mb-4">{{ GoogleTranslate::trans('Quick Links',\App::getLocale()) }}</h5>
+                    <a class="btn btn-link" href="/">{{ GoogleTranslate::trans('Home',\App::getLocale()) }}</a>
+                    <a class="btn btn-link" href="/about"> {{ GoogleTranslate::trans('About Us',\App::getLocale()) }}</a>
+                    <a href="Carrier" class="btn btn-link"> {{ GoogleTranslate::trans('Carrier',\App::getLocale()) }}</a>
+                    <a href="services" class="btn btn-link"> {{ GoogleTranslate::trans('Services',\App::getLocale()) }}</a>
+                    <a href="project-reference" class="btn btn-link"> {{ GoogleTranslate::trans('Project Reference',\App::getLocale()) }}</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown">Product</a>
+                        <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown"> {{ GoogleTranslate::trans('Product',\App::getLocale()) }}</a>
                         <div class="dropdown-menu bg-light">
                             <ul>
-                                <a href="/oil and gas" class="dropdown-item">Oil & Gas</a>
-                                <a href="/Industrial" class="dropdown-item">Industrial</a>
-                                <a href="/Telecominication" class="dropdown-item">Telecominication</a>
-                                <a href="/Building & Infrastucture" class="dropdown-item">Building & Infrastucture</a>
-                                <a href="/electrical utility" class="dropdown-item">Electrical Utility</a>
-                                <a href="/Office & Equitmen" class="dropdown-item">Office & Equitmen</a>
-                                <a href="/service & installation system" class="dropdown-item">Service & Installation System</a>
+                                <a href="/oil and gas" class="dropdown-item"> {{ GoogleTranslate::trans('Oil & Gas',\App::getLocale()) }}</a>
+                                <a href="/Industrial" class="dropdown-item"> {{ GoogleTranslate::trans('Industrial',\App::getLocale()) }}</a>
+                                <a href="/Telecominication" class="dropdown-item"> {{ GoogleTranslate::trans('Telecominication',\App::getLocale()) }}</a>
+                                <a href="/Building & Infrastucture" class="dropdown-item"> {{ GoogleTranslate::trans('Building & Infrastucture',\App::getLocale()) }}</a>
+                                <a href="/electrical utility" class="dropdown-item"> {{ GoogleTranslate::trans('Electrical Utility',\App::getLocale()) }}</a>
+                                <a href="/Office & Equitmen" class="dropdown-item"> {{ GoogleTranslate::trans('Office & Equitmen',\App::getLocale()) }}</a>
+                                <a href="/service & installation system" class="dropdown-item"> {{ GoogleTranslate::trans('Service & Installation System',\App::getLocale()) }}</a>
                             </ul>
                         </div>
                     </div>
-                    <a class="btn btn-link" href="/contact">Contact Us</a>
+                    <a class="btn btn-link" href="/contact"> {{ GoogleTranslate::trans('Contact Us',\App::getLocale()) }}</a>
                     <br><br>
-                    <h6 class="text-light">Phone Sales Admin </h6>
+                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Sales Admin',\App::getLocale()) }}</h6>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0896-6202-7907</a></p>
-                    <h6 class="text-light">Phone Engineering </h6>
+                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Engineering',\App::getLocale()) }}</h6>
                     <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0817-6761-112 (ARI)</a></p>
                 </div>
 
@@ -185,21 +180,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                         Copyright 2023 &copy; PT. BHIRAWA METAL MANDIRI &#8211; 
+                        {{ GoogleTranslate::trans('Copyright',\App::getLocale()) }} 2023 &copy; PT. BHIRAWA METAL MANDIRI &#8211; 
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    {{-- <a href="#" class="btn-lg-square whatsapp" data-bs-toggle="modal" data-bs-target="#myModal">
-        <img src="template/img/icon/wa.png" alt="" class="wa-img">
-    </a> --}}
-
-    {{-- <a href="https://wa.me/+62818880390/" class="btn-lg-square whatsapp2" target="_blank">
-        <img src="template/img/icon/wa.png" alt="" class="wa-img2">
-        <span>Need Help? <b>Chat With Us</b></span>
-    </a> --}}
      
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
@@ -220,6 +206,15 @@
 
     {{-- <script src="{{ asset('template2/js/main2.js') }}"></script> --}}
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $('.changeLanguage').change(function(event){
+            var url = "{{ route('google.translate.change') }}";
+            window.location.href = url+"?lang="+$(this).val()
+        })
+    </script>
 
 </body>
 

@@ -1,7 +1,7 @@
 @extends('template/main')
 
 @section('Services')
-<a href="service" class="nav-item nav-link active">Services</a>
+<a href="service" class="nav-item nav-link active">{{ GoogleTranslate::trans('Service',\App::getLocale()) }}</a>
 @endsection
 
 <style>
@@ -41,7 +41,7 @@
     <div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h4 class="display-6 animated slideInDown mb-4 text-blue">
-                Services
+                {{ GoogleTranslate::trans('Service',\App::getLocale()) }}
             </h4>
         </div>
     </div>
@@ -49,13 +49,13 @@
     <div class="container-xxl py-5">
       <div class="container px-lg-5">
           <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-            <h2 class="mb-3">Services <span class="text-primary">Our Products</span></h2>
+            <h2 class="mb-3">{{ GoogleTranslate::trans('Service',\App::getLocale()) }} <span class="text-primary"> {{ GoogleTranslate::trans('Our Products',\App::getLocale()) }}</span></h2>
           </div>
           <!-- ...Other content... -->
           <div class="row g-12">
               <div class="col-sm-5 wow fadeIn arrow" data-wow-delay="0.1s">
                   <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                    <h4 class="text-center">Cuting Proccesing</h4>
+                    <h4 class="text-center">{{ GoogleTranslate::trans('Cuting Proccesing',\App::getLocale()) }}</h4>
                       <div class="carousel-inner">
                           <!-- Slide 1 -->
                           <div class="carousel-item active">
@@ -85,7 +85,7 @@
                         
                                         <!-- Add a play button to start the modal -->
                                         <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#videoModal">
-                                            Play Video
+                                            {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                         </button>
                                     </div>
                                 </div>
@@ -126,7 +126,7 @@
               </div>              
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="punch" class="carousel slide" data-ride="carousel">
-                  <h4 class="text-center">Punch & CNC Proccesing</h4>
+                  <h4 class="text-center"> {{ GoogleTranslate::trans('Punch & CNC Proccesing',\App::getLocale()) }}</h4>
                     <div class="carousel-inner">
                         <!-- Slide 1 -->
                         <div class="carousel-item active">
@@ -156,7 +156,7 @@
                       
                                       <!-- Add a play button to start the modal -->
                                       <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#punch1">
-                                          Play Video
+                                        {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                       </button>
                                   </div>
                               </div>
@@ -184,7 +184,7 @@
                       
                                       <!-- Add a play button to start the modal -->
                                       <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#punch2">
-                                          Play Video
+                                        {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                       </button>
                                   </div>
                               </div>
@@ -222,7 +222,7 @@
               </div>
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="las" class="carousel slide" data-ride="carousel">
-                  <h4 class="text-center">Welding Proccesing</h4>
+                  <h4 class="text-center">{{ GoogleTranslate::trans('Welding Proccesing',\App::getLocale()) }}</h4>
                     <div class="carousel-inner">
                         <!-- Slide 1 -->
                         <div class="carousel-item active">
@@ -252,7 +252,7 @@
                       
                                       <!-- Add a play button to start the modal -->
                                       <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#ladvd">
-                                          Play Video
+                                        {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                       </button>
                                   </div>
                               </div>
@@ -295,7 +295,7 @@
               </div> 
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="tekuk" class="carousel slide" data-ride="carousel">
-                  <h4 class="text-center">Bending Proccesing</h4>
+                  <h4 class="text-center">{{ GoogleTranslate::trans('Bending Proccesing',\App::getLocale()) }}</h4>
                     <div class="carousel-inner">
                         <!-- Slide 1 -->
                         <div class="carousel-item active">
@@ -343,7 +343,7 @@
                       
                                       <!-- Add a play button to start the modal -->
                                       <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#menekuk">
-                                          Play Video
+                                        {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                       </button>
                                   </div>
                               </div>
@@ -382,7 +382,7 @@
               <div class="col-sm-5 wow fadeIn justify-content-center" data-wow-delay="0.1s">
                 <div id="finis" class="carousel slide" data-ride="carousel">
                   
-                  <h4 class="text-center">Finishing</h4>
+                  <h4 class="text-center">{{ GoogleTranslate::trans('Finishing',\App::getLocale()) }}</h4>
                     <div class="carousel-inner">
                         <!-- Slide 1 -->
                         <div class="carousel-item active">
@@ -411,7 +411,7 @@
                                     </div>
                                      <!-- Add a play button to start the modal -->
                                      <button type="button" class="btn btn-primary position-absolute top-50 start-50 translate-middle" data-toggle="modal" data-target="#finising">
-                                      Play Video
+                                        {{ GoogleTranslate::trans('Play Video',\App::getLocale()) }}
                                   </button>
                                 </div>
                             </div>
@@ -452,7 +452,7 @@
               </div> 
               <div class="col-sm-5 wow fadeIn" data-wow-delay="0.1s">
                 <div id="" class="carousel slide" data-ride="carousel">
-                  <h4 class="text-center">Assembling Processing</h4>
+                  <h4 class="text-center">{{ GoogleTranslate::trans('Assembling Proccesing',\App::getLocale()) }}</h4>
                   <div class="row g-6">
                     <div class="col-lg-12 col-md-6">
                       <div class="text-center p-4 center-image d-flex align-items-center arrow-line-container">

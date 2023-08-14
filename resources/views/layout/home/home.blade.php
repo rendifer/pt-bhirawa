@@ -1,7 +1,7 @@
 @extends('template/main')
 
 @section('home')
-    <a href="/" class="nav-item nav-link active">Home</a>
+    <a href="/" class="nav-item nav-link active">{{ GoogleTranslate::trans('Home',\App::getLocale()) }}</a>
 @endsection
 
 <style>
@@ -57,7 +57,7 @@
                             <div class="row">
                                 <div class="col-12 col-lg-12 text-center ">
                                     <h1 class="display-3 text-dark animated slideInDown ptbhirawa text-white">PT. BHIRAWA METAL MANDIRI</h1>
-                                    <a href="#details" class="btn btn-primary py-3 px-5 more">More Details</a>
+                                    <a href="#details" class="btn btn-primary py-3 px-5 more">{{ GoogleTranslate::trans('More Details',\App::getLocale()) }}</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="Industrial" class="btn btn-primary text-white">More</a>
+                                        <a href="Industrial" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -100,7 +100,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/oil and gas" class="btn btn-primary text-white">More</a>
+                                        <a href="/oil and gas" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Telecominication" class="btn btn-primary text-white">More</a>
+                                        <a href="/Telecominication" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -126,7 +126,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/Building & Infrastucture" class="btn btn-primary text-white">More</a>
+                                        <a href="/Building & Infrastucture" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@
                                     <br>
 
                                     <div class="col-12 mt-3">
-                                        <a href="/electrical utility" class="btn btn-primary text-white">More</a>
+                                        <a href="/electrical utility" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +151,7 @@
                                     <h5 class="mb-0">Office & Equitmen</h5>
                                     <br>
                                     <div class="col-12 mt-3">
-                                        <a href="/Office & Equitmen" class="btn btn-primary text-white">More</a>
+                                        <a href="/Office & Equitmen" class="btn btn-primary text-white">{{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@
                         Engineering yang profesional, Proses fabrikasi lembaran logam presisi sesuai spesifikasi; permesinan handal; Finishing dan Assembling yang berkualitas serta Quality Control yang ketat sesuai pengalaman kami dalam industri metalsheet guna mendukung dan memberikan kepuasan kepada para Pelanggan.
                     </p>
                     <div class="col-12">
-                        <a href="/about" class="btn btn-primary text-white">View More</a>
+                        <a href="/about" class="btn btn-primary text-white">View {{ GoogleTranslate::trans('More',\App::getLocale()) }}</a>
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn bg-blue" data-wow-delay="0.5s">
@@ -186,7 +186,7 @@
             <div class="row hazmat">
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                     <h1 class="text-dark">PT. BHIRAWA METAL MANDIRI</h1>
-                    <h1 class="text-dark"> Enclousure & MetalSheet Manufacturer </h1>
+                    <h1 class="text-dark"> {{ GoogleTranslate::trans('Enclousure & MetalSheet Manufacturer',\App::getLocale()) }}</h1>
                     <p class="text-dark">untuk mendukung kebutuhan anda,kami dengan senang hati akan memberikan harga yang kompetitive dari waktu delivery yag terbaik.silahkan kirimkan kebutuhan anda kepada kami.</p>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
@@ -198,10 +198,10 @@
                     <form id="myForm" method="post" action="{{ route('contactUs') }}" >
                         @csrf
                         <div class="row g-3">
-                            <div class="col-md-6">
+                            <div class="col-md-12">
                                 <div class="form-floating">
                                     <input type="text" class="form-control" id="nama" placeholder="Your Name" name="nama">
-                                    <label for="name">Your Name</label>
+                                    <label for="name">{{ GoogleTranslate::trans('Your Name',\App::getLocale()) }}</label>
                                     @if ($errors->has('nama'))
                                         <span class="text-dark">{{ $errors->first('nama') }}</span>
                                     @endif
@@ -210,7 +210,7 @@
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <input type="email" class="form-control" id="email" placeholder="Your Email" name="email">
-                                    <label for="email">Your Email</label>
+                                    <label for="email">{{ GoogleTranslate::trans('Your Email ',\App::getLocale()) }}</label>
                                     @if ($errors->has('email'))
                                         <span class="text-dark">{{ $errors->first('email') }}</span>
                                     @endif
@@ -218,17 +218,8 @@
                             </div>
                             <div class="col-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
-                                    <label for="subject">Subject</label>
-                                    @if ($errors->has('subject'))
-                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
-                                    @endif
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="form-floating">
                                     <input type="number" class="form-control" id="notel" placeholder="Your Phone" name="notel">
-                                    <label for="notel">Your Phone</label>
+                                    <label for="notel">{{ GoogleTranslate::trans('Your Phone ',\App::getLocale()) }}</label>
                                     @if ($errors->has('notel'))
                                         <span class="text-dark">{{ $errors->first('notel') }}</span>
                                     @endif
@@ -236,15 +227,24 @@
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+                                    <label for="subject"> {{ GoogleTranslate::trans('Subject',\App::getLocale()) }}</label>
+                                    @if ($errors->has('subject'))
+                                        <span class="text-dark">{{ $errors->first('subject') }}</span>
+                                    @endif
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
                                     <textarea class="form-control" placeholder="Leave a message here" id="message" name="message" style="height: 100px"></textarea>
-                                    <label for="message">Message</label>
+                                    <label for="message"> {{ GoogleTranslate::trans('Message',\App::getLocale()) }}</label>
                                     @if ($errors->has('message'))
                                         <span class="text-dark">{{ $errors->first('message') }}</span>
                                     @endif
                                 </div>
                             </div>
                             <div class="col-12">
-                                <button class="btn btn-primary" type="submit">Submit</button>
+                                <button class="btn btn-primary" type="submit"> {{ GoogleTranslate::trans('Submit',\App::getLocale()) }}</button>
                             </div>
                         </div>
                     </form>
@@ -257,7 +257,7 @@
         <div class="container">
             <div class="row hazmat">
                 <div class="col-lg-12 wow fadeIn text-center mb-3" data-wow-delay="0.3s">
-                    <h2 class="text-dark">Our Clients</h2>
+                    <h2 class="text-dark"> {{ GoogleTranslate::trans('Our Clients',\App::getLocale()) }}</h2>
                     <h2 class="text-primary">PT. BHIRAWA METAL MANDIRI</h2>
                 </div>
                 <div class="col-lg-12 wow fadeIn text-center" data-wow-delay="0.3s">
@@ -285,7 +285,7 @@
 
     <div class="container-fluid wow fadeIn" data-wow-delay="0.1s">
         <div class="row">
-        <h1 class="text-black text-center mb-5">Find Us</h1>
+        <h1 class="text-black text-center mb-5"> {{ GoogleTranslate::trans('Find Us',\App::getLocale()) }}</h1>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                 <div class="overflow-hidden h-100">
                     <iframe class="position-relative w-100 h-100"
@@ -326,5 +326,4 @@
         // Mulai animasi marquee setelah semua gambar terload
         window.onload = startMarquee;
     </script>
-    
 @endsection
