@@ -43,7 +43,9 @@
             background-size: cover;
             background-repeat: no-repeat;
         }
-
+        .kosong{
+            margin-top: -0%;
+        }
     </style>
 </head>
 
@@ -128,29 +130,22 @@
                     </div> -->
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="text-light mb-4">{{ GoogleTranslate::trans('Address',\App::getLocale()) }}</h5>
+                    <h5 class="text-light mb-4"><u> {{ GoogleTranslate::trans('Address',\App::getLocale()) }} </u></h5>
                     <h6 class="text-light">{{ GoogleTranslate::trans('Office',\App::getLocale()) }}</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>Perumahan Taman Royal 1,Cluster Cendana. Jl.Cendana III No.02 Tanah Tinggi Tangerang </p>                      
-                        <p><i class="fa-brands fa-whatsapp me-3"></i>(021- 5571- 9624)</p>
+                    <p><i class="fa-solid fa-phone me-3"></i><a href="tel:+622155719624" class="text-light">(021- 5571- 9624) </a></p>
                     <h6 class="text-light">{{ GoogleTranslate::trans('Factory',\App::getLocale()) }}</h6>
                     <p><i class="fa fa-map-marker-alt me-3"></i>kawasan industri Tigaraksa Sentosa Jl.Raya Kutruk,Kecamatan Jambe . Kabupaten Tangerang </p>
                     <h6 class ="text-light">{{ GoogleTranslate::trans('Operational Hour',\App::getLocale()) }}</h6>
                     <p><i class="fa-solid fa-calendar-days me-3"></i>Senin - Jum'at</p>
                     <p><i class="fa-sharp fa-regular fa-clock me-3"></i>08.00 WIB - 17.00 WIB</p>
-                    <h6 class="text-light">{{ GoogleTranslate::trans('Phone Sales',\App::getLocale()) }} </h6>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437"h6 class ="text-light">0821-1478-0437 (DENI)</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038"h6 class ="text-light">0856-9241-4038 (DHONY)</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636"h6 class ="text-light">0878-8508-1636 (BASONI)</a></p>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741"h6 class ="text-light">0815-9920-741 (MASFAR)</a></p>
-                    <h6 class="text-light">Email</h6>
-                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com"h6 class ="text-light">sales@ptbhima.com</a></p>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <h5 class="text-light mb-4">{{ GoogleTranslate::trans('Quick Links',\App::getLocale()) }}</h5>
+                    <h5 class="text-light mb-4"><u> {{ GoogleTranslate::trans('Quick Links',\App::getLocale()) }} </u></h5>
                     <a class="btn btn-link" href="/">{{ GoogleTranslate::trans('Home',\App::getLocale()) }}</a>
                     <a class="btn btn-link" href="/about"> {{ GoogleTranslate::trans('About Us',\App::getLocale()) }}</a>
-                    <a href="Carrier" class="btn btn-link"> {{ GoogleTranslate::trans('Carrier',\App::getLocale()) }}</a>
-                    <a href="services" class="btn btn-link"> {{ GoogleTranslate::trans('Services',\App::getLocale()) }}</a>
+                    <a href="Carrier" class="btn btn-link"> {{ GoogleTranslate::trans('Career',\App::getLocale()) }}</a>
+                    <a href="services" class="btn btn-link"> {{ GoogleTranslate::trans('Service',\App::getLocale()) }}</a>
                     <a href="project-reference" class="btn btn-link"> {{ GoogleTranslate::trans('Project Reference',\App::getLocale()) }}</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="btn btn-link nav-link" data-bs-toggle="dropdown"> {{ GoogleTranslate::trans('Product',\App::getLocale()) }}</a>
@@ -167,13 +162,25 @@
                         </div>
                     </div>
                     <a class="btn btn-link" href="/contact"> {{ GoogleTranslate::trans('Contact Us',\App::getLocale()) }}</a>
-                    <br><br>
-                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Sales Admin',\App::getLocale()) }}</h6>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0896-6202-7907</a></p>
-                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Engineering',\App::getLocale()) }}</h6>
-                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907"h6 class ="text-light">0817-6761-112 (ARI)</a></p>
                 </div>
+                <div class="col-lg-4 col-md-6">
 
+                </div>
+                <div class="col-lg-4 col-md-6 kosong">
+                    <h6 class="text-light">{{ GoogleTranslate::trans('Phone Sales',\App::getLocale()) }} </h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6282114780437" class ="text-light">0821-1478-0437 (DENI)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6285692414038" class ="text-light">0856-9241-4038 (DHONY)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6287885081636" class ="text-light">0878-8508-1636 (BASONI)</a></p>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+628159920741" class ="text-light">0815-9920-741 (MASFAR)</a></p>
+                    <h6 class="text-light">Email</h6>
+                    <p><i class="fa fa-envelope me-3"></i><a href="mailto:sales@ptbhima.com" class ="text-light" >sales@ptbhima.com</a></p>
+                </div>
+                <div class="col-lg-4 col-md-6 kosong">
+                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Sales Admin',\App::getLocale()) }}</h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907" class ="text-light">0896-6202-7907</a></p>
+                    <h6 class="text-light"> {{ GoogleTranslate::trans('Phone Engineering',\App::getLocale()) }}</h6>
+                    <p><i class="fa-brands fa-whatsapp me-3"></i><a href="https://wa.me/+6289662027907" class ="text-light">0817-6761-112 (ARI)</a></p>
+                </div>
             </div>
         </div>
         <div class="container-fluid copyright appointment text-white">

@@ -79,42 +79,42 @@
                         </div>
                     </div>
                 </div>
-                  <div class="col-sm-4 wow fadeIn" data-wow-delay="0.1s">
+                <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="p-1">
                         <div class="d-flex flex-column justify-content-center text-center team-item py-4 px-3">
-                            <img class="align-self-center mb-3 py-3 px-3" style="width: 100%; height: 100%;" src="template/img/building/Picture1.png" alt="">
-                            <h5 class="mb-0">OUTDOOR MARSHALLING KIOS IP 54</h5>
+                            <img class="align-self-center mb-3 py-3 px-3" style="width: 60%; height: 100%;" src="template/img/building/Picture1.png" alt="">
+                            <h5 class="mb-0 text-primary">OUTDOOR MARSHALLING KIOS IP 54</h5>
                         </div>
                     </div>
                 </div>
-    <div class="col-md-6">
-        <div class="owl-carousel testimonial-carousel">
-            <div class="testimonial-item position-relative team-item">
-                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/1.png" alt="">
-                <h5 class="text-primary text-center"> MCC</h5>
-            </div>
-            <div class="testimonial-item position-relative team-item">
-                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/2.png" alt="">
-                <h5 class="text-primary text-center">MCC</h5>
-            </div>
-            <div class="testimonial-item position-relative team-item">
-                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/3.png" alt="">
-                <h5 class="text-primary text-center">MCC</h5>
-            </div>
-            <div class="testimonial-item position-relative team-item">
-                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/4.png" alt="">
-                <h5 class="text-primary text-center">MCC</h5>
-            </div>
-            <div class="testimonial-item position-relative team-item">
-                <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/5.png" alt="">
-                <h5 class="text-primary text-center">MCC</h5>
+                <div class="col-md-6">
+                    <div class="owl-carousel testimonial-carousel">
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/1.png" alt="">
+                            <h5 class="text-primary text-center"> MCC</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/2.png" alt="">
+                            <h5 class="text-primary text-center">MCC</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/3.png" alt="">
+                            <h5 class="text-primary text-center">MCC</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/4.png" alt="">
+                            <h5 class="text-primary text-center">MCC</h5>
+                        </div>
+                        <div class="testimonial-item position-relative team-item">
+                            <img class="align-self-center py-3 px-3" style="width: 60%; height: 60%;" src="template/img/electrical/5.png" alt="">
+                            <h5 class="text-primary text-center">MCC</h5>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+        <div class="text-center m-5">
+            <a href="/contact" class="btn btn-primary">{{ GoogleTranslate::trans('more detail product',\App::getLocale()) }}</a>
+        </div>
     </div>
-</div>
-</div>
-<div class="text-center m-5">
-    <a href="/contact" class="btn btn-primary">{{ GoogleTranslate::trans('more detail product',\App::getLocale()) }}</a>
-</div>
-</div>
 @endsection
