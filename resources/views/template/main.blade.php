@@ -98,20 +98,21 @@
                     ><span>katalog product</span>
                     <i class="fas fa-download"></i>
                 </a> --}}
-                <div class="">
-                    <select class="form-select changeLanguage">
-                        <option value="en" {{ session()->get('locale') == 'en' ? 'selected' : ''}}>
-                            <span class="flag-icon" style="background-image: url('template/img/en.jpg');" alt="English Flag"></span>
-                            <i class="fa-sharp fa-solid fa-flag"></i>
-                            English
-                        </option>
-                        <option value="in" {{ session()->get('locale') == 'in' ? 'selected' : ''}}>
-                            <span class="flag-icon" style="background-image: url('template/img/in.png');" alt="Indonesian Flag"></span>
-                            Indonesia
-                        </option>
-                    </select>               
-                </div>                
             </div>
+        </div>
+        <div class="me-1">
+            <i class="fa-sharp fa-solid fa-flag"></i>
+            <span>Pilih Bahasa</span>
+        </div>
+        <div class="custom-select-wrapper">
+            <select id="language-select" class="form-select changeLanguage {{ session()->get('locale') == 'en' ? 'en' : 'in' }}">
+                <option value="en" {{ session()->get('locale') == 'en' ? 'selected' : ''}}>
+                    En
+                </option>
+                <option value="in" {{ session()->get('locale') == 'in' ? 'selected' : ''}}>
+                    In
+                </option>
+            </select>
         </div>
     </nav>
 
@@ -197,23 +198,22 @@
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="{{ asset('template/lib/wow/wow.min.js') }}"></script>
     <script src="{{ asset('template/lib/easing/easing.min.js') }}"></script>
     <script src="{{ asset('template/lib/waypoints/waypoints.min.js') }}"></script>
     <script src="{{ asset('template/lib/owlcarousel/owl.carousel.min.js') }}"></script>
     <script src="{{ asset('template/lib/counterup/counterup.min.js') }}"></script>
     <script src="{{ asset('template/js/main.js') }}"></script>
-
+    
     <script src="{{ asset('template2/lib/wow2/wow.min.js') }}"></script>
     <script src="{{ asset('template2/lib/easing2/easing.min.js') }}"></script>
     <script src="{{ asset('template2/lib/waypoints2/waypoints.min.js') }}"></script>
     <script src="{{ asset('template2/lib/counterup2/counterup.min.js') }}"></script>
     <script src="{{ asset('template2/lib/owlcarousel2/owl.carousel.min.js') }}"></script>
-
+    
     {{-- <script src="{{ asset('template2/js/main2.js') }}"></script> --}}
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
+    
     <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
